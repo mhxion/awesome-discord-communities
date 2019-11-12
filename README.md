@@ -59,7 +59,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/computer_science.png" />
 
-[__Computer Science__](https://discordapp.com/invite/eF3Wjsd) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/)\
+[__Computer Science__](https://discordapp.com/invite/eF3Wjsd) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/)\
 Notable Channels: `#computer-science`, `#resources`, `#algorithms-and-data-structures`,`#theory-of-computation`, `#information-and-coding-theory`, `#cryptography`, `#artificial-intelligence` \
 Language: English
 
@@ -75,7 +75,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/physics.png" />
 
-[__Physics__](https://discordapp.com/invite/N5jVwsg) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/)\
+[__Physics__](https://discordapp.com/invite/N5jVwsg) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/)\
 Notable Channels: `#questions`, `#undergrad-physics`, `#graduate-physics` `#mathematical-physics`, `#astronomy-and-cosmology`, `#computational-physics`, `#engineering`, `#challenges` \
 Language: English
 
