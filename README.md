@@ -52,3 +52,34 @@ Language: English
 [__CP Community__](https://discordapp.com/invite/algorithms) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://codeforces.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Codeforces) \
 Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#ioi`,`#icpc`, `#math`, `#errichto-yt`, `#vplanet` \
 Language: English
+
+<br>
+
+## Art of Computer Science
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/computer_science.png" />
+
+[__Computer Science__](https://discordapp.com/invite/eF3Wjsd) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/)\
+Notable Channels: `#computer-science`, `#programming`, `#resources`, `#algorithms-and-data-structures`,`#theory-of-computation`, `#information-and-coding-theory`, `#cryptography`, `#artificial-intelligence`, `#cybersecurity` \
+Language: English
+
+### Mathematics
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/mathematics.png" />
+
+[__Mathematics__](https://discordapp.com/invite/BacbVax) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/)\
+Notable Channels: `#prealg-algebra`, `#calculus`, `#linear-algebra`,`#computing-software`, `#probability-statistics`, `#discrete-math`, `#abstract-algebra`, `#questions`, **`so much more`** \
+Language: English
+
+### Physics
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/physics.png" />
+
+[__Physics__](https://discordapp.com/invite/N5jVwsg) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/)\
+Notable Channels: `#physics`, `#questions`, `#undergrad-physics`, `#graduate-physics` `#mathematical-physics`, `#astronomy-and-cosmology`, `#computational-physics`, `#engineering`, `#challenges` \
+Language: English
+
+### Various Sciences
+
+
+
