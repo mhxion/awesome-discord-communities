@@ -53,8 +53,6 @@ Language: English
 Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#ioi`,`#icpc`, `#math`, `#errichto-yt`, `#vplanet` \
 Language: English
 
-<br>
-
 ## Art of Computer Science
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/computer_science.png" />
@@ -79,7 +77,22 @@ Language: English
 Notable Channels: `#questions`, `#undergrad-physics`, `#graduate-physics` `#mathematical-physics`, `#astronomy-and-cosmology`, `#computational-physics`, `#engineering`, `#challenges` \
 Language: English
 
-### Various Sciences
+### Other Sciences
 
+<img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/chemistry.png" />|
+<img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/biological_sciences.png" />|
+<img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/climate_science.png" />|
+|----------------------|-------------------|---------------------|
+|[__Biological<br>Sciences__](https://discordapp.com/invite/QwSdffq)<br>[<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/) | [__Chemistry__](https://discordapp.com/invite/eexdsFw)<br>[<img align="center" height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/) | [__Climate<br>Science__](https://discordapp.com/invite/YXvuN8X)<br><img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png"> |
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homework_help.png" />
 
+[__Homework Help__](https://discordapp.com/invite/YudDZtb) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](http://homework-help.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/spjy/hwh-bot) \
+Notable Channels: `#challenges`, `#math`, `#post-calculus` `#biology`, `#chemistry`, `#physics`, `#english`, `#social-science`, `#history`, `#computer-science`, `#studio-art`, **`so much more`** \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/science_and_technology.png" />
+
+[__Science and Technology__](https://discordapp.com/invite/science) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/SciTechCommunity) \
+Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#environment`, `#mathematics`, `#geometry`, `#calculus`, `#physics`, `#psychology`, `#technology`, **`so much more`** \
+Language: English
