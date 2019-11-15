@@ -39,11 +39,11 @@ Language: English
 Notable Channels: `#projects`, `#web`, `#c_cpp`, `#c_sharp`,`#python`, `#jvm`, `#other`, `#pc_zone`, `#mobile_zone` \
 Language: English, Polish
 
-<!-- <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.png" />
 
 [__Code::Together__](https://discordapp.com/invite/HPK3hB6) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://together.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/codedtogether) \
-Notable Channels: `#recruitment-hiring`, `#java`, `#python`, `#c_langs`,`#javascript`, `#lua`, `#web-dev`, `#php`, `#other-support` \
-Language: English --> <-- requires fix, proper channel names.
+Notable Channels: `#looking-for-dev`, `#challenges`, `#python`, `#javascript`,`#c-family`, `#java`, `#html-css-web-js` `#dotnet`, `#databases`, `#hosting` \
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programmers_palace.png" />
 
