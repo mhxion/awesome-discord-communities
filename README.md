@@ -140,9 +140,8 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/home_automation.png" />
 
 [__/r/Home Automation__](https://discordapp.com/invite/homeautomation) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homeautomation/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/dgparker/rosie-the-bot) \
-Notable Channels: `#suggestions`, `#smartspeakers`, `#smarthub`, `#lighting`, `#security`, `#iot-dev` \
+Notable Channels: `#suggestions`, `#smartspeakers`, `#smarthub`, `#lighting`, `#security`, `#iot-dev`, `#buy-sell-trade` \
 Language: English   
-<br>
 
 ### Hardware
 
