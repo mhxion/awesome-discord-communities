@@ -148,7 +148,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pc_master_race.png" />
 
 [__PC MASTER RACE__](https://discordapp.com/invite/pcmr) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/pcmasterrace/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/izy521/Sera-PCMR) \
-Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os` \
+Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
 Language: English   
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ltt_official.png" />
@@ -160,11 +160,11 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/monitor_enthusiasts.png" />
 
 [__Monitor Enthusiasts__](https://discordapp.com/invite/MZwg5cQ) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/Monitors/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/DWF967/MonitorBot) \
-Notable Channels: `#monitors-discussion`, `#ultrawide-discussion`, `#mounts-and-desks`, `#help` \
+Notable Channels: `#monitors-discussion`, `#ultrawide-discussion`, `#mounts-and-desks`, `#help`, `#setups-and-battlestations` \
 Language: English   
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/electronics_repair_school.png" />
 
 [__Electronics Repair School__](https://discordapp.com/invite/6zQWaTN) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.youtube.com/channel/UCooKQlg-HZ0PFAPc4Ymg3RA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/izy521/Sera-PCMR) \
-Notable Channels: `#projects`, `#tools-and-parts`, `#automative`, `#laptops`, `#phones`, `#tablets`, `#consoles`, `#tv-monitor`, `#power-supply`, `#batteries`, `#diy-arduino-pi` \
+Notable Channels: `#projects`, `#tools-and-parts`, `#automative`, `#laptops`, `#phones`, `#tablets`, `#consoles`, `#tv-monitor`, `#batteries`, `#diy-arduino-pi` \
 Language: English   
