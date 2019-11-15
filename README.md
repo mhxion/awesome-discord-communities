@@ -39,11 +39,11 @@ Language: English
 Notable Channels: `#projects`, `#web`, `#c_cpp`, `#c_sharp`,`#python`, `#jvm`, `#other`, `#pc_zone`, `#mobile_zone` \
 Language: English, Polish
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.png" />
+<!-- <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.png" />
 
 [__Code::Together__](https://discordapp.com/invite/HPK3hB6) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://together.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/codedtogether) \
 Notable Channels: `#recruitment-hiring`, `#java`, `#python`, `#c_langs`,`#javascript`, `#lua`, `#web-dev`, `#php`, `#other-support` \
-Language: English
+Language: English --> <-- requires fix, proper channel names.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programmers_palace.png" />
 
@@ -113,7 +113,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arduino.png" />
 
-[__Arduino__](https://discord.gg/jQJFwW7) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://arduino.cc/) \
+[__Arduino__](https://discord.gg/jQJFwW7) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://arduino.cc/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/BluLightShow/arduino-bot) \
 Notable Channels: `#arduino-discussion`, `#product-help`, `#coding-help`, `#pcb-help`,`#adafruit-help`, `#show-off-your-ideas`, `#project-ideas` \
 Language: English
 
