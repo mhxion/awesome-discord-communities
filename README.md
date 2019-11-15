@@ -39,6 +39,12 @@ Language: English
 Notable Channels: `#projects`, `#web`, `#c_cpp`, `#c_sharp`,`#python`, `#jvm`, `#other`, `#pc_zone`, `#mobile_zone` \
 Language: English, Polish
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.png" />
+
+[__Code::Together__](https://discordapp.com/invite/HPK3hB6) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://together.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/codedtogether) \
+Notable Channels: `#recruitment-hiring`, `#java`, `#python`, `#c_langs`,`#javascript`, `#lua`, `#web-dev`, `#php`, `#other-support` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programmers_palace.png" />
 
 [__Programmers Palace__](https://discordapp.com/invite/48Zxcpy) \
@@ -96,3 +102,43 @@ Language: English
 [__Science and Technology__](https://discordapp.com/invite/science) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/SciTechCommunity) \
 Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#environment`, `#mathematics`, `#geometry`, `#calculus`, `#physics`, `#psychology`, `#technology`, **`so much more`** \
 Language: English
+
+## Electricals (DIY)
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/electrical_engineering.png" />
+
+[__Electrical Engineering__](https://discordapp.com/invite/W8v5EK2) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/)\
+Notable Channels: `#electrical-engineering`, `#questions`, `#computer-engineering` `#electronics-engineering`, `#power-engineering`, `#signal-controls`, `#mechanical-engineering`, `#robotics` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arduino.png" />
+
+[__Arduino__](https://discord.gg/jQJFwW7) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://arduino.cc/) \
+Notable Channels: `#arduino-discussion`, `#product-help`, `#coding-help`, `#pcb-help`,`#adafruit-help`, `#show-off-your-ideas`, `#project-ideas` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/raspberry_pi.png" />
+
+[__Raspberry Pi__](https://discordapp.com/invite/bVVbSqQ) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
+Notable Channels: `#tech-talk`, `#i-need-help`, `#python-dev`, `#projects-chat`,`#project-showcase`, `#show-off-your-ideas`, `#project-ideas` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adafruit.png" />
+
+[__Adafruit__](https://discordapp.com/invite/5FBsBHU) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.adafruit.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/adafruit) \
+Notable Channels: `#help-with-circuitpython`, `#help-with-arduino`, `#help-with-3dprinting`, `#help-with-radio`,`#help-with-raspberry-pi`, `#help-with-wearables`, `#help-with-robotics`, `#iot` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/diy_tech.png" />
+
+[__DIY Tech__](https://discordapp.com/invite/diytech) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/KazWolfe/HuskyBot) \
+Notable Channels: `#programming`, `#hardware-help`, `#software-help`,`#code-review`, `#project-showcase`, `#audio-tech`, `#retro-tech` \
+Language: English
+
+### Internet of Things
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/home_automation.png" />
+
+[__/r/Home Automation__](https://discordapp.com/invite/homeautomation) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homeautomation/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/dgparker/rosie-the-bot) \
+Notable Channels: `#suggestions`, `#smartspeakers`, `#smarthub`, `#lighting`, `#security`, `#iot-dev` \
+Language: English   
