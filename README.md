@@ -3,6 +3,10 @@ A curated list of awesome discord servers for hackers, developers, mathematician
 
 ## Programming in General
 
+Some Discord counterpart communities of StackOverflow.
+
+### Support Servers
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_programmers_hangout.png" />
 
 [__The Programmer's Hangout__](https://discordapp.com/invite/programming) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://theprogrammershangout.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/the-programmers-hangout) \
@@ -61,6 +65,10 @@ Language: English
 
 ## Art of Computer Science
 
+All discussions about the concepts behind modern, and classical computing and its relatives.
+
+### Computer Science
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/computer_science.png" />
 
 [__Computer Science__](https://discordapp.com/invite/eF3Wjsd) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/)\
@@ -103,13 +111,19 @@ Language: English
 Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#environment`, `#mathematics`, `#geometry`, `#calculus`, `#physics`, `#psychology`, `#technology`, **`so much more`** \
 Language: English
 
-## Electricals (DIY)
+## Electricals
+
+They all roam inside microprocessors.
+
+### Engineering
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/electrical_engineering.png" />
 
 [__Electrical Engineering__](https://discordapp.com/invite/W8v5EK2) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/)\
 Notable Channels: `#electrical-engineering`, `#questions`, `#computer-engineering` `#electronics-engineering`, `#power-engineering`, `#signal-controls`, `#mechanical-engineering`, `#robotics` \
 Language: English
+
+### Microprocessors and Microcontrollers
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arduino.png" />
 
@@ -122,6 +136,8 @@ Language: English
 [__Raspberry Pi__](https://discordapp.com/invite/bVVbSqQ) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
 Notable Channels: `#tech-talk`, `#i-need-help`, `#python-dev`, `#projects-chat`,`#project-showcase`, `#show-off-your-ideas`, `#project-ideas` \
 Language: English
+
+### DIY
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adafruit.png" />
 
