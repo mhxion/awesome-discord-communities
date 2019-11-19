@@ -202,3 +202,23 @@ Language: English
 [__Low-Level Programming__](https://discordapp.com/invite/5ssDFZS) \
 Notable Channels: `#rust`, `#assembly`, `#c-lang`, `#c-cpp`, `#wasm`, `#compilers`, `#embedded`, `#game-dev`, `#hardware` `#linux`, `#os-development` \
 Language: English   
+
+### C and C++
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_c_and_c_plus_plus.png" />
+
+[__Together C & C++__](https://discordapp.com/invite/vnyVmAE) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Headline/discord-compiler-bot) \
+Notable Channels: `#c_general`, `#cpp_general`, `#assembly`, `#code_review`, `#gamedev`, `#graphics`, `#audio`, `#programming_environment` `#collaboration`, `#unix`, `#other_langs_help`, `#math` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_plus_plus_help.png" />
+
+[__C++ Help__](https://discordapp.com/invite/J5hBe8F) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Eelis/geordi) \
+Notable Channels: `#cpp-questions`, #help-0`, `#help-1`, `#help-2`, `#advanced`, `#gamedev`, `#project-showcase` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/include.png" />
+
+[__#include__](https://discord.gg/ZPErMGW) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.includecpp.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/mniip/discord-eval) \
+Notable Channels: `#assembly`, `#c`, `#gpu`, `#audio`, `#build-systems`, `#cpp`, `#embedded`, `#learning`, `#security` `#conferences`, `#tooling`, `#2d-graphics`, `#clion`, `#catch2`, `#qt` \
+Language: English
