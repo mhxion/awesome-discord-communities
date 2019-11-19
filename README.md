@@ -194,7 +194,7 @@ Programming languages used in embedded systems, web frameworks, automation and m
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/functional_programming.png" />
 
 [__Functional Programming__](https://discordapp.com/invite/K6XHBSh) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/haskell/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/mniip/discord-eval) \
-Notable Channels: `#haskell-beginners`, `#tooling`, `#lisp-beginners`, `#clojure`, `#dependent-types-beginners`, `#agda`, `#coq`, `#idris` `#compilers`, `#scala`, `#elm`, `#f-sharp`, `#elixir`, `#purescript` \
+Notable Channels: `#haskell`, `#tooling`, `#lisp-beginners`, `#clojure`, `#dependent-types`, `#agda`, `#coq`, `#idris` `#compilers`, `#scala`, `#elm`, `#f-sharp`, `#elixir`, `#purescript`, `#type-theory` \
 Language: English   
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/low_level_programming.png" />
