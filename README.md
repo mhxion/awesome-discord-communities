@@ -3,7 +3,7 @@ A curated list of awesome discord servers for hackers, developers, mathematician
 
 ## Programming in General
 
-Some Discord counterpart communities of StackOverflow.
+Some Discord counterpart communities to StackOverflow.
 
 ### Support Servers
 
@@ -113,7 +113,7 @@ Language: English
 
 ## Electricals
 
-They all roam inside microprocessors.
+Discussions about the bare-bones circuit boards, microprocessors and prominent hardware.  
 
 ### Engineering
 
@@ -183,4 +183,22 @@ Language: English
 
 [__Electronics Repair School__](https://discordapp.com/invite/6zQWaTN) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.youtube.com/channel/UCooKQlg-HZ0PFAPc4Ymg3RA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/izy521/Sera-PCMR) \
 Notable Channels: `#projects`, `#tools-and-parts`, `#automative`, `#laptops`, `#phones`, `#tablets`, `#consoles`, `#tv-monitor`, `#batteries`, `#diy-arduino-pi` \
+Language: English   
+
+## Programming Languages
+
+Programming languages used in embedded systems, web frameworks, automation and mobile apps.
+
+### Language Paradigms
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/functional_programming.png" />
+
+[__Functional Programming__](https://discordapp.com/invite/K6XHBSh) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/haskell/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/mniip/discord-eval) \
+Notable Channels: `#haskell-beginners`, `#tooling`, `#lisp-beginners`, `#clojure`, `#dependent-types-beginners`, `#agda`, `#coq`, `#idris` `#compilers`, `#scala`, `#elm`, `#f-sharp`, `#elixir`, `#purescript` \
+Language: English   
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/low_level_programming.png" />
+
+[__Low-Level Programming__](https://discordapp.com/invite/5ssDFZS) \
+Notable Channels: `#rust`, `#assembly`, `#c-lang`, `#c-cpp`, `#wasm`, `#compilers`, `#embedded`, `#game-dev`, `#hardware` `#linux`, `#os-development` \
 Language: English   
