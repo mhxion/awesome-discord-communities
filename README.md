@@ -214,11 +214,25 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_plus_plus_help.png" />
 
 [__C++ Help__](https://discordapp.com/invite/J5hBe8F) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Eelis/geordi) \
-Notable Channels: `#cpp-questions`, #help-0`, `#help-1`, `#help-2`, `#advanced`, `#gamedev`, `#project-showcase` \
+Notable Channels: `#cpp-questions`, `#help-0`, `#help-1`, `#help-2`, `#advanced`, `#gamedev`, `#project-showcase` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/include.png" />
 
 [__#include__](https://discord.gg/ZPErMGW) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.includecpp.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/mniip/discord-eval) \
 Notable Channels: `#assembly`, `#c`, `#gpu`, `#audio`, `#build-systems`, `#cpp`, `#embedded`, `#learning`, `#security` `#conferences`, `#tooling`, `#2d-graphics`, `#clion`, `#catch2`, `#qt` \
+Language: English
+
+### C#
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_sharp.png" />
+
+[__C#__](https://discordapp.com/invite/csharp) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](http://discord-csharp.github.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](htthttps://github.com/discord-csharp) \
+Notable Channels: `#general_csharp`, `#beginner_questions`, `#projects`, `#code-review`, `#code-review`, `#web`, `#gui`, `#game-dev`, `#database`, `#architecture-and-tooling`, **`so much more`** \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_sharp.png" />
+
+[__C# Inn__](https://discord.gg/rCMKcUU) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](http://discord-csharp.github.io/) \
+Notable Channels: `#projects`, `#mentors`, `#learning-discussion`, `#questions`, `#architecture`, `#code-review`, `#web`, `#python`, `#ui-ux` \
 Language: English
