@@ -203,12 +203,20 @@ Language: English
 Notable Channels: `#rust`, `#assembly`, `#c-lang`, `#c-cpp`, `#wasm`, `#compilers`, `#embedded`, `#game-dev`, `#hardware` `#linux`, `#os-development` \
 Language: English   
 
+### Assembly
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/assemblers_assemble.png" />
+
+[__Assemblers Assemble__](https://discordapp.com/invite/Km5VzKj) \
+Notable Channels: `#x86`, `#arm`, `#z80`, `#6502`, `#jvm`, `#mips`, `#m68k`, `#brainfu*k`, `#nand-nor`, `#other` \
+Language: English
+
 ### C and C++
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_c_and_c_plus_plus.png" />
 
 [__Together C & C++__](https://discordapp.com/invite/vnyVmAE) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Headline/discord-compiler-bot) \
-Notable Channels: `#c_general`, `#cpp_general`, `#assembly`, `#code_review`, `#gamedev`, `#graphics`, `#audio`, `#programming_environment` `#collaboration`, `#unix`, `#other_langs_help`, `#math` \
+Notable Channels: `#c_general`, `#cpp_general`, `#assembly`, `#code_review`, `#gamedev`, `#graphics`, `#audio`, `#programming_environment`, `#collaboration`, `#unix`, `#other_langs_help`, `#math` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_plus_plus_help.png" />
