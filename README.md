@@ -245,3 +245,15 @@ Notable Channels: `#projects`, `#mentors`, `#learning-discussion`, `#questions`,
 Language: English
 
 ### CSS 
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tailwind_css.png" />
+
+[__Tailwind CSS__](https://discordapp.com/invite/7NF8GNe) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tailwindcss.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/tailwindcss) \
+Notable Channels: `#help`, `#tailwind-css`, `#core-dev`, `#plugins`, `#docs`, `#tailwind-ui`, `#showcase` \
+Language: English 
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cascading-style-sheets.png" />
+
+[__cascading-style-sheets__](https://discord.gg/92yyRb2) \
+Notable Channels: `#new-to-css`, `#blog-posts`, `#less`, `#sass`, `#scss`, `#tailwind`\
+Language: English 
