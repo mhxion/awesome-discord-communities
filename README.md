@@ -255,5 +255,5 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cascading-style-sheets.png" />
 
 [__cascading-style-sheets__](https://discord.gg/92yyRb2) \
-Notable Channels: `#new-to-css`, `#blog-posts`, `#less`, `#sass`, `#scss`, `#tailwind`\
+Notable Channels: `#new-to-css`, `#intermediate-users`, `#blog-posts`, `#less`, `#sass`, `#scss`, `#tailwind`\
 Language: English 
