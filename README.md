@@ -93,11 +93,10 @@ Language: English
 
 ### Other Sciences
 
-<img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/chemistry.png" />|
-<img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/biological_sciences.png" />|
-<img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/climate_science.png" />|
+
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/chemistry.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/biological_sciences.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/climate_science.png" /> |
 |----------------------|-------------------|---------------------|
-|[__Biological<br>Sciences__](https://discordapp.com/invite/QwSdffq)<br>[<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/) | [__Chemistry__](https://discordapp.com/invite/eexdsFw)<br>[<img align="center" height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/) | [__Climate<br>Science__](https://discordapp.com/invite/YXvuN8X)<br><img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png"> |
+| [__Biological<br>Sciences__](https://discordapp.com/invite/QwSdffq)<br>[<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/) | [__Chemistry__](https://discordapp.com/invite/eexdsFw)<br>[<img align="center" height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/) | [__Climate<br>Science__](https://discordapp.com/invite/YXvuN8X)<br><img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png"> |
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homework_help.png" />
 
@@ -113,7 +112,7 @@ Language: English
 
 ## Electricals
 
-Discussions about the bare-bones circuit boards, microprocessors and prominent hardware.  
+Discussions about the bare-bones circuit boards, microprocessors and cutting edge hardware.  
 
 ### Engineering
 
@@ -236,7 +235,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_sharp.png" />
 
 [__C#__](https://discordapp.com/invite/csharp) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](http://discord-csharp.github.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/discord-csharp) \
-Notable Channels: `#general_csharp`, `#beginner_questions`, `#projects`, `#code-review`, `#code-review`, `#web`, `#gui`, `#game-dev`, `#database`, `#architecture-and-tooling`, **`so much more`** \
+Notable Channels: `#general_csharp`, `#beginner_questions`, `#projects`, `#code-review`, `#career-talk`, `#web`, `#gui`, `#game-dev`, `#database`, `#architecture-and-tooling`, **`so much more`** \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_sharp_inn.png" />
@@ -244,3 +243,5 @@ Language: English
 [__C# Inn__](https://discord.gg/rCMKcUU) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/csinn) \
 Notable Channels: `#projects`, `#mentors`, `#learning-discussion`, `#questions`, `#architecture`, `#code-review`, `#web`, `#python`, `#ui-ux` \
 Language: English
+
+### CSS 
