@@ -208,8 +208,7 @@ Language: English
 
 [__Assemblers Assemble__](https://discordapp.com/invite/Km5VzKj) \
 Notable Channels: `#x86`, `#arm`, `#z80`, `#6502`, `#jvm`, `#mips`, `#m68k`, `#brainfu*k`, `#nand-nor`, `#other` \
-Language: English
-
+Language: English   
 
 ### C and C++
 
@@ -251,8 +250,7 @@ Language: English
 
 [__Clojurians__](https://discordapp.com/invite/v9QMy9D) \
 Notable Channels: `#general`, `#clojure`, `#clojurescript`, `#emacs`, `#editors`, `#interop-therapy`\
-Language: English 
-
+Language: English   
 
 ### CSS 
 
@@ -267,3 +265,11 @@ Language: English
 [__cascading-style-sheets__](https://discord.gg/92yyRb2) \
 Notable Channels: `#new-to-css`, `#intermediate-users`, `#blog-posts`, `#less`, `#sass`, `#scss`, `#tailwind`\
 Language: English 
+
+### Elixir
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/elixir_language.png" />
+
+[__Elixir Language__](https://discordapp.com/invite/elixir)\
+Notable Channels: `#elixir`, `#erlang`, `#nerves`, `#phoenix`, `#absinthe`, `#alchemy`, `#frontend`\
+Language: English
