@@ -273,3 +273,11 @@ Language: English
 [__Elixir Language__](https://discordapp.com/invite/elixir)\
 Notable Channels: `#elixir`, `#erlang`, `#nerves`, `#phoenix`, `#absinthe`, `#alchemy`, `#frontend`\
 Language: English
+
+### Java
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_java.png" />
+
+[__Together Java__](https://discord.gg/hVtnwGd) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Together-Java) \
+Notable Channels: `#geek-speak`, `#java-help`, `#android-help`, `#framework-help`, `#c_cpp_help`, `#algorithms_help`, `#architecture-help`, `#code_review`, `#ui_ux_help`\
+Language: English
