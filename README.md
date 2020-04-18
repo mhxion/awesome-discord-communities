@@ -210,6 +210,7 @@ Language: English
 Notable Channels: `#x86`, `#arm`, `#z80`, `#6502`, `#jvm`, `#mips`, `#m68k`, `#brainfu*k`, `#nand-nor`, `#other` \
 Language: English
 
+
 ### C and C++
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_c_and_c_plus_plus.png" />
@@ -243,6 +244,15 @@ Language: English
 [__C# Inn__](https://discord.gg/rCMKcUU) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/csinn) \
 Notable Channels: `#projects`, `#mentors`, `#learning-discussion`, `#questions`, `#architecture`, `#code-review`, `#web`, `#python`, `#ui-ux` \
 Language: English
+
+### Clojure
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/clojurians.png" />
+
+[__Clojurians__](https://discordapp.com/invite/v9QMy9D) \
+Notable Channels: `#general`, `#clojure`, `#clojurescript`, `#emacs`, `#editors`, `#interop-therapy`\
+Language: English 
+
 
 ### CSS 
 
