@@ -281,3 +281,13 @@ Language: English
 [__Together Java__](https://discord.gg/hVtnwGd) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Together-Java) \
 Notable Channels: `#geek-speak`, `#java-help`, `#android-help`, `#framework-help`, `#c_cpp_help`, `#algorithms_help`, `#architecture-help`, `#code_review`, `#ui_ux_help`\
 Language: English
+
+### JavaScript
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/speakjs.png" />
+
+[__SpeakJS__](https://discordapp.com/invite/dAF4F28) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
+Notable Channels: `#collaboration`, `#code-review`, `#help`, `#react`, `#angular`, `#vue`, `#svelte`, `#jquery`, `#node`, `#graphql`, `#electron`, `#threejs`, `#webgl`\
+Language: English
+
+#### JavaScript Frameworks
