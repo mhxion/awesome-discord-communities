@@ -290,6 +290,14 @@ Language: English
 Notable Channels: `#collaboration`, `#code-review`, `#help`, `#react`, `#angular`, `#vue`, `#svelte`, `#jquery`, `#gatsby`, `#node`, `#graphql`, `#electron`, `#threejs`, `#webgl`\
 Language: English
 
+#### JavaScript Frameworks
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/emberjs.png" />
+
+[__emberjs__](https://discord.gg/emberjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://emberjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/emberjs) \
+Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, **`so much more`** \
+Language: English, Français, Deutsch, Português, Pусский, Español 
+
 #### ReactJS 
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactiflux.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gatsby.png" /> |
