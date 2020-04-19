@@ -309,3 +309,23 @@ Language: English, Français, Deutsch, Português, Pусский, Español
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_land.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vuetify.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nuxtjs.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gridsome.png" /> |
 |----------------------|-------------------|-------------------|-------------------|
 | [__Vue Land__](https://discordapp.com/invite/HBherRA)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vue.land/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vue-land) | [__Vuetify__](https://discordapp.com/invite/s93b7Fv)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vuetifyjs.com/en/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vuetifyjs/vuetify) | [__Nuxt.js__](https://discordapp.com/invite/b3dvQ9b)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nuxtjs.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nuxt) | [__Gridsome__](https://discordapp.com/invite/daeay6n)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://gridsome.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/gridsome) |
+
+#### JavaScript Libraries, Builders, Additions
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reasonml.png" />
+
+[__ReasonML__](https://discordapp.com/invite/reasonml) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://reasonml.github.io/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/facebook/reason) \
+Notable Channels: `#general`, `#reasonconf`, `#native-development`, `#bucklescript`, `#job-openings`, `#react`, `#ocaml`, `#reason-dojo`, `#reason-core-dev`\
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nodeiflux.png" />
+
+[__Nodeiflux__](https://discordapp.com/invite/vUsrbjd) \
+Notable Channels: `#general`, `#need-help`, `#i-made-this`, `#news-and-links`, `#libraries`, `#ops`\
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/yarnpkg.png" />
+
+[__yarnpkg__](https://discordapp.com/invite/yarnpkg) \
+Notable Channels: `#contributing`, `#support`, `#general`\
+Language: English
