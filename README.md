@@ -343,3 +343,11 @@ Language: English
 [__yarnpkg__](https://discordapp.com/invite/yarnpkg) \
 Notable Channels: `#contributing`, `#support`, `#general`\
 Language: English
+
+#### Lisp
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/lisp.png" />
+
+[__Lisp__](https://discordapp.com/invite/hhk46CE) \
+Notable Channels: `#clojure`, `#common-lisp`, `#emacs-lisp`, `#racket`, `#scheme`, `#lisp-gamedev`, `#beginner-questions`, `#algorithms`, `#compiler-theory`\
+Language: English
