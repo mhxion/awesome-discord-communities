@@ -274,6 +274,14 @@ Language: English
 Notable Channels: `#elixir`, `#erlang`, `#nerves`, `#phoenix`, `#absinthe`, `#alchemy`, `#frontend`\
 Language: English
 
+### Go
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/discord_gophers.png" />
+
+[__Discord Gophers__](https://discordapp.com/invite/PxwHvBS) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/bwmarrin/discordgo)\
+Notable Channels: `#golang`, `#job-market-only`, `#go-art-only`, `#go-news-only`, `#discordgo`, `#disgord`, `#dca`, `#arikawa`\
+Language: English
+
 ### Java
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_java.png" />
@@ -302,7 +310,7 @@ Language: English, Français, Deutsch, Português, Pусский, Español
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nodeiflux.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nestjs.png" /> |
 |----------------------|-------------------|
-| [__Nodeiflux__](https://discordapp.com/invite/vUsrbjd)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) | [__NestJS__](https://discordapp.com/invite/G7Qnnhy)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nestjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nestjs) |
+| [__Nodeiflux__](https://discordapp.com/invite/vUsrbjd)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nodejs.org/en/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nodejs) | [__NestJS__](https://discordapp.com/invite/G7Qnnhy)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nestjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nestjs) |
 
 #### ReactJS 
 
