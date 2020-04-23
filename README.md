@@ -344,10 +344,24 @@ Language: English
 Notable Channels: `#contributing`, `#support`, `#general`\
 Language: English
 
-#### Lisp
+### Lisp
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/lisp.png" />
 
 [__Lisp__](https://discordapp.com/invite/hhk46CE) \
 Notable Channels: `#clojure`, `#common-lisp`, `#emacs-lisp`, `#racket`, `#scheme`, `#lisp-gamedev`, `#beginner-questions`, `#algorithms`, `#compiler-theory`\
+Language: English
+
+### PHP
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/laravel.png" />
+
+[__Laravel__](https://discordapp.com/invite/mPZNm7A) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://laravel.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/laravel) \
+Notable Channels: `#general`, `#cashier`, `#envoyer`, `#forge`, `#help`, `#homestead`, `#horizon`, `#hype`, `#internals`, `#lumen`, `#meetups`, `#nova`, `#passport`\
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/flarum.png" />
+
+[__Flarum__](https://discordapp.com/invite/3fnPSjA) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://flarum.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/flarum) \
+Notable Channels: `#chitchat`, `#support`, `#extensions`, `#extend`, `#internals`, `#docs`\
 Language: English
