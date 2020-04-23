@@ -371,5 +371,19 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/python.png" />
 
 [__Python__](https://discordapp.com/invite/python) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://pythondiscord.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/python-discord/) \
-Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#computer-science`, `#database`, `#data-science`, `#dev-ops`, `#discord-py`, `#game-development`, `#microcontrollers`, `#security` **`so much more`** \
-Language: English, Français, Deutsch, Português, Pусский, Español 
+Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#computer-science`, `#database`, `#data-science`, `#dev-ops`, `#discord-py`, `#game-development`, `#security` **`so much more`** \
+Language: English
+
+#### Python Frameworks
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pallets_project.png" />
+
+[__Pallets Project__](https://discord.gg/t6rrQZH) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://palletsprojects.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/pallets) \
+Notable Channels: `#watercooler`, `#get-help`, `#sprint`, `#flask`, `#jinja`, `#click`, `#werkzeug`, `#flask-sqlalchemy`, `#flask-rebar`, `#wtforms`\
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/kivy.png" />
+
+[__Kivy__](https://discordapp.com/invite/djPtTRJ) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://kivy.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/kivy) \
+Notable Channels: `#general`, `#support`, `#your-projects`, `#dev`, `#python-for-android`\
+Language: English
