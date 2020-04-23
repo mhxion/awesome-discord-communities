@@ -357,7 +357,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/laravel.png" />
 
 [__Laravel__](https://discordapp.com/invite/mPZNm7A) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://laravel.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/laravel) \
-Notable Channels: `#general`, `#cashier`, `#envoyer`, `#forge`, `#help`, `#homestead`, `#horizon`, `#hype`, `#internals`, `#lumen`, `#meetups`, `#nova`, `#passport`\
+Notable Channels: `#general`, `#cashier`, `#envoyer`, `#forge`, `#help`, `#homestead`, `#horizon`, `#hype`, `#internals`, `#lumen`, `#meetups`, `#nova`, `#passport`, `#jobs`\
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/flarum.png" />
@@ -365,3 +365,11 @@ Language: English
 [__Flarum__](https://discordapp.com/invite/3fnPSjA) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://flarum.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/flarum) \
 Notable Channels: `#chitchat`, `#support`, `#extensions`, `#extend`, `#internals`, `#docs`\
 Language: English
+
+### Python
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/python.png" />
+
+[__Python__](https://discordapp.com/invite/python) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://pythondiscord.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/python-discord/) \
+Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#computer-science`, `#database`, `#data-science`, `#dev-ops`, `#discord-py`, `#game-development`, `#microcontrollers`, `#security` **`so much more`** \
+Language: English, Français, Deutsch, Português, Pусский, Español 
