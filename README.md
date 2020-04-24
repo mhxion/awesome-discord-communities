@@ -409,3 +409,11 @@ Language: English
 [__Rust Programming Language Community Server__](https://discordapp.com/invite/aVESxV8) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/ivandardi/RustBot) \
 Notable Channels: `#beginners`, `#code-review`, `#dev-tools`, `#black-magic`, `#macros`, `#async`, `#crypto-and-security`, `#games-and-graphics`, `#lang-dev`, `#net-and-web`, `#os-dev`\
 Language: English
+
+### Swift
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/swift.png" />
+
+[__Swift__](https://discordapp.com/invite/0uZpB8GgRvoU12Ta) \
+Notable Channels: `#wwdc`, `#general`, `#swift`, `#swiftui`, `#firebase`, `#xcode`, `#general-ios`, `#general-macos`, `#general-watchos`, `#interview`\
+Language: English
