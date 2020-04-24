@@ -388,6 +388,14 @@ Language: English
 Notable Channels: `#general`, `#support`, `#your-projects`, `#dev`, `#python-for-android`\
 Language: English
 
+### Ruby
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ruby.png" />
+
+[__Ruby__](https://discordapp.com/invite/KpcVgPc) \
+Notable Channels: `#beginners-chat`, `#project-ideas`, `#help`, `#devops`, `#code-review`, `#frontend`, `#backend`, `#rails`, `#sinatra`\
+Language: English
+
 ### Rust
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_rust_programming_language.png" />
