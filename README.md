@@ -37,6 +37,12 @@ Language: English
 Notable Channels: `#odin-general`, `#creations-showcase`, `#ubuntu-help`,`#tech-support-general`, `#virtualbox-help`, `#git-help`, `#html-css-help`, `#javascript-help`, `#nodejs-help`, `#rails-help`\
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/devcord.png" />
+
+[__Devcord__](https://discordapp.com/invite/devcord) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://devcord.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/devcord) \
+Notable Channels: `#help-javascript`, `#help-frontend`, `#help-frontend`,`#help-backend`, `#help-php`, `#help-mobile`, `#help-design`, `#help-devops`, `#help-career`, `#code-review`, `#webtopic`\
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/garbage_collectors.png" />
 
 [__Garbage Collectors__](https://discordapp.com/invite/aJwTAgS) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/garbage-collectors-development) \
