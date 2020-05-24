@@ -45,7 +45,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/devcord.png" />
 
-[__Devcord__](https://discordapp.com/invite/devcord) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://devcord.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/devcord) \
+[__Devcord__](https://discordapp.com/invite/devcord) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://devcord.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/devcord) \
 Notable Channels: `#help-javascript`, `#help-frontend`, `#help-frontend`,`#help-backend`, `#help-php`, `#help-mobile`, `#help-design`, `#help-devops`, `#help-career`, `#code-review`, `#webtopic`\
 Language: English
 
