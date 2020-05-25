@@ -83,7 +83,7 @@ Language: English
 
 ## Art of Computer Science
 
-All discussions about the concepts behind modern, and classical computing and its relatives.
+Discussions about the concepts behind modern, and classical computing and its relatives.
 
 ### Computer Science
 
@@ -451,6 +451,7 @@ Notable Channels: `#ts-discussion`, `#help`, `#vue`, `#angular`, `#react`, `#lan
 Language: English
 
 ## Design and Illustrations
+All about design systems, graphical illustrations, user interface and user experience.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_spot.png" />
 
@@ -471,6 +472,7 @@ Notable Channels: `#work-in-progress-critique`, `#photoshop`, `#premiere-pro`, `
 Language: English
 
 ## Server-side
+Server dwellers, discussions on network management and administration, IT homelab, RAIDs and drives, and tools that run on them.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_sysadmin.png" />
 
