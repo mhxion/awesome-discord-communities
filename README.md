@@ -469,3 +469,23 @@ Language: English
 [__Adobe Systems Community__](https://discord.gg/Aak7YGU) \
 Notable Channels: `#work-in-progress-critique`, `#photoshop`, `#premiere-pro`, `#after-effects`, `#illustrator`, `#animate`, `#animate`, `#indesign`, `#xd`, `#lightroom` \
 Language: English
+
+## Server-side
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homelab.png" />
+
+[__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homelab/) \
+Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
+Language: English, Deutsch, Français, Dutch
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_sysadmin.png" />
+
+[__/r/sysadmin__](https://discord.com/invite/sysadmin) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/sysadmin) \
+Notable Channels: `#sysadmin`, `#help`, `#security`, `#scripting`, `#microsoft`, `#linux`, `#career-advice`, `#networking` \
+Language: English
+
+### Server-side Applications
+
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_plex.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/organizr.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/librenms.png" /> |
+|----------------------|-------------------|-------------------|
+| [__/r/Plex__](https://discord.com/invite/plex)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/PleX/) | [__Organizr__](https://discord.com/invite/TrNtY7N)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://organizr.app/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/causefx/Organizr) | [__LibreNMS__](https://discord.com/invite/V8s5JZJ)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.librenms.org) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/librenms)
