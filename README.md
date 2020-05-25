@@ -472,17 +472,17 @@ Language: English
 
 ## Server-side
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homelab.png" />
-
-[__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homelab/) \
-Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
-Language: English, Deutsch, Français, Dutch
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_sysadmin.png" />
 
 [__/r/sysadmin__](https://discord.com/invite/sysadmin) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/sysadmin) \
 Notable Channels: `#sysadmin`, `#help`, `#security`, `#scripting`, `#microsoft`, `#linux`, `#career-advice`, `#networking` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homelab.png" />
+
+[__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homelab/) \
+Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
+Language: English, Deutsch, Français, Dutch
 
 ### Server-side Applications
 
