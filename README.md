@@ -212,6 +212,12 @@ Language: English
 
 Programming languages used in embedded systems, web frameworks, automation and mobile apps.
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programming_language_development.png" />
+
+[__Programming Language Development__](https://discord.com/invite/HDyqM2n) \
+Notable Channels: `#langdev`, `#programming`, `#projects`, `#resources` \
+Language: English
+
 ### Language Paradigms
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/functional_programming.png" />
