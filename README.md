@@ -508,3 +508,35 @@ The underlying kernels that are responsible for managing 1-dimensional binary bi
 Notable Channels: `#osdev`, `#programming`, `#beginner`, `#bootloader-dev`, `#wiki`, `#projects`, `#resources` \
 Language: English
 
+#### Android
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_androiddev.png" />
+
+[__/r/AndroidDev__](https://discord.gg/D2cNrqX) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/androiddev/) \
+Notable Channels: `#beginner`, `#intermediate`, `#rom`, `#general`, `#flutter`, `#kotlin`, `#firebase`, `#dependency-injection`, `#rx`, `#design` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_flutterdev.png" />
+
+[__/r/FlutterDev__](https://discord.com/invite/N7Yshp4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/FlutterDev/) \
+Notable Channels: `#beginner`, `#intermediate`, `#general`, `#android`, `#ios`, `#web`, `#desktop`, `#app-showcase`, `#hiring` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/xda-developers.png" />
+
+[__XDA_Developers__](https://discord.com/invite/EhaMzy2) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.xda-developers.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/xda) \
+Notable Channels: `#general-tech`, `#help`, `#development`, `#theming`, `#devices`, `#google-general`, `#huawei-general`, `#oneplus-general` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/android_discord.png" />
+
+[__Android Discord__](https://discord.com/invite/android) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/Android/) \
+Notable Channels: `#android`, `#whatphone`, `#tech-support`, `#phone-questions`, `#themes`, `#phonetography` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_androidroot.png" />
+
+[__/r/AndroidRoot__](https://discord.gg/Uq7r6kF) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/androidroot/) \
+Notable Channels: `#root`, `#custom-roms`, `#theming`, `#development`, `#magisk`, `#twrp`, `#substratum` \
+Language: English
+
