@@ -10,6 +10,13 @@ The server is owned or moderated by an established organization or a company or 
 
 <br>
 
+<img align="left" height="86px" width="86px" alt="Badge for officially owned Server" src="images/badges/reddit_86px.png" />
+
+#### Reddit Badge
+The server is owned and moderated by a [Reddit](https://www.reddit.com/) forum's moderators, though not all moderators of the subreddit may be involved. It is officially recognized as an associate community by the subreddit. 
+
+<br>
+
 <img align="left" height="86px" width="86px" alt="Badge for Exceptional Servers" src="images/badges/prime_86px.png" />
 
 #### Popularity Badge
