@@ -539,3 +539,23 @@ Language: English
 [__/r/AndroidRoot__](https://discord.gg/Uq7r6kF) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/androidroot/) \
 Notable Channels: `#root`, `#custom-roms`, `#theming`, `#development`, `#magisk`, `#twrp`, `#substratum` \
 Language: English
+
+#### Apple's Systems
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/apple_betas.png" />
+
+[__Apple Betas__](https://discord.com/invite/beta) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/iOSBeta/) \
+Notable Channels: `#general`, `#ios`, `#ipados`, `#macos`, `#watchos`, `#tvos`, `#xcode`, `#development`, `#meta` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_jailbreak.png" />
+
+[__r/Jailbreak__](https://discord.com/invite/jb) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/jailbreak/) \
+Notable Channels: `#showcase`, `#common-issues`, `#jailbreak`, `#general`, `#themes`, `#legacy`, `#unc0ver`, `#tvos-jailbreaks`, `#checkra1n`, `#chimera`, `#flex`, `#ncontrol`, `#support` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/shortcuts.png" />
+
+[__Shortcuts__](https://discord.gg/HrzAhUu) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/shortcuts/) \
+Notable Channels: `#general`, `#shorcut-sharing`, `#help-and-support`, `#shortcast-info`, `#shortcasts-content-suggestions`\
+Language: English
