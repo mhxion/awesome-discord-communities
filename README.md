@@ -524,7 +524,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/xda-developers.png" />
 
-[__XDA_Developers__](https://discord.com/invite/EhaMzy2) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.xda-developers.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/xda) \
+[__XDA-Developers__](https://discord.com/invite/EhaMzy2) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.xda-developers.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/xda) \
 Notable Channels: `#general-tech`, `#help`, `#development`, `#theming`, `#devices`, `#google-general`, `#huawei-general`, `#oneplus-general` \
 Language: English
 
@@ -540,3 +540,4 @@ Language: English
 Notable Channels: `#root`, `#custom-roms`, `#theming`, `#development`, `#magisk`, `#twrp`, `#substratum` \
 Language: English
 
+#### iOS
