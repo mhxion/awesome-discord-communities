@@ -559,3 +559,11 @@ Language: English
 [__Shortcuts__](https://discord.gg/HrzAhUu) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/shortcuts/) \
 Notable Channels: `#general`, `#shorcut-sharing`, `#help-and-support`, `#shortcast-info`, `#shortcasts-content-suggestions`\
 Language: English
+
+#### Windows
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/microsoft_community.png" />
+
+[__Microsoft Community__](https://discord.com/invite/microsoft) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://msft.chat/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/sylveon/SatyaNadella) \
+Notable Channels: `#general-chat`, `#insiders-chat`, `#tech-support`, `#purchase-advice`, `#development`, `#it-pros`, `#servers`, `#surface`, `#office`, `#unix` \
+Language: English
