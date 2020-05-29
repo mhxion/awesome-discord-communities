@@ -567,3 +567,19 @@ Language: English
 [__Microsoft Community__](https://discord.com/invite/microsoft) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://msft.chat/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/sylveon/SatyaNadella) \
 Notable Channels: `#general-chat`, `#insiders-chat`, `#tech-support`, `#purchase-advice`, `#development`, `#it-pros`, `#servers`, `#surface`, `#office`, `#unix` \
 Language: English
+
+#### Linux
+
+##### Linux in General
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/discord_linux.png" />
+
+[__Discord Linux__](https://discord.com/invite/discord-linux) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/discordlinux) \
+Notable Channels: `#tech`, `#customization`, `#programming`, `#support-linux`, `#support-distro-installs`, `#support-games`, `#support-discord`, `#support-non-linux` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_for_all.png" />
+
+[__Linux For All__](https://discord.gg/gewCYyN) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twitter.com/lfa_linux/) \
+Notable Channels: `#general`, `#linux`, `#gaming`, `#suggestions`, `#developers`, `#themes`, `#support` \
+Language: English
