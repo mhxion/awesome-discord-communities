@@ -498,7 +498,7 @@ Language: English, Deutsch, Français, Netherlands
 |----------------------|-------------------|-------------------|
 | [__/r/Plex__](https://discord.com/invite/plex)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/PleX/) | [__Organizr__](https://discord.com/invite/TrNtY7N)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://organizr.app/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/causefx/Organizr) | [__LibreNMS__](https://discord.com/invite/V8s5JZJ)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.librenms.org) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/librenms)
 
-### Operating Systems
+## Operating Systems
 
 The underlying kernels that are responsible for managing 1-dimensional binary bits.
 
