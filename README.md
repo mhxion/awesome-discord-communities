@@ -487,7 +487,7 @@ The underlying kernels that are responsible for managing 1-dimensional binary bi
 Notable Channels: `#osdev`, `#programming`, `#beginner`, `#bootloader-dev`, `#wiki`, `#projects`, `#resources` \
 Language: English
 
-#### Android
+### Android
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_androiddev.png" />
 
@@ -519,7 +519,7 @@ Language: English
 Notable Channels: `#root`, `#custom-roms`, `#theming`, `#development`, `#magisk`, `#twrp`, `#substratum`, `#support-room` \
 Language: English
 
-#### Apple's Systems
+### Apple's Systems
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/apple_betas.png" />
 
@@ -539,7 +539,7 @@ Language: English
 Notable Channels: `#general`, `#shorcut-sharing`, `#help-and-support`, `#shortcast-info`, `#shortcasts-content-suggestions`\
 Language: English
 
-#### Windows
+### Windows
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/microsoft_community.png" />
 
@@ -547,9 +547,9 @@ Language: English
 Notable Channels: `#general-chat`, `#insiders-chat`, `#tech-support`, `#purchase-advice`, `#development`, `#it-pros`, `#servers`, `#surface`, `#office`, `#unix` \
 Language: English
 
-#### Linux
+### Linux
 
-##### Linux in General
+#### Linux in General
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/discord_linux.png" />
 
@@ -569,7 +569,7 @@ Language: English
 Notable Channels: `#home`, `#dev-random`, `#support`, `#unixporn`, `#programming`, `#media`, `#hardware`, `#gaming` \
 Language: English
 
-##### Linux Distributions
+#### Linux Distributions
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ubuntu_hideout.png" />
 
@@ -613,7 +613,7 @@ Language: English
 Notable Channels: `#support-mint`, `#support-lmde`, `#support-other-os`, `#support-nos`, `#general`, `#tech-talk`, `#user-created-content` \
 Language: English
 
-##### Gaming on Linux
+#### Gaming on Linux
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_gaming.png" />
 
