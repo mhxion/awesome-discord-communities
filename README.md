@@ -633,3 +633,23 @@ Language: English
 [__Linux Mint Community__](https://discord.com/invite/t6GJuTC) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/UtopicUnicorns/artemis) \
 Notable Channels: `#support-mint`, `#support-lmde`, `#support-other-os`, `#support-nos`, `#general`, `#tech-talk`, `#user-created-content` \
 Language: English
+
+##### Gaming on Linux
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_gaming.png" />
+
+[__Linux Gaming__](https://discord.com/invite/t6GJuTC) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
+Notable Channels: `#support-general`, `#support-hardware`, `#support-gaming`, `#new-to-linux`, `#tech-general`, `#coding`, `#unixporn`, `#original-content` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/lutris.png" />
+
+[__Lutris__](https://discord.gg/Pnt5CuY) \
+Notable Channels: `#news`, `#general`, `#irc`, `#requests_and_feedback`, `#lutris_support`, `#linux_support`, `#installer_creation` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/protondb_official_server.png" />
+
+[__ProtonDB Official Server__](https://discord.com/invite/uuwK9EV) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.protondb.com/) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge)  \
+Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linux`, `#linux-support`, `#general-game-support` \
+Language: English
