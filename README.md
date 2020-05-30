@@ -634,7 +634,7 @@ Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linu
 Language: English
 
 ## Server-side
-Server dwellers, discussions on network management and administration, IT homelab, RAIDs and drives, and tools that run on them.
+Server dwellers, discussions on network management and infrastructure,, IT homelab, containers, and tools that run on them.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_sysadmin.png" />
 
@@ -647,6 +647,14 @@ Language: English
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homelab/) \
 Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
 Language: English, Deutsch, Français, Netherlands 
+
+### Containers
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxserver_io.png" />
+
+[__Linuxserver.io__](https://discord.com/invite/YWrKVTn) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.linuxserver.io/) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/linuxserver) \
+Notable Channels: `#general-support`, `#docker-support`, `#heimdall`, `#linux-chat`, `#other-support`, `#hardware` \
+Language: English
 
 ### Server-side Applications
 
