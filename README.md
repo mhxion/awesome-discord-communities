@@ -581,7 +581,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_for_all.png" />
 
 [__Linux For All__](https://discord.gg/gewCYyN) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twitter.com/lfa_linux/) \
-Notable Channels: `#general`, `#linux`, `#gaming`, `#suggestions`, `#developers`, `#themes`, `#support` \
+Notable Channels: `#linux-news`, `#general`, `#linux`, `#gaming`, `#suggestions`, `#developers`, `#themes`, `#support` \
 Language: English
 
 ##### Linux Distributions
