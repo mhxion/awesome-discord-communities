@@ -637,7 +637,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_chromeos.png" />
 
-[__r/ChromeOS__](https://discord.com/invite/T7AMQUM) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/shortcuts/) \
+[__r/ChromeOS__](https://discord.com/invite/T7AMQUM) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/chromeos/) \
 Notable Channels: `#chromeos`, `#chromium`, `#crostini`, `#purchase-advice`, `#dev-mode`, `#enterprise`, `#android`, `#gaming`, `#support`\
 Language: English
 
