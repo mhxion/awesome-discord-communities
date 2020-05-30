@@ -368,9 +368,9 @@ Language: English
 Notable Channels: `#general`, `#support`, `#maintenance`, `#design`, `#presets`, `#documentation`, `#addons`, `#addons`, `#jobs`, `#frameworks`\
 Language: English
 
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/yarnpkg.png" /> |
-|----------------------|
-| [__yarnpkg__](https://discord.com/invite/yarnpkg)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://classic.yarnpkg.com/en/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/yarnpkg) |
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/yarnpkg.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/deno.png" /> |
+|----------------------|----------------------|
+| [__yarnpkg__](https://discord.com/invite/yarnpkg)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://classic.yarnpkg.com/en/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/yarnpkg) | [__Deno__](https://discord.com/invite/deno)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://deno.land/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/denoland) |
 
 ### Lisp
 
