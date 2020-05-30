@@ -216,7 +216,8 @@ Programming languages used in embedded systems, web frameworks, automation and m
 
 [__Programming Language Development__](https://discord.com/invite/HDyqM2n) \
 Notable Channels: `#langdev`, `#programming`, `#projects`, `#resources` \
-Language: English
+Language: English \
+<br />
 
 ### Language Paradigms
 
@@ -238,7 +239,8 @@ Language: English
 
 [__Assemblers Assemble__](https://discord.com/invite/Km5VzKj) \
 Notable Channels: `#x86`, `#arm`, `#z80`, `#6502`, `#jvm`, `#mips`, `#m68k`, `#brainfu*k`, `#nand-nor`, `#other` \
-Language: English
+Language: English \
+<br />
 
 ### C and C++
 
@@ -302,7 +304,8 @@ Language: English
 
 [__Elixir Language__](https://discord.com/invite/elixir)\
 Notable Channels: `#elixir`, `#erlang`, `#nerves`, `#phoenix`, `#absinthe`, `#alchemy`, `#frontend`\
-Language: English
+Language: English \
+<br />
 
 ### Go
 
@@ -392,7 +395,8 @@ Language: English
 
 [__Flarum__](https://discord.com/invite/3fnPSjA) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://flarum.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/flarum) \
 Notable Channels: `#chitchat`, `#support`, `#extensions`, `#extend`, `#internals`, `#docs`\
-Language: English
+Language: English \
+<br />
 
 ### Python
 
@@ -414,7 +418,8 @@ Language: English
 
 [__Kivy__](https://discord.com/invite/djPtTRJ) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://kivy.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/kivy) \
 Notable Channels: `#general`, `#support`, `#your-projects`, `#dev`, `#python-for-android`\
-Language: English
+Language: English \
+<br />
 
 ### Ruby
 
@@ -652,7 +657,8 @@ Language: English
 
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homelab/) \
 Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
-Language: English, Deutsch, Français, Netherlands 
+Language: English, Deutsch, Français, Netherlands \
+<br />
 
 ### Containers
 
