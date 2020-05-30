@@ -490,7 +490,7 @@ Language: English
 
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homelab/) \
 Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
-Language: English, Deutsch, Français, Dutch
+Language: English, Deutsch, Français, Dutch 
 
 ### Server-side Applications
 
@@ -582,4 +582,48 @@ Language: English
 
 [__Linux For All__](https://discord.gg/gewCYyN) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twitter.com/lfa_linux/) \
 Notable Channels: `#general`, `#linux`, `#gaming`, `#suggestions`, `#developers`, `#themes`, `#support` \
+Language: English
+
+##### Linux Distributions
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ubuntu_hideout.png" />
+
+[__Ubuntu Hideout__](https://discord.com/invite/jcwJEJH) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://ubuntuhideout.com/) \
+Notable Channels: `#tech-talk`, `#coding-cave`, `#help-general`, `#help-system-installation`, `#help-desktop-environment`, `#help-hardware-drivers`, `#help-networking`, `#help-programming` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fedora_linux.png" />
+
+[__Fedora Linux__](https://discord.com/invite/Fedora) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://getfedora.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/fedora-infra) \
+Notable Channels: `#home`, `#man-pages`, `#silverblue-containers`, `#server-rhel-centos`, `#arm-raspberry`, `#showcase`, `#gaming-general`, `#hardware-for-linux` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gentoo_linux.png" />
+
+[__Gentoo Linux__](https://discord.com/invite/Gentoo) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gentoo.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/gentoo) \
+Notable Channels: `#chat`, `#support`, `#screenshots`, `#general-development`, `#ebuilds`, `#resources`, `#containers` \
+Language: English, 日本語
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/opensuse.png" />
+
+[__openSUSE__](https://discord.com/invite/openSUSE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.opensuse.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/openSUSE) \
+Notable Channels: `#support`, `#chat`, `#project`, `#packaging`, `#factory`, `#admin`, `#artwork`, `#docs`, `#gnome`, `#xfce` \
+Language: English, Français, Deutsch, Italiano, język polski, Español, Netherlands
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/manjaro_linux.png" />
+
+[__Manjaro Linux__](https://discord.com/invite/t6GJuTC) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
+Notable Channels: `#kde`, `#xfce`, `#gnome`, `#manjaro-arm`, `#general`, `#help-general`, `#help-installation`, `#programming`, `#customizations` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arch_linux_unofficial.png" />
+
+[__Arch Linux [unofficial]__](https://discord.com/invite/MrhPdhn) \
+Notable Channels: `#news`, `#home`, `#arch-support`, `#other-distros`, `#programming`, `#ricing`, `#wallpapers` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_mint_community.png" />
+
+[__Linux Mint Community__](https://discord.com/invite/t6GJuTC) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/UtopicUnicorns/artemis) \
+Notable Channels: `#support-mint`, `#support-lmde`, `#support-other-os`, `#support-nos`, `#general`, `#tech-talk`, `#user-created-content` \
 Language: English
