@@ -726,3 +726,9 @@ Language: English
 [__InfoSec & Coding__](https://discord.gg/zSaDzRW) \
 Notable Channels: `#general`, `#questions`, `#programming`, `#hacking`, `#webdev`, `#opearting-systems`, `#ctf`, `#resources` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/whitehat_hacking.png" />
+
+[__Whitehat Hacking__](https://discord.com/invite/beczNYP) \
+Notable Channels: `#cyber-news`, `#hacking`, `#mac-os`, `#windows`, `#linux`, `#ios`, `#android`, `#hardware`, `#coding`, `#malware-analysis`, `#training`, `#c-re-arm-x86-help` \
+Language: English
