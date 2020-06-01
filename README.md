@@ -358,6 +358,12 @@ Language: English
 Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, **`so much more`** \
 Language: English, Français, Deutsch, Português, Pусский, Español 
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/docusaurus.png" />
+
+[__Docusaurus__](https://discord.com/invite/docusaurus) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://v2.docusaurus.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/facebook/Docusaurus) \
+Notable Channels: `#docusaurus-users`, `#docusaurus-dev`, `#docusaurus-2-dogfooding`, `#docusaurus-2-dev`, `#docusaurus-zeit`, `#docusaurus-algolia`, `#docusaurus-1-to-2-migration` \
+Language: English
+
 ##### Node.js
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nodeiflux.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nestjs.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adonisjs_framework.png" />
