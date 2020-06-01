@@ -480,7 +480,7 @@ Language: English
 
 [__VAPOR__](https://discord.com/invite/vapor) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vapor.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vapor/vapor) \
 Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, **`so much more`**` \
-Language: English, čeština, Español, русский, Deutsch, 中文频道, Nederlands, 日本語, Français, Italiano, українська-мова
+Language: English, čeština, Español, русский, Deutsch, 中文频道, Nederlands, 日本語, Français, Italiano, українська-мова, 한국어
 
 ### Typescript
 
