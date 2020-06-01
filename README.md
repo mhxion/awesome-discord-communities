@@ -757,3 +757,7 @@ Language: English
 [__Whitehat Hacking__](https://discord.com/invite/beczNYP) \
 Notable Channels: `#cyber-news`, `#hacking`, `#mac-os`, `#windows`, `#linux`, `#ios`, `#android`, `#hardware`, `#coding`, `#malware-analysis`, `#training`, `#c-re-arm-x86-help` \
 Language: English
+
+## Blockchain and Cryptocurrency
+
+The open-source development of cryptocurrencies and the applications of blockchain. No trading.
