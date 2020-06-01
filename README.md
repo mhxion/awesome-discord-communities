@@ -766,4 +766,10 @@ The open-source development of cryptocurrencies and the applications of blockcha
 
 [__CryptoDevs__](https://discord.com/invite/EDA6M3R) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/cryptodevs/) \
 Notable Channels: `#core-crypto-dev`, `#layer-2-dev`, `#any-dev`, `#eth-dev`, `#web3-dev`, `#solidity-dev`, `#vyper-dev`, `#evm-dev`, `#tools-and-resources`, `#events`, `#jobs`, `#bounties`, `#contribute` \
-Language: English \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/go_ethereum.png" />
+
+[__Go Ethereum__](https://discord.com/invite/nthXNEv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://geth.ethereum.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/ethereum/go-ethereum) \
+Notable Channels: `#general`, `#light-client`, `#abigen`, `#clef`, `#puppeth`, `#rinkeboy`, `#progpow`, `#firefly`, `#devp2p`, `#mobile` \
+Language: English
