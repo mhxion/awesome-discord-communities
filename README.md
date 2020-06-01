@@ -571,6 +571,12 @@ Language: English
 
 ### Linux
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_unixporn.png" />
+
+[__r/unixporn__](https://discord.com/invite/TnJ4h5K) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/unixporn/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/unixporn) \
+Notable Channels: `#showcase`, `#ricing-theming`, `#tools`, `#wallpapers`, `#tech-support`, `#programming`, `#hardware` \
+Language: English
+
 #### Linux in General
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/discord_linux.png" />
