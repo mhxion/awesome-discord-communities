@@ -300,7 +300,8 @@ Language: English
 
 [__Clojurians__](https://discord.com/invite/v9QMy9D) \
 Notable Channels: `#general`, `#clojure`, `#clojurescript`, `#emacs`, `#editors`, `#interop-therapy`, `#boot`\
-Language: English
+Language: English \
+<br />
 
 ### CSS 
 
