@@ -194,6 +194,12 @@ Language: English
 Notable Channels: `#general`, `#homekit`, `#ui`, `#config`, `#raspberry-pi`, `#raspbian-image`, `#macos`, `#bwindows`, `#docker`, `#verified-plugins`, `#plugins`, `#homebridge-beta-testing`, `#plugin-development` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/home_assistant.png" />
+
+[__Home Assistant__](https://discord.com/invite/c5DvZ4e) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.home-assistant.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/home-assistant) \
+Notable Channels: `#homeassistant`, `#support`, `#automations`, `#frontend`, `#devices`, `#templates`, `#add-ons`, `#apps`, `#cameras`, `#diy`, `#node-red`, `#voice-assistants`, `#zigbee`, `#development` \
+Language: English
+
 ### Hardware
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pc_master_race.png" />
