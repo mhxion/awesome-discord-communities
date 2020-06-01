@@ -495,7 +495,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adobe_systems_community.png" />
 
 [__Adobe Systems Community__](https://discord.gg/Aak7YGU) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
-Notable Channels: `#work-in-progress-critique`, `#photoshop`, `#premiere-pro`, `#after-effects`, `#illustrator`, `#animate`, `#animate`, `#indesign`, `#xd`, `#lightroom` \
+Notable Channels: `#work-in-progress-critique`, `#photoshop`, `#premiere-pro`, `#after-effects`, `#illustrator`, `#animate`, `#indesign`, `#xd`, `#lightroom`, `#other-programs` \
 Language: English
 
 ## Operating Systems
