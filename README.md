@@ -761,3 +761,9 @@ Language: English
 ## Blockchain and Cryptocurrency
 
 The open-source development of cryptocurrencies and the applications of blockchain. No trading.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cryptodevs.png" />
+
+[__CryptoDevs__](https://discord.com/invite/EDA6M3R) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/cryptodevs/) \
+Notable Channels: `#core-crypto-dev`, `#layer-2-dev`, `#any-dev`, `#eth-dev`, `#web3-dev`, `#solidity-dev`, `#vyper-dev`, `#evm-dev`, `#tools-and-resources`, `#events`, `#jobs`, `#bounties`, `#contribute` \
+Language: English \
