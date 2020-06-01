@@ -773,3 +773,10 @@ Language: English
 [__Go Ethereum__](https://discord.com/invite/nthXNEv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://geth.ethereum.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/ethereum/go-ethereum) \
 Notable Channels: `#general`, `#light-client`, `#abigen`, `#clef`, `#puppeth`, `#rinkeboy`, `#progpow`, `#firefly`, `#devp2p`, `#mobile` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cardano_community.png" />
+
+[__Cardano Community__](https://discord.com/invite/TUr9RDU) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cardano.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/input-output-hk/cardano-sl) \
+Notable Channels:  `#general`, `#learning`, `#yoroi`, `#daedalus`, `#dev-general`, `#stake-pool` \
+Language: English, 日本語, Français, Deutsch, Español, Português \
+<br />
