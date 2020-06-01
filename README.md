@@ -709,6 +709,12 @@ Language: English
 Notable Channels: `#web-app-course`, `#zero-to-hero`, `#red-teaming`, `#reverse-engineering`, `#linux`, `#web-apps`, `#htb`, `#tryhackme`, `#forensics`, `#job-postings` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/locke.png" />
+
+[__LOCKE__](https://discord.com/invite/n8TSaNf) \
+Notable Channels: `#windows-os`, `#unix-family`, `#mac-os`, `#ethical-hacking`, `#ctf-discussion`, `#job-discussion`, `#networking`, `#cryptography`, `#mobile-devices`, `#web-dev`, `#python` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/infosec_and_coding.png" />
 
 [__InfoSec & Coding__](https://discord.gg/zSaDzRW) \
