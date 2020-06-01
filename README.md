@@ -709,6 +709,12 @@ Language: English
 Notable Channels: `#web-app-course`, `#zero-to-hero`, `#red-teaming`, `#reverse-engineering`, `#linux`, `#web-apps`, `#htb`, `#tryhackme`, `#forensics`, `#job-postings` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/3ds_cybersec_empire.png" />
+
+[__3D's CyberSec Empire__](https://discord.com/invite/V5Axpyj) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
+Notable Channels: `#ethical-hacking`, `#questions`, `#sources`, `#projects`, `#security-softwares`, `#capture-the-flag`, `#other-programming-languages` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/locke.png" />
 
 [__LOCKE__](https://discord.com/invite/n8TSaNf) \
