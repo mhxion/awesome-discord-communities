@@ -708,3 +708,9 @@ Language: English
 [__The Cyber Mentor__](https://discord.com/invite/Nu59kq5) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.twitch.tv/thecybermentor) \
 Notable Channels: `#web-app-course`, `#zero-to-hero`, `#red-teaming`, `#reverse-engineering`, `#linux`, `#web-apps`, `#htb`, `#tryhackme`, `#forensics`, `#job-postings` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/infosec_and_coding.png" />
+
+[__InfoSec & Coding__](https://discord.gg/zSaDzRW) \
+Notable Channels: `#general`, `#questions`, `#programming`, `#hacking`, `#webdev`, `#opearting-systems`, `#ctf`, `#resources` \
+Language: English
