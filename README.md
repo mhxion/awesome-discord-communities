@@ -410,6 +410,11 @@ Language: English
 
 ### Lua
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/lua_scripters.png" />
+
+[__Lua Scripters__](https://discord.com/invite/7wu7ZsW) \
+Notable Channels: `#scripting`, `#creations`, `#roblox`, `#gmod`, `#wow`, `#fivem`, `#luajit`, `#lua-c`, `#terra`\
+Language: English
 
 ### PHP
 
