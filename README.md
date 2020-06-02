@@ -408,6 +408,9 @@ Language: English
 Notable Channels: `#clojure`, `#common-lisp`, `#emacs-lisp`, `#racket`, `#scheme`, `#lisp-gamedev`, `#beginner-questions`, `#algorithms`, `#compiler-theory`\
 Language: English
 
+### Lua
+
+
 ### PHP
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/laravel.png" />
