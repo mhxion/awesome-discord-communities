@@ -298,7 +298,8 @@ Language: English
 
 [__opentk__](https://discord.com/invite/6HqD48s) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://opentk.net/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/opentk) \
 Notable Channels: `#general`, `#support`, `#development`, `#showcase`, `#showcase-discussion` \
-Language: English 
+Language: English \
+<br />
 
 ### Clojure
 
@@ -448,7 +449,8 @@ Language: English \
 
 [__Tenancy__](https://discord.com/invite/4amsQJ7) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tenancy.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/tenancy) \
 Notable Channels: `#brewery`, `#coding`, `#support`, `#internals`, `#multi-tenant-support`\
-Language: English 
+Language: English \
+<br />
 
 ### Python
 
