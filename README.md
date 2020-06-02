@@ -848,3 +848,9 @@ Making of games, the communities behind them, and the complexities each platform
 [__Game Dev League__](https://discord.com/invite/gamedev) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://discord.com/invite/gamedev) \
 Notable Channels: `#events`, `#unity`, `#unreal-engine`, `#gamemaker-studio`, `#open-source`, `#löve-dev`, `#monogame-and-libgdx-dev`, `#godot`, `#web-dev`, `#cryengine-dev`, `#vr-dev`, **`so much more`** \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reddit_r_gamedev.png" />
+
+[__Reddit /r/gamedev__](https://discord.com/invite/reddit-gamedev) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/gamedev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/r-gamedev) \
+Notable Channels: `#gamedev-general`, `#show-off-your-stuff`, `#unity`, `#unreal`, `#godot`, `#lhtml5-javascript`, `#c-cpp-csharp-java`, `#opengl-vulkan`, `#gamemaker`, `#retro`, `#audio`, `#visuals`, `#jobs` \
+Language: English
