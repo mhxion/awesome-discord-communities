@@ -416,6 +416,13 @@ Language: English
 Notable Channels: `#scripting`, `#creations`, `#roblox`, `#gmod`, `#wow`, `#fivem`, `#luajit`, `#lua-c`, `#terra`\
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/luvit_io.png" />
+
+[__Luvit.io__](https://discord.com/invite/luvit) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://luvit.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/luvit/luvit)\
+Notable Channels: `#general`, `#lua`, `#luvit`, `#luvi`, `#luv`, `#lit` \
+Language: English \
+<br />
+
 ### PHP
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/laravel.png" />
