@@ -842,3 +842,9 @@ Language: English
 ## Game Development
 
 Making of games, the communities behind them, and the complexities each platform brings out.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/game_dev_league.png" />
+
+[__Game Dev League__](https://discord.com/invite/gamedev) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://discord.com/invite/gamedev) \
+Notable Channels: `#events`, `#unity`, `#unreal-engine`, `#gamemaker-studio`, `#open-source`, `#löve-dev`, `#monogame-and-libgdx-dev`, `#godot`, `#web-dev`, `#cryengine-dev`, `#vr-dev`, **`so much more`** \
+Language: English
