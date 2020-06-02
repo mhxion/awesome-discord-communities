@@ -813,7 +813,7 @@ Language: English
 
 ## Blockchain and Cryptocurrency
 
-The open-source development of cryptocurrencies and the applications of blockchain. No trading.
+The open-source development of cryptocurrencies and the applications of blockchain.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cryptodevs.png" />
 
