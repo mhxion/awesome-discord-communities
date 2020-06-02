@@ -889,3 +889,7 @@ Notable Channels: `#cgi-general`, `#resources`, `#3d-printing`, `#animation-rigg
 Language: English, Deutsch, Português, Español, Nederlands, suomi, Magyar, svenska, dansk, हिन्दी
 
 ### Game Engines
+
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamemaker.png" /> |
+|------------|
+| [__GameMaker__](https://discord.com/invite/By6u9pC)<br>[<img align="center" height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img align="center" height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/gamemaker/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GameMakerDiscord) |
