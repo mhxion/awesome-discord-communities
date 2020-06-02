@@ -46,7 +46,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/devcord.png" />
 
 [__Devcord__](https://discord.com/invite/devcord) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://devcord.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/devcord) \
-Notable Channels: `#help-javascript`, `#help-frontend`, `#help-frontend`,`#help-backend`, `#help-php`, `#help-mobile`, `#help-design`, `#help-devops`, `#help-career`, `#code-review`, `#webtopic`\
+Notable Channels: `#javascript`, `#frontend`, `#backend`, `#php`, `#mobile`, `#design`, `#devops`, `#career`, `#code-review`, `#webtopic`, `#desktopic`, `#community-projects`, `#paid-work`\
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/garbage_collectors.png" />
@@ -165,7 +165,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adafruit.png" />
 
 [__Adafruit__](https://discord.com/invite/5FBsBHU) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.adafruit.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/adafruit) \
-Notable Channels: `#help-with-circuitpython`, `#help-with-arduino`, `#help-with-3dprinting`, `#help-with-radio`,`#help-with-raspberry-pi`, `#help-with-wearables`, `#help-with-robotics`, `#iot` \
+Notable Channels: `#circuitpython`, `#arduino`, `#3dprinting`, `#radio`,`#raspberry-pi`, `#wearables`, `#robotics`, `#help-with-projects`, `#iot`, `#events` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/diy_tech.png" />
@@ -271,8 +271,9 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_plus_plus_help.png" />
 
 [__C++ Help__](https://discord.com/invite/J5hBe8F) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Eelis/geordi) \
-Notable Channels: `#cpp-questions`, `#help-0`, `#help-1`, `#help-2`, `#advanced`, `#gamedev`, `#project-showcase` \
-Language: English
+Notable Channels: `#cpp-questions`, `#help`, `#advanced`, `#gamedev`, `#project-showcase` \
+Language: English /
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/include.png" />
 
@@ -647,7 +648,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ubuntu_hideout.png" />
 
 [__Ubuntu Hideout__](https://discord.com/invite/jcwJEJH) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://ubuntuhideout.com/) \
-Notable Channels: `#tech-talk`, `#coding-cave`, `#help-general`, `#help-system-installation`, `#help-desktop-environment`, `#help-hardware-drivers`, `#help-networking`, `#help-programming` \
+Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fedora_linux.png" />
@@ -671,7 +672,7 @@ Language: English, Français, Deutsch, Italiano, język polski, Español, Nederl
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/manjaro_linux.png" />
 
 [__Manjaro Linux__](https://discord.com/invite/t6GJuTC) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
-Notable Channels: `#kde`, `#xfce`, `#gnome`, `#manjaro-arm`, `#general`, `#help-general`, `#help-installation`, `#programming`, `#customizations` \
+Notable Channels: `#kde`, `#xfce`, `#gnome`, `#manjaro-arm`, `#help-general`, `#help-installation`, `#programming`, `#customizations` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arch_linux_unofficial.png" />
