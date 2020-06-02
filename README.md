@@ -867,3 +867,5 @@ Language: English
 [__osu!dev__](https://discord.com/invite/ppy) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://ppy.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/ppy) \
 Notable Channels: `#osu-lazer`, `#osu-framework`, `#osu-dev`, `#difficulty-osu`, `#difficulty-taiko`, `#difficulty-catch`, `#difficulty-mania`, `#osu-wiki`, `#modding`, `#mappers-guild` \
 Language: English
+
+### Game Design
