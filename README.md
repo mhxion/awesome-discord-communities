@@ -860,3 +860,9 @@ Language: English
 [__Game Dev Network__](https://discord.com/invite/gdn) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twitter.com/gamedevnetwork_) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Game-Dev-Network) \
 Notable Channels: `#gamedev-talk`, `#career-advice`, `#gamejam`, `#work-in-progress`, `#unity`, `#unreal`, `#godot`, `#gamemaker`, `#stride-xenko`, `#roblox`, `#ui-ux`, `#3d-modeling`, `#sound`, `#looking-for-work` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/osu_dev.png" />
+
+[__osu!dev__](https://discord.com/invite/ppy) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://ppy.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/ppy) \
+Notable Channels: `#osu-lazer`, `#osu-framework`, `#osu-dev`, `#difficulty-osu`, `#difficulty-taiko`, `#difficulty-catch`, `#difficulty-mania`, `#osu-wiki`, `#modding`, `#mappers-guild` \
+Language: English
