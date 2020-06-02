@@ -727,6 +727,14 @@ Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
 Language: English, Deutsch, Français, Nederlands \
 <br />
 
+### API
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hasurahq.png" />
+
+[__HasuraHQ__](https://discord.com/invite/hasura) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://hasura.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/hasura/graphql-engine) \
+Notable Channels: `#graphql-engine`, `#new-to-graphql`, `#contrib`, `#look-what-i-built`, `#preview`, `#3factor-apps`, `#deployment-help` \
+Language: English
+
 ### Containers
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxserver_io.png" />
