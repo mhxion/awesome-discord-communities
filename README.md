@@ -881,3 +881,9 @@ Language: English
 [__/r/GameDesign__](https://discord.com/invite/gamedesign) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/gamedesign/) \
 Notable Channels: `#digital-game-design`, `#tabletop-game-design`, `#game-development`, `#music-and-art`, `#find-people`, `#get-found`, `#current-projects` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/openvfx_the_blender_hub.png" />
+
+[__OpenVFX: The Blender Hub__](https://discord.com/invite/blender) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
+Notable Channels: `#cgi-general`, `#resources`, `#3d-printing`, `#animation-rigging`, `#coding`, `#grease-pencil`, `#materials`, `#modeling`, `#physics`, `#rendering`, `#roblox`, **`so much more`** \
+Language: English, Deutsch, Português, Español, Nederlands, suomi, Magyar, svenska, dansk, हिन्दी
