@@ -726,7 +726,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amazon_web_services_aws_cloud.png" />
 
-[__Amazon Web Services (Aws Cloud)__](https://discord.com/invite/vG7nVX5) \
+[__Amazon Web Services (AWS Cloud)__](https://discord.com/invite/vG7nVX5) \
 Notable Channels: `#general-aws`, `#aws-rage`, `#ask-for-technical-help`, `#cloud-automation`, `#cloud-security`, `#getting-hired` \
 Language: English
 
