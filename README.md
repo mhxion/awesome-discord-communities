@@ -438,6 +438,12 @@ Notable Channels: `#chitchat`, `#support`, `#extensions`, `#extend`, `#internals
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tenancy.png" />
+
+[__Tenancy__](https://discord.com/invite/4amsQJ7) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tenancy.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/tenancy) \
+Notable Channels: `#brewery`, `#coding`, `#support`, `#internals`, `#multi-tenant-support`\
+Language: English 
+
 ### Python
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/python.png" />
