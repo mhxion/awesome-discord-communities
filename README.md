@@ -887,3 +887,5 @@ Language: English
 [__OpenVFX: The Blender Hub__](https://discord.com/invite/blender) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
 Notable Channels: `#cgi-general`, `#resources`, `#3d-printing`, `#animation-rigging`, `#coding`, `#grease-pencil`, `#materials`, `#modeling`, `#physics`, `#rendering`, `#roblox`, **`so much more`** \
 Language: English, Deutsch, Português, Español, Nederlands, suomi, Magyar, svenska, dansk, हिन्दी
+
+### Game Engines
