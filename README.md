@@ -854,3 +854,9 @@ Language: English
 [__Reddit /r/gamedev__](https://discord.com/invite/reddit-gamedev) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/gamedev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/r-gamedev) \
 Notable Channels: `#gamedev-general`, `#show-off-your-stuff`, `#unity`, `#unreal`, `#godot`, `#lhtml5-javascript`, `#c-cpp-csharp-java`, `#opengl-vulkan`, `#gamemaker`, `#retro`, `#audio`, `#visuals`, `#jobs` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/game_dev_network.png" />
+
+[__Game Dev Network__](https://discord.com/invite/gdn) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twitter.com/gamedevnetwork_) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Game-Dev-Network) \
+Notable Channels: `#gamedev-talk`, `#career-advice`, `#gamejam`, `#work-in-progress`, `#unity`, `#unreal`, `#godot`, `#gamemaker`, `#stride-xenko`, `#roblox`, `#ui-ux`, `#3d-modeling`, `#sound`, `#looking-for-work` \
+Language: English
