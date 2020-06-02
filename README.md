@@ -724,6 +724,12 @@ Server dwellers, discussions on network management and infrastructure, IT homela
 Notable Channels: `#sysadmin`, `#help`, `#security`, `#scripting`, `#microsoft`, `#linux`, `#career-advice`, `#networking` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amazon_web_services_(aws_cloud).png" />
+
+[__Amazon Web Services (Aws Cloud)__](https://discord.com/invite/vG7nVX5) \
+Notable Channels: `#general-aws`, `#aws-rage`, `#ask-for-technical-help`, `#cloud-automation`, `#cloud-security`, `#getting-hired` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homelab.png" />
 
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homelab/) \
