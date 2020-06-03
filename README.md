@@ -342,6 +342,14 @@ Language: English \
 Notable Channels: `#golang`, `#job-market-only`, `#go-art-only`, `#go-news-only`, `#discordgo`, `#disgord`, `#dca`, `#arikawa`\
 Language: English
 
+### Haxe
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/haxe.png" />
+
+[__Haxe__](https://discord.com/invite/0uEuWH3spjck73Lo) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://haxe.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/HaxeFoundation) \
+Notable Channels: `#general`, `#show-your-work`, `#tools`, `#flixel`, `#heaps`, `#kha`, `#nme`, `#haxepunk`, `#react`, `#haxe-ui`, `#lix`, `#coconut` \
+Language: English
+
 ### Java
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_java.png" />
