@@ -936,3 +936,9 @@ Data manupulation and visualization, machine learning frameworks and artificial 
 [__Artificial Intelligence__](https://discord.com/invite/CbVJYtz) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://discordnetwork.com/) \
 Notable Channels: `#questions`, `#machine-learning`, `#deep-learning`, `#reinforcement-learning`, `#natural-language-processing`, `#systems-neuroscience`, `#computer-vision`, **[`so much more`](badges.md#so-much-more)** \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_machinelearning.png" />
+
+[__/r/machinelearning__](https://discord.com/invite/FVBUKzD) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
+Notable Channels: `#quick-questions`, `#machine-learning-projects`, `#resources`, `#math-questions`, `#programming-questions`, `#andrew-ng-coursera-machine-learning` \
+Language: English
