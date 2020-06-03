@@ -909,3 +909,9 @@ Language: English
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/official_unity_discord.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/unity_developer_community.png" /> |
 |------------|------------|
 [__Official Unity Discord__](https://discord.com/invite/unity)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unity.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Unity-Technologies) | [__Unity Developer Community__](https://discord.com/invite/bu3bbby)<br> [<img align="center" height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) |
+
+### Game Development Tools
+
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/directx.png" /> |
+|------------|
+[__DirectX__](https://discord.com/invite/directx)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://devblogs.microsoft.com/directx/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Microsoft/DirectX-Graphics-Samples) |
