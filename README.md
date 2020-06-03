@@ -888,6 +888,12 @@ Language: English
 Notable Channels: `#cgi-general`, `#resources`, `#3d-printing`, `#animation-rigging`, `#coding`, `#grease-pencil`, `#materials`, `#modeling`, `#physics`, `#rendering`, `#roblox`, **`so much more`** \
 Language: English, Deutsch, Português, Español, Nederlands, suomi, Magyar, svenska, dansk, हिन्दी
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/graphics_programming.png" />
+
+[__Graphics Programming__](https://discord.com/invite/6mgNGk7) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GraphicsProgramming) \
+Notable Channels: `#career`, `#mathematics`, `#questions`, `#showcase`, `#ray-tracing`, `#techniques`, `#directx`, `#gpu-compute`, `#opengl`, `#unity-unreal`, `#vulkan`, `#web`, `#algorithms`, `#bikeshed`, `#engine-dev`, `#low-level` \
+Language: English
+
 ### Game Engines
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamemaker.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/godot_engine.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/unreal_slackers.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cryengine_community.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/construct_community.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/panda3d.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amethyst.png" /> |
