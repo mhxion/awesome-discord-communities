@@ -948,3 +948,11 @@ Language: English
 [__TensorFlow__](https://discord.com/invite/64MVzQX) \
 Notable Channels: `#tf-general`, `#ai-ethics`, `#tensorflow-javascript`, `#tensorflow-python`, `#convolutional-neural-network`, `#recurrent-neural-network`, `#generative-adversarial-networks` \
 Language: English
+
+### Data Science
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/data_science.png" />
+
+[__Data Science__](https://discord.com/invite/UYNaemm) \
+Notable Channels: `#general`, `#machine-learning`, `#math`, `#programming`, `#career`, `#visualization`, `#resources`, `#colab`, `#papers` \
+Language: English
