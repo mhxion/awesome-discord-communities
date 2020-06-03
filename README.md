@@ -272,7 +272,7 @@ Language: English
 
 [__C++ Help__](https://discord.com/invite/J5hBe8F) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Eelis/geordi) \
 Notable Channels: `#cpp-questions`, `#help`, `#advanced`, `#gamedev`, `#project-showcase` \
-Language: English /
+Language: English \
 <br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/include.png" />
