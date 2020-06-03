@@ -962,3 +962,10 @@ Language: English
 [__Data Science__](https://discord.com/invite/UYNaemm) \
 Notable Channels: `#general`, `#machine-learning`, `#math`, `#programming`, `#career`, `#visualization`, `#resources`, `#colab`, `#papers` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/dvc.png" />
+
+[__Data Version Control__](https://discord.com/invite/dvwXA2N) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://dvc.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/iterative/dvc) \
+Notable Channels: `#q-and-a`, `#need-help`, `#general`, `#dev-talk`, `#dev-docs` \
+Language: English \
+<br />
