@@ -894,6 +894,10 @@ Language: English, Deutsch, Português, Español, Nederlands, suomi, Magyar, sve
 Notable Channels: `#mathematics`, `#questions`, `#ray-tracing`, `#techniques`, `#directx`, `#gpu-compute`, `#opengl`, `#unity-unreal`, `#vulkan`, `#web`, `#algorithms`, `#bikeshed`, `#engine-dev`, `#low-level` \
 Language: English
 
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/shadertoy.png" /> |
+|------------|
+[__Shadertoy__](https://discord.com/invite/XtmMN6E)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.shadertoy.com) |
+
 ### Game Engines
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamemaker.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/godot_engine.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/unreal_slackers.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cryengine_community.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/construct_community.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/panda3d.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amethyst.png" /> |
