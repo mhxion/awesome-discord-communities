@@ -942,3 +942,9 @@ Language: English
 [__/r/machinelearning__](https://discord.com/invite/FVBUKzD) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
 Notable Channels: `#quick-questions`, `#machine-learning-projects`, `#resources`, `#math-questions`, `#programming-questions`, `#andrew-ng-coursera-machine-learning` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tensorflow.png" />
+
+[__TensorFlow__](https://discord.com/invite/64MVzQX) \
+Notable Channels: `#tf-general`, `#ai-ethics`, `#tensorflow-javascript`, `#tensorflow-python`, `#convolutional-neural-network`, `#recurrent-neural-network`, `#generative-adversarial-networks` \
+Language: English
