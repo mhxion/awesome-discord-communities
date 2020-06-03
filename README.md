@@ -935,6 +935,12 @@ Language: English
 Notable Channels: `#udon-questions`, `#vrchat-development`, `#avatars`, `#avatar-rigging`, `#animation`, `#shaders`, `#3d-modeling`, `#worlds`, `#world-lighting`, `#oculus-quest-development`, **[`so much more`](badges.md#so-much-more)** \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/virtual_reality.png" />
+
+[__Virtual Reality__](https://discord.com/invite/virtualreality) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) \
+Notable Channels: `#strictly-vr`, `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#oculus-go`, `#valve-index`, `#pimax-vr`, `#htc-vive`, `#windows-mixed-reality`, `#playstation-vr`, `#vr-flightsims` \
+Language: English
+
 ### Game Development Tools
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/directx.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/twine_games.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/rpcs3.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/enginehub.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tes3mp.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxgsm_.png" /> |
