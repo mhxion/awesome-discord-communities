@@ -891,7 +891,7 @@ Language: English, Deutsch, Português, Español, Nederlands, suomi, Magyar, sve
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/graphics_programming.png" />
 
 [__Graphics Programming__](https://discord.com/invite/6mgNGk7) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GraphicsProgramming) \
-Notable Channels: `#career`, `#mathematics`, `#questions`, `#showcase`, `#ray-tracing`, `#techniques`, `#directx`, `#gpu-compute`, `#opengl`, `#unity-unreal`, `#vulkan`, `#web`, `#algorithms`, `#bikeshed`, `#engine-dev`, `#low-level` \
+Notable Channels: `#mathematics`, `#questions`, `#ray-tracing`, `#techniques`, `#directx`, `#gpu-compute`, `#opengl`, `#unity-unreal`, `#vulkan`, `#web`, `#algorithms`, `#bikeshed`, `#engine-dev`, `#low-level` \
 Language: English
 
 ### Game Engines
