@@ -83,7 +83,7 @@ Language: English
 
 ## Art of Computer Science
 
-Discussions about the concepts behind modern, and classical computing and its relatives.
+Discussions on the concepts behind modern, and classical computing and its kin.
 
 ### Computer Science
 
@@ -111,7 +111,6 @@ Language: English
 
 ### Other Sciences
 
-
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/chemistry.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/biological_sciences.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/climate_science.png" /> |
 |----------------------|-------------------|---------------------|
 | [__Biological<br>Sciences__](https://discord.com/invite/QwSdffq)<br>[<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/) | [__Chemistry__](https://discord.com/invite/eexdsFw)<br>[<img align="center" height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/) | [__Climate<br>Science__](https://discord.com/invite/YXvuN8X)<br><img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png"> |
@@ -130,7 +129,7 @@ Language: English
 
 ## Electricals
 
-Discussions about the bare-bones circuit boards, microprocessors and cutting edge hardware.  
+Discussions on bare-bones circuit boards, microprocessors, and bleeding edge hardware.  
 
 ### Engineering
 
@@ -555,7 +554,7 @@ Language: English
 
 ## Operating Systems
 
-The underlying kernels that are responsible for managing 1-dimensional binary bits.
+The underlying kernels that are responsible for managing application processes. 
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/operating_system_development.png" />
 
@@ -770,7 +769,7 @@ Language: English
 
 ## Computer Security
 
-Everything a read team is allowed to do; securty asssessment, reverse engineering, loopholes in networks, vulnerability research and so on.
+Everything red and blue teams are leaglly allowed to do; securty asssessment, reverse engineering, loopholes in networks, vulnerability research and so on.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reverse_engineering.png" />
 
@@ -828,7 +827,7 @@ Language: English
 
 ## Blockchain and Cryptocurrency
 
-The open-source development of cryptocurrencies and the applications of blockchain.
+The open-source development of cryptocurrencies and applications of blockchain.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cryptodevs.png" />
 
@@ -850,7 +849,7 @@ Language: English
 
 ## Game Development
 
-Making of games, how to rasterize or real time ray tracing, the complexities behind each mmovement, everything before publishing in the app store.
+Making of games, how to rasterize or real time ray tracing, the complexities behind each object movement, everything before publishing in the marketplace.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/game_dev_league.png" />
 
