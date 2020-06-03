@@ -930,3 +930,9 @@ Language: English
 ## Machine Learning
 
 Data manupulation and visualization, machine learning frameworks and artificial intelligence.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/artificial_intelligence.png" />
+
+[__Artificial Intelligence__](https://discord.com/invite/CbVJYtz) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://discordnetwork.com/) \
+Notable Channels: `#questions`, `#machine-learning`, `#deep-learning`, `#reinforcement-learning`, `#natural-language-processing`, `#systems-neuroscience`, `#computer-vision`, **[`so much more`](badges.md#so-much-more)** \
+Language: English
