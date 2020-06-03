@@ -933,7 +933,7 @@ Language: English
 
 [__VRChat__](https://discord.com/invite/vrchat) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vrchat.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vrchat) \
 Notable Channels: `#udon-questions`, `#vrchat-development`, `#avatars`, `#avatar-rigging`, `#animation`, `#shaders`, `#3d-modeling`, `#worlds`, `#world-lighting`, `#oculus-quest-development`, **[`so much more`](badges.md#so-much-more)** \
-Language: English
+Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский  
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/virtual_reality.png" />
 
