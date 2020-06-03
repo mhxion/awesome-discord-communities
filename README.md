@@ -738,6 +738,12 @@ Language: English
 Notable Channels: `#general-aws`, `#aws-rage`, `#ask-for-technical-help`, `#cloud-automation`, `#cloud-security`, `#getting-hired` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/data_engineering.png" />
+
+[__Data Engineering__](https://discord.com/invite/2pER6dq) \
+Notable Channels: `#general`, `#show`, `#help`, `#career`, `#data-science` `#resources`, `#architecture`, `#cloud`, `#databases`, `#etl-workflow` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homelab.png" />
 
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homelab/) \
