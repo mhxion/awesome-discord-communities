@@ -850,7 +850,7 @@ Language: English
 
 ## Game Development
 
-Making of games, the communities behind them, and the complexities each platform brings out.
+Making of games, how to rasterize or real time ray tracing, the complexities behind each mmovement, everything before publishing in the app store.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/game_dev_league.png" />
 
