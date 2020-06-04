@@ -17,13 +17,6 @@ The server is owned and moderated by an existing [Reddit](https://www.reddit.com
 
 <br>
 
-<img align="left" height="86px" width="86px" alt="Badge for Exceptional Servers" src="images/badges/prime_86px.png" />
-
-#### Popularity Badge
-The server is quite popular in its specific domain, has relatively large number of active users, has shown creative, professional and reputable activities. 
-
-<br>
-
 <img align="left" height="86px" width="86px" alt="Badge for owning a Website" src="images/badges/homepage_86px.png" />
 
 #### Home Badge
