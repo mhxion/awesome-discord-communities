@@ -996,3 +996,7 @@ Language: English \
 Notable Channels: `#dataviz`, `#datascience`, `#looking-for-help` \
 Language: English \
 <br />
+
+## Career
+
+Discussions on interview challenges, resume reviews, job opportunities in the field of programming.
