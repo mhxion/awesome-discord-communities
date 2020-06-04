@@ -3,7 +3,7 @@
 A curated list of awesome [Discord](https://discord.com/) communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts.
 
 <!-- omit in toc -->
-## Table of Contents
+## Contents
 - [Programming in General](#programming-in-general)
   - [Support Communities](#support-communities)
   - [Competitive Programming](#competitive-programming)
