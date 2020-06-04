@@ -1014,9 +1014,11 @@ Language: English, Deutsch, português, español, Nederlands, suomi, Magyar, sve
 Notable Channels: `#mathematics`, `#questions`, `#ray-tracing`, `#techniques`, `#directx`, `#gpu-compute`, `#opengl`, `#unity-unreal`, `#vulkan`, `#web`, `#algorithms`, `#bikeshed`, `#engine-dev`, `#low-level` \
 Language: English
 
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/shadertoy.png" /> |
-|------------|
-[__Shadertoy__](https://discord.com/invite/XtmMN6E)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.shadertoy.com) |
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/shadertoy.png" />
+
+[__Shadertoy__](https://discord.com/invite/XtmMN6E) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.shadertoy.com) \
+Notable Channels: `#shader-programming`, `#beginners`, `#mathematics`, `#showcase`, `#live-coding-streams`, `#resources` \
+Language: English
 
 ### Game Engines
 
