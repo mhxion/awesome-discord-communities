@@ -5,7 +5,7 @@ A curated list of awesome [Discord](https://discord.com/) communities for develo
 
 Some Discord counterpart communities to StackOverflow.
 
-### Support Servers
+### Support Communities
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_programmers_hangout.png" />
 
