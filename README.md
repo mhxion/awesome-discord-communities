@@ -39,7 +39,6 @@ A curated list of awesome [Discord](https://discord.com/) communities for develo
   - [Lua](#lua)
   - [PHP](#php)
   - [Python](#python)
-    - [Python Libraries](#python-libraries)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Swift](#swift)
