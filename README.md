@@ -579,8 +579,6 @@ Language: English \
 Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#computer-science`, `#database`, `#data-science`, `#dev-ops`, `#discord-py`, `#game-development`, `#security`, **[`so much more`](badges.md#so-much-more)** \
 Language: English
 
-#### Python Libraries
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pallets_project.png" />
 
 [__Pallets Project__](https://discord.gg/t6rrQZH) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://palletsprojects.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/pallets) \
