@@ -579,7 +579,7 @@ Language: English \
 Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#computer-science`, `#database`, `#data-science`, `#dev-ops`, `#discord-py`, `#game-development`, `#security`, **[`so much more`](badges.md#so-much-more)** \
 Language: English
 
-#### Python Frameworks
+#### Python Libraries
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pallets_project.png" />
 
