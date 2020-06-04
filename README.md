@@ -93,6 +93,12 @@ Discussions on the concepts behind modern, and classical computing and its kin.
 Notable Channels: `#computer-science`, `#resources`, `#algorithms-and-data-structures`,`#theory-of-computation`, `#information-and-coding-theory`, `#cryptography`, `#artificial-intelligence` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cs50.png" />
+
+[__cs50__](https://discord.com/invite/QYZQfZ6) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.edx.org/course/cs50s-introduction-to-computer-science)\
+Notable Channels: `#lectures`, `#scratch`, `#hello`,`#mario`, `#cash`, `#credit`, `#readability`, `#caesar`, `#substitution`, `#plurality`, `#runoff`, `#tideman`, `#filter`, `#c-to-python-sentimental`, **[`so much more`](badges.md#so-much-more)** \
+Language: English
+
 ### Mathematics
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/mathematics.png" />
