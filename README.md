@@ -975,6 +975,13 @@ Language: English
 Notable Channels: `#quick-questions`, `#machine-learning-projects`, `#resources`, `#math-questions`, `#programming-questions`, `#andrew-ng-coursera-machine-learning` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/sentdex.png" />
+
+[__Sentdex__](https://discord.com/invite/sentdex) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.youtube.com/user/sentdex) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Sentdex) \
+Notable Channels: `#__main__`, `#help` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tensorflow.png" />
 
 [__TensorFlow__](https://discord.com/invite/64MVzQX) \
