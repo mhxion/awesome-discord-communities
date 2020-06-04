@@ -377,7 +377,7 @@ Language: English
 
 [__emberjs__](https://discord.gg/emberjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://emberjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/emberjs) \
 Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, **[`so much more`](badges.md#so-much-more)** \
-Language: English, Français, Deutsch, Português, Pусский, Español 
+Language: English, français, Deutsch, português, pусский, español 
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/docusaurus.png" />
 
@@ -527,7 +527,7 @@ Language: English
 
 [__VAPOR__](https://discord.com/invite/vapor) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vapor.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vapor/vapor) \
 Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, **[`so much more`](badges.md#so-much-more)**` \
-Language: English, čeština, Español, русский, Deutsch, 中文频道, Nederlands, 日本語, Français, Italiano, українська-мова, 한국어
+Language: English, čeština, español, русский, Deutsch, 中文频道, Nederlands, 日本語, français, italiano, українська-мова, 한국어
 
 ### Typescript
 
@@ -680,7 +680,7 @@ Language: English, 日本語
 
 [__openSUSE__](https://discord.com/invite/openSUSE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.opensuse.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/openSUSE) \
 Notable Channels: `#support`, `#chat`, `#project`, `#packaging`, `#factory`, `#admin`, `#artwork`, `#docs`, `#gnome`, `#xfce` \
-Language: English, Français, Deutsch, Italiano, język polski, Español, Nederlands
+Language: English, français, Deutsch, italiano, polski, español, Nederlands
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/manjaro_linux.png" />
 
@@ -754,7 +754,7 @@ Language: English
 
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homelab/) \
 Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
-Language: English, Deutsch, Français, Nederlands \
+Language: English, Deutsch, français, Nederlands \
 <br />
 
 ### API
@@ -905,7 +905,7 @@ Language: English
 
 [__OpenVFX: The Blender Hub__](https://discord.com/invite/blender) \
 Notable Channels: `#cgi-general`, `#resources`, `#3d-printing`, `#animation-rigging`, `#coding`, `#grease-pencil`, `#materials`, `#modeling`, `#physics`, `#rendering`, `#roblox`, **[`so much more`](badges.md#so-much-more)** \
-Language: English, Deutsch, Português, Español, Nederlands, suomi, Magyar, svenska, dansk, हिन्दी
+Language: English, Deutsch, português, español, Nederlands, suomi, Magyar, svenska, dansk, हिन्दी
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/graphics_programming.png" />
 
@@ -951,7 +951,7 @@ Language: English
 
 [__Project North Star__](https://discord.com/invite/2aE2Nfq) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://developer.leapmotion.com/northstar) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/leapmotion/ProjectNorthStar) \
 Notable Channels: `#build-planning`, `#northstar3-2`, `#jenson-redesing`, `#triton`, `#exii-raspberry-pi`, `#cad`, `#eye-tracking`, `#calibration`, `#steamvr`, `#mechanical`, `#firmware`, `#troubleshooting` \
-Language: English, Deutsch, Français, Español, 日本語, 韓國語
+Language: English, Deutsch, français, español, 日本語, 韓國語
 
 ### Game Development Tools
 
