@@ -1,5 +1,5 @@
-# Awesome Discord Servers
-A curated list of awesome discord servers for hackers, developers, mathematicians and tech enthusiasts.
+# Awesome Programming Discord
+A curated list of awesome [Discord](https://discord.com/) communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts.
 
 ## Programming in General
 
