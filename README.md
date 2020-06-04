@@ -1010,6 +1010,12 @@ Notable Channels: `#dataviz`, `#datascience`, `#looking-for-help` \
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_data_share.png" />
+
+[__The Data Share__](https://discord.com/invite/eaPVRW3) \
+Notable Channels: `#machine-learning`, `#natural-language-processing`, `#analytics`, `#programming`, `#data-engineering`, `#visualizations`, `#community` \
+Language: English
+
 ## Career
 
 Discussions on interview challenges, resume reviews, job opportunities in the field of programming.
