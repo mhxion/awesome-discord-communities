@@ -46,7 +46,7 @@ A curated list of awesome [Discord](https://discord.com/) communities for develo
 - [Design and Illustrations](#design-and-illustrations)
 - [Operating Systems](#operating-systems)
   - [Android](#android)
-  - [Apple's Systems](#apples-systems)
+  - [Apple Systems](#apple-systems)
   - [Windows](#windows)
   - [Linux](#linux)
     - [Linux in General](#linux-in-general)
