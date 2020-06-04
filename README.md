@@ -698,7 +698,7 @@ Language: English
 Notable Channels: `#root`, `#custom-roms`, `#theming`, `#development`, `#magisk`, `#twrp`, `#substratum`, `#support-room` \
 Language: English
 
-### Apple's Systems
+### Apple Systems
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/apple_betas.png" />
 
