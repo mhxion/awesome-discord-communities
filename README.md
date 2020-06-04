@@ -1000,3 +1000,9 @@ Language: English \
 ## Career
 
 Discussions on interview challenges, resume reviews, job opportunities in the field of programming.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cs_career_hackers.png" />
+
+[__CS Career Hackers__](https://discord.com/invite/rGwhXJv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Popularity Badge" src="images/badges/prime.png">](badges.md#popularity-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cscareerhackers.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/CS-Career-Hackers) \
+Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#career-questions`, `#ask-a-manager`, `#students`, `#meetups`, `#programming-challenges` \
+Language: English \
