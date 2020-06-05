@@ -1136,6 +1136,7 @@ Discussions on interview challenges, resume reviews, job opportunities in the fi
 Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#career-questions`, `#ask-a-manager`, `#students`, `#meetups`, `#programming-challenges` \
 Language: English
 
+<!-- omit in toc -->
 ## Attribution
 
 Badge icons are made by [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
