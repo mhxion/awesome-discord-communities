@@ -1135,3 +1135,9 @@ Discussions on interview challenges, resume reviews, job opportunities in the fi
 [__CS Career Hackers__](https://discord.com/invite/rGwhXJv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cscareerhackers.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/CS-Career-Hackers) \
 Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#career-questions`, `#ask-a-manager`, `#students`, `#meetups`, `#programming-challenges` \
 Language: English
+
+## Attribution
+
+Badge icons are made by [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
+
+To attribute this awesome list (as restricted by the license) see [how to attribute](FAQ.md#FAQ.md#how-to-properly-attribute-to-compliment-the-license-cc-by-40).
