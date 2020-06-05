@@ -1,6 +1,13 @@
+<!-- omit in toc -->
 # Frequently Asked Questions
 
 Answers to some common questions that may come to your mind while exploring this awesome list.
+- [What is Discord.com exactly?](#what-is-discordcom-exactly)
+- [What about Discord's poor privacy policy?](#what-about-discords-poor-privacy-policy)
+- [Why is this list is made so fancy?](#why-is-this-list-is-made-so-fancy)
+- [How to contribute?](#how-to-contribute)
+- [How to report any issue with the list?](#how-to-report-any-issue-with-the-list)
+- [How to properly attribute to compliment the license (CC BY 4.0)?](#how-to-properly-attribute-to-compliment-the-license-cc-by-40)
 
 ### What is Discord.com exactly?
 
