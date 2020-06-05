@@ -4,7 +4,7 @@
 Answers to some common questions that may come to your mind while exploring this awesome list.
 - [What is Discord.com exactly?](#what-is-discordcom-exactly)
 - [What about Discord's poor privacy policy?](#what-about-discords-poor-privacy-policy)
-- [Why is this list is made so fancy?](#why-is-this-list-is-made-so-fancy)
+- [Why is this list made so fancy?](#why-is-this-list-made-so-fancy)
 - [How to contribute?](#how-to-contribute)
 - [How to report any issue with the list?](#how-to-report-any-issue-with-the-list)
 - [How to properly attribute to compliment the license (CC BY 4.0)?](#how-to-properly-attribute-to-compliment-the-license-cc-by-40)
@@ -21,9 +21,9 @@ A _server_ in Discord simply refers to the community itself.
 
 ### What about Discord's poor privacy policy?
 
-It has been raised many times about Discord's [awful privacy control](https://swordfishevaluations.com/2019/09/12/privacy-concerns-with-discord/), [being a potentional spyware](https://spyware.neocities.org/articles/discord.html), [Richar Stallman's blog](https://stallman.org/discord.html), and [risks of online predators](https://www.wsj.com/articles/discord-where-teens-rule-and-parents-fear-to-tread-11560245402) in a national newspaper. But as much as I'd like to hate Discord because of this, it is hard to deny the wonderful growing communities that are no less-productive than their counteparts in another privacy-focused platform. This alone encouraged me to create this list.
+It has been raised many times about Discord's [awful privacy control](https://swordfishevaluations.com/2019/09/12/privacy-concerns-with-discord/), [being a potentional spyware](https://spyware.neocities.org/articles/discord.html), [Richar Stallman's blog](https://stallman.org/discord.html), and [risks of online predators](https://www.wsj.com/articles/discord-where-teens-rule-and-parents-fear-to-tread-11560245402) in a national newspaper. But as much as I'd like to hate Discord because of this, it is hard to deny the wonderful growing communities that are no less-productive than their counteparts in another privacy-focused platform. That alone encouraged me to create this list.
 
-### Why is this list is made so fancy?
+### Why is this list made so fancy?
 
 It may seem at first some of the assets are redundant, and that simply invite links would do the job. But no additional objects i.e., badges here come empty handed, they all bring in useful links about a community that would save you some googling.
 
