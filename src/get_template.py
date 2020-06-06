@@ -27,11 +27,12 @@ class APDTemplateGenerator:
 
         def check_invite():
             while True:
+                # TODO: This needs to be displaced with a better domain traceroute check.
                 link = input("\n➜ Enter a permanent invite link to the server:\n")
                 for _ in link.split(".com") + link.split(".gg"):
                     if _ in ["https://discord", "https://discordapp", "http://discord", "http://discordapp",
                              "https://www.discord", "https://www.discordapp", "http://www.discord",
-                             "http://www.discordapp"]:
+                             "http://www.discordapp", "discord", "discordapp"]:
                         return link
                 else:
                     print(f"Only invite link that is generated from Discord platform itself is allowed.")
