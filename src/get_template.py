@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class APDTemplateGenerator:
     """A simple template generator for Awesome Programming Discord"""
     def __init__(self, name, invite_link, server_icon, is_reddit, is_official, homepage, git_repo, channels, language):
