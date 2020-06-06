@@ -17,7 +17,7 @@ class APDTemplateGenerator:
     def validate(cls):
         def check_name():
             while True:
-                name = input("Enter the name of the Discord community/server:\n")
+                name = input("➜ Enter the name of the Discord community/server:\n")
                 if name.isascii():
                     return name
                 else:
@@ -27,7 +27,7 @@ class APDTemplateGenerator:
 
         def check_invite():
             while True:
-                link = input("Enter a permanent invite link to the server:\n")
+                link = input("\n➜ Enter a permanent invite link to the server:\n")
                 for _ in link.split(".com") + link.split(".gg"):
                     if _ in ["https://discord", "https://discordapp", "http://discord", "http://discordapp",
                              "https://www.discord", "https://www.discordapp", "http://www.discord",
@@ -40,7 +40,7 @@ class APDTemplateGenerator:
         def icon_link():
             while True:
                 try:
-                    img = input("Enter server icon (PNG/JPG) URL. Make sure it's a static link:\n")
+                    img = input("\n➜ Enter server icon (PNG/JPG) URL. Make sure it's a static link:\n")
                 except ValueError:
                     print(f"Sorry, the URL you entered was not in a valid text format.")
                     continue
@@ -49,7 +49,7 @@ class APDTemplateGenerator:
         def is_reddit_check():
             while True:
                 rdt = input(
-                    "Does the server belong to or officially recognized by an existing sub-Reddit? "
+                    "\n➜ Does the server belong to or officially recognized by an existing sub-Reddit? "
                     "Enter Yes/y or No/n:\n").lower()
                 if rdt not in ["y", "yes", "n", "no"]:
                     print(f'''Sorry that did not go through. Simply enter "yes" or "no".''')
@@ -61,7 +61,7 @@ class APDTemplateGenerator:
 
         def is_official_check():
             while True:
-                org = input("Is the server owned or recognized by an established entity "
+                org = input("\n➜ Is the server owned or recognized by an established entity "
                             "e.g., a company, organization, open-source project, content creator?\n"
                             "Enter Yes/y or No/n:\n").lower()
                 if org not in ["y", "yes", "n", "no"]:
@@ -73,7 +73,7 @@ class APDTemplateGenerator:
                     return True
 
         def get_homepage():
-            home = input("Enter homepage URL of the community (if any). To skip press Enter. \n")
+            home = input("\n➜ Enter homepage URL of the community (if any). To skip press Enter. \n")
             while not home and (is_reddit_check or is_official_check):
                 # if not home and (is_reddit_check or is_official_check):
                 home = input(f"If you're an official entity or a sub-reddit, you must have an homepage.\n"
@@ -83,11 +83,11 @@ class APDTemplateGenerator:
             return home
 
         def get_git_repo():
-            git = input("Enter the link to the community maintained remote Git repository. Press Enter to skip:\n")
+            git = input("\n➜ Enter the link to the community maintained remote Git repository. Press Enter to skip:\n")
             return git
 
         def get_channels():
-            notable = input('Enter the notable channels separated by comma. E.g.,"channel-1, channel-2, channel-3".\n'
+            notable = input('\n➜ Enter the notable channels separated by comma. E.g.,"channel-1, channel-2, channel-3".\n'
                             'Make sure channel names do not include spaces:\n')
             notable_trunc = ["#" + _ for _ in "".join([_ if _ != " " else "" for _ in notable]).split(",")]
             while len(", ".join(notable_trunc)) > 195:
@@ -95,7 +95,7 @@ class APDTemplateGenerator:
             return ", ".join(notable_trunc)
 
         def get_language():
-            lang = input("Enter the languages the server has dedicated channels for, separated by comma:\n")
+            lang = input("\n➜ Enter the languages the server has dedicated channels for, separated by comma:\n")
             return lang
 
         return cls(check_name(), check_invite(), icon_link(), is_reddit_check(), is_official_check(), get_homepage(),
