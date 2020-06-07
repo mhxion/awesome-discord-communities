@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
+
 class APDTemplateGenerator:
-    """A simple template generator for Awesome Programming Discord"""
+    """A simple markdown template generator for Awesome Programming Discord"""
+
     def __init__(self, name, invite_link, server_icon, is_reddit, is_official, homepage, git_repo, channels, language):
         self.name = name
         self.invite_link = invite_link
@@ -21,7 +23,7 @@ class APDTemplateGenerator:
                 if name.isascii():
                     return name
                 else:
-                    print(f"Looks like the server name contains non-ascii characters. Emojis are discouraged.\n"
+                    print(f"Looks like the server name contains non-ascii characters. Emoji are discouraged.\n"
                           f"But you can change that later. Moving on.")
                     return name
 
@@ -84,15 +86,23 @@ class APDTemplateGenerator:
             return home
 
         def get_git_repo():
-            git = input("\n➜ Enter the link to the community maintained remote Git repository. Press Enter to skip:\n")
+            git = input("\n➜ Enter the link to the community-maintained remote Git repository. Press Enter to skip:\n")
             return git
 
         def get_channels():
-            notable = input('\n➜ Enter the notable channels separated by comma. E.g.,"channel-1, channel-2, channel-3".\n'
-                            'Make sure channel names do not include spaces:\n')
-            notable_trunc = ["#" + _ for _ in "".join([_ if _ != " " else "" for _ in notable]).split(",")]
-            while len(", ".join(notable_trunc)) > 195:
+            notable = input('\n➜ Enter the notable channels separated by comma.'
+                            'E.g.,"channel-1, channel-2, channel-3". Make sure channel names do not contain spaces:\n')
+            notable_trunc = ["`#" + _ + "`" for _ in "".join([_ if _ != " " else "" for _ in notable]).split(",")]
+            # notable_trunc_il = len(", ".join(notable_trunc))
+            notable_trunc_l = notable_trunc_il = len(", ".join(notable_trunc))
+            while notable_trunc_l > 195:
                 notable_trunc.pop()
+                notable_trunc_l = len(", ".join(notable_trunc))
+            if notable_trunc_il >= 271:
+                for i in range(2):
+                    notable_trunc.pop()
+                notable_trunc.append("**[`so much more`](badges.md#so-much-more)**")
+                return ", ".join(notable_trunc)
             return ", ".join(notable_trunc)
 
         def get_language():
@@ -138,7 +148,7 @@ class APDTemplateGenerator:
         return self.channels
 
     def valid_language(self):
-        return self.language if len(self.channels) > 76 else self.language + " \\\n<br />"
+        return self.language if len(self.channels) >= 76 else self.language + " \\\n<br />"
 
 
 if __name__ == '__main__':
@@ -148,8 +158,8 @@ Here's your snippet to copy.
 =========================================================================
 {plate.valid_icon()}
     
-[__{plate.valid_name()}__]({plate.valid_invite()}){plate.valid_official()}{plate.valid_reddit()}{plate.valid_home()}{plate.valid_git()}\
+[__{plate.valid_name()}__]({plate.valid_invite()}){plate.valid_official()}{plate.valid_reddit()}{plate.valid_home()}{plate.valid_git()} \\
     
-Notable Channels: {plate.valid_channels()}
+Notable Channels: {plate.valid_channels()} \\
 Language: {plate.valid_language()}
 """)
