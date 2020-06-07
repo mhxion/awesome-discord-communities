@@ -494,7 +494,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactiflux.png" />
 
 [__Reactiflux__](https://discord.gg/reactiflux) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reactiflux.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/reactiflux/reactiflux.com) \
-Notable Channels: Notable Channels: `#help-react`, `#react-native`, `#js`, `#styling`, `#backend`, `#graphql`, `#code-review`, `#react-router`, `#redux`, `#react-bootstrap`, `#formik`, `#rx-js`, `#refract`, `#survive-js`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: Notable Channels: `#help-react`, `#react-native`, `#js`, `#styling`, `#backend`, `#graphql`, `#code-review`, `#react-router`, `#redux`, `#react-bootstrap`, `#formik`, `#rx-js`, **[`so much more`](badges.md#so-much-more)** \
 Language: English
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gatsby.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/invertase_oss.png" /> |
