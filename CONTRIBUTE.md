@@ -32,7 +32,7 @@ This project follows a tedious markdown template, but it serves an aesthetic pur
 Notable Channels: `#most-important-channel-1`, `#most-important-channel-2`, `...`, `#least-important-channel` \
 Language: English, Deutsch, 日本語
 ```
-If you're not familiar with many of the syntaxes here, you can use this [simple pure Python script](./src/get_template.py) which will generate this template with only a few keyboard strokes. You only need [Python](https://www.python.org/downloads/) installed, if you're on MacOS or Linux chances are Python is already installed. Download the script and run:
+If you're not familiar with many of the syntax here, you can use this [simple pure Python script](./src/get_template.py) which will generate this template with only a few keyboard strokes. You only need [Python](https://www.python.org/downloads/) installed, if you're on MacOS or Linux chances are Python is already installed. Download the script and run:
 ```sh
 python3 /path/to/get_template.py
 ```
@@ -69,5 +69,9 @@ You should see the generated snippet, you can copy/paste this to propose file ch
 ## Propose File Change
 
 As for now no automated pull request is implemented, I'll do that in the future depending on the traffic of requests. You'll have to fork this project and add your server to a section or sebsection, or you can create a new section, then create a pull request. See [how to easily make changes from GitHub](https://github.com/sindresorhus/awesome/blob/master/contributing.md).
+
+## Issues
+
+If you've found an issue with an existing server or have a suggestion to make to improve this list, feel free to file a pull request or an [issue](https://github.com/mhxion/awesome-programming-discord/issues/new/choose) here.
 
 Thank you for your contribution 💚
