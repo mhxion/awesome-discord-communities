@@ -1,7 +1,7 @@
 <img align="right" height="207x" width="205px" alt="Banner" src="images/awesome_programming_discord.png" />
 
 <!-- omit in toc -->
-# Awesome Programming Discord
+# Awesome Programming Discord [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome [Discord](https://discord.com/) communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts.
 
