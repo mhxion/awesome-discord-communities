@@ -23,6 +23,10 @@ A _server_ in Discord simply refers to the community itself.
 
 It has been raised many times about Discord's [awful privacy control](https://swordfishevaluations.com/2019/09/12/privacy-concerns-with-discord/), [being a potentional spyware](https://spyware.neocities.org/articles/discord.html), [Richar Stallman's blog](https://stallman.org/discord.html), and [risks of online predators](https://www.wsj.com/articles/discord-where-teens-rule-and-parents-fear-to-tread-11560245402) in a national newspaper. But as much as I'd like to hate Discord because of this, it is hard to deny the wonderful growing communities that are no less-productive than their counteparts in another privacy-focused platform. That alone encouraged me to create this list.
 
+### Are you or is this project affiliated?
+
+Neither me, or any part of this project is affiliated with Discord in any way. 
+
 ### Why is this list made so fancy?
 
 It may seem at first some of the assets are redundant, and that simply invite links would do the job. But no additional objects i.e., badges here come empty handed, they all bring in useful links about a community that would save you some googling.
