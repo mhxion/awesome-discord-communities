@@ -29,7 +29,7 @@ It may seem at first some of the assets are redundant, and that simply invite li
 
 ### How to contribute?
 
-Refer to the [CONTRIBUTE.md](./CONTRIBUTE.md) page. As for now the pull request isn't automated.
+Refer to the [contributing](CONTRIBUTING.md) page. As for now the pull request isn't automated.
 
 ### How to report any issue with the list?
 
