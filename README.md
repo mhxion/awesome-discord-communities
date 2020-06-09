@@ -140,7 +140,8 @@ Language: English
 
 [__developlace.it__](https://discord.com/invite/Fprsyxz) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/developlace) \
 Notable Channels: `#projects`, `#web`, `#c_cpp`, `#c_sharp`,`#python`, `#jvm`, `#other`, `#pc_zone`, `#mobile_zone` \
-Language: English, Polish
+Language: English, Polish \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.png" />
 
@@ -266,7 +267,8 @@ Language: English
 
 [__/r/Home Automation__](https://discord.com/invite/homeautomation) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homeautomation/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/dgparker/rosie-the-bot) \
 Notable Channels: `#suggestions`, `#smartspeakers`, `#smarthub`, `#lighting`, `#security`, `#iot-dev`, `#buy-sell-trade` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_homekit.png" />
 
@@ -485,7 +487,8 @@ Language: English
 
 [__Nodeiflux__](https://discord.com/invite/vUsrbjd) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nodejs.org/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nodejs) \
 Notable Channels: `#general`, `#need-help`, `#i-made-this`, `#news-and-links`, `#libraries`, `#ops`, `#react`, `#jobs` \
-Language: English
+Language: English \
+<br />
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nestjs.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adonisjs_framework.png" />
 |----------------------|-------------------|
@@ -551,7 +554,8 @@ Language: English
 
 [__Lua Scripters__](https://discord.com/invite/7wu7ZsW) \
 Notable Channels: `#scripting`, `#creations`, `#roblox`, `#gmod`, `#wow`, `#fivem`, `#luajit`, `#lua-c`, `#terra`\
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/luvit_io.png" />
 
@@ -702,7 +706,8 @@ Language: English
 
 [__Android Discord__](https://discord.com/invite/android) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/Android/) \
 Notable Channels: `#android`, `#whatphone`, `#tech-support`, `#phone-questions`, `#themes`, `#phonetography` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_androidroot.png" />
 
@@ -716,7 +721,8 @@ Language: English
 
 [__Apple Betas__](https://discord.com/invite/beta) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/iOSBeta/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/23Aaron/JeffBot) \
 Notable Channels: `#releases`, `#general`, `#ios`, `#ipados`, `#macos`, `#watchos`, `#tvos`, `#xcode`, `#development` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_jailbreak.png" />
 
@@ -758,7 +764,8 @@ Language: English
 
 [__Linux For All__](https://discord.gg/gewCYyN) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twitter.com/lfa_linux/) \
 Notable Channels: `#linux-news`, `#general`, `#linux`, `#gaming`, `#suggestions`, `#developers`, `#themes`, `#support` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nix_nest.png" />
 
@@ -784,7 +791,8 @@ Language: English
 
 [__Gentoo Linux__](https://discord.com/invite/Gentoo) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gentoo.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/gentoo) \
 Notable Channels: `#chat`, `#support`, `#screenshots`, `#general-development`, `#ebuilds`, `#resources`, `#containers` \
-Language: English, 日本語
+Language: English, 日本語 \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/opensuse.png" />
 
@@ -802,7 +810,8 @@ Language: English
 
 [__Arch Linux [unofficial]__](https://discord.com/invite/MrhPdhn) \
 Notable Channels: `#news`, `#home`, `#arch-support`, `#other-distros`, `#programming`, `#ricing`, `#wallpapers` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_mint_community.png" />
 
@@ -846,7 +855,8 @@ Server dwellers, discussions on network management and infrastructure, IT homela
 
 [__/r/sysadmin__](https://discord.com/invite/sysadmin) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/sysadmin) \
 Notable Channels: `#sysadmin`, `#help`, `#security`, `#scripting`, `#microsoft`, `#linux`, `#career-advice`, `#networking` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amazon_web_services_aws_cloud.png" />
 
