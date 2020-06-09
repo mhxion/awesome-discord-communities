@@ -157,9 +157,8 @@ if __name__ == '__main__':
 Here's your snippet to copy.
 =========================================================================
 {plate.valid_icon()}
-    
+
 [__{plate.valid_name()}__]({plate.valid_invite()}){plate.valid_official()}{plate.valid_reddit()}{plate.valid_home()}{plate.valid_git()} \\
-    
 Notable Channels: {plate.valid_channels()} \\
 Language: {plate.valid_language()}
 """)
