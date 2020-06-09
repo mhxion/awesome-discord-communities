@@ -4,6 +4,7 @@
 Answers to some common questions that may come to your mind while exploring this awesome list.
 - [What is Discord.com exactly?](#what-is-discordcom-exactly)
 - [What about Discord's poor privacy policy?](#what-about-discords-poor-privacy-policy)
+- [Are you or is this project affiliated?](#are-you-or-is-this-project-affiliated)
 - [Why is this list made so fancy?](#why-is-this-list-made-so-fancy)
 - [How to contribute?](#how-to-contribute)
 - [How to report any issue with the list?](#how-to-report-any-issue-with-the-list)
