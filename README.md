@@ -7,7 +7,9 @@ A curated list of awesome [Discord](https://discord.com/) communities for develo
 
 ## How to Navigate
 
-If you're familiar with popular [awesome lists](https://github.com/sindresorhus/awesome/blob/master/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](./badges.md). `Notable channels` are exploratory, they can be used for searching a topic. A community may offer channels dedicated to more than one languages that `Language` is there for. Some common questions (e.g., contribution) are answered in the [FAQ](./FAQ.md) page. 
+If you're familiar with popular [awesome lists](https://github.com/sindresorhus/awesome/blob/master/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](./badges.md). `Notable channels` are exploratory, they can be used for looking up a topic. A community may offer channels dedicated to more than one languages that `Language` is there for.
+
+You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's **privacy policy** and answers to other frequent questions.
 
   - A quick lookup from browser `ctrl + f` maybe helpful to find a certain topic
   - Once you've clicked a section from [contents](#contents) below, to go back to previous section press `alt+left arrow` or `⌘ + left arrow`.
