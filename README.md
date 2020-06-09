@@ -136,6 +136,12 @@ Language: English
 Notable Channels: `#python exercises`, `#code feedback`, `#collaboration`, `#csharp`,`#java`, `#c and cpp`, `#web`, `#mobile`, `#security`, `#algos and ds`, `#networking`, `#resources`, `#machinelearning` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="/home/mhxion/Codes/Awesome Programming Discord/images/server_icons/engineerman.png" />
+    
+[__EngineerMan__](https://discord.com/invite/engineerman) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/engineer-man) \
+Notable Channels: `#linux`, `#c-cpp-csharp`, `#python`, `#go-rust`, `#js-ts-node-deno-html-css`, `#java-kotlin`, `#julia-ruby-swift`, `#datascience-sql`, `#os-hardware-robotics`, `#networking-security-mods` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/developlace_it.png" />
 
 [__developlace.it__](https://discord.com/invite/Fprsyxz) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/developlace) \
