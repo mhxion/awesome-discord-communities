@@ -45,7 +45,6 @@ You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ
     - [JavaScript Web Frameworks](#javascript-web-frameworks)
     - [Node.js](#nodejs)
     - [ReactJS](#reactjs)
-    - [Svelte](#svelte)
     - [Vue.js](#vuejs)
     - [Other JavaScript Libraries](#other-javascript-libraries)
   - [Lisp](#lisp)
