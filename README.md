@@ -517,7 +517,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/svelte.png" />
 
-[__svelte__](https://discord.gg/yy75DKs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://svelte.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/sveltejs/svelte) \
+[__Svelte__](https://discord.gg/yy75DKs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://svelte.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/sveltejs/svelte) \
 Notable Channels: `#svelte`, `#support`, `#sapper`, `#examples`, `#updates`, `#meetups`, `#future`, `#showcase`, `#nativedev`, `#internals`, `#gl`, **[`so much more`](badges.md#so-much-more)** \
 Language: English
 
