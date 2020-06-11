@@ -51,6 +51,7 @@ You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ
   - [Lua](#lua)
   - [PHP](#php)
   - [Python](#python)
+    - [Kivy](#kivy)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Swift](#swift)
@@ -612,11 +613,20 @@ Language: English
 Notable Channels: `#watercooler`, `#get-help`, `#sprint`, `#flask`, `#jinja`, `#click`, `#werkzeug`, `#flask-sqlalchemy`, `#flask-rebar`, `#wtforms`\
 Language: English
 
+#### Kivy
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/kivy.png" />
 
 [__Kivy__](https://discord.com/invite/djPtTRJ) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://kivy.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/kivy) \
 Notable Channels: `#general`, `#support`, `#your-projects`, `#dev`, `#python-for-android`\
 Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/kivymd.png" />
+
+[__KivyMD__](https://discord.com/invite/wu3qBST) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.youtube.com/channel/UCl72hvzwQ0rXUMBKTsKjRAA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/HeaTTheatR/KivyMD) \
+Notable Channels: `#general`, `#support`, `#suggestions-for-improvements`, `#users-gallery`, `#kivymd-studio` \
+Language: English, русский \
 <br />
 
 ### Ruby
