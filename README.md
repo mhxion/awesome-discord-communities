@@ -82,6 +82,7 @@ You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ
 - [Machine Learning](#machine-learning)
   - [Data Science](#data-science)
 - [Career](#career)
+- [Discord Development](#discord-development)
 
 ## Programming in General
 
@@ -1169,6 +1170,12 @@ Discussions on interview challenges, resume reviews, job opportunities in the fi
 [__CS Career Hackers__](https://discord.com/invite/rGwhXJv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cscareerhackers.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/CS-Career-Hackers) \
 Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#career-questions`, `#ask-a-manager`, `#students`, `#meetups`, `#programming-challenges` \
 Language: English
+
+## Discord Development
+
+All the utilities needed in your tool bag to build a Discord bot or automation through their APIs. However, this list
+is quite long and diverse that it calls for its own awesome list. You can read this [official wiki](https://www.reddit.com/r/discordapp/wiki/developers)
+about the notable development kit.
 
 <!-- omit in toc -->
 ## Attribution
