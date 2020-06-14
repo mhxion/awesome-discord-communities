@@ -1006,6 +1006,12 @@ Language: English
 
 Making of games, how to rasterize or real time ray tracing, the complexities behind each object movement, everything before publishing in the marketplace.
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/brackeys.png" />
+
+[__Brackeys__](https://discord.com/invite/brackeys) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Brackeys) \
+Notable Channels: `#tutorials_and_articles`, `#unity`, `#programming`, `#mobile`, `#code_optimization`, `#shaders`, `#game_jams`, `#art`, `#audio`, `#game_design`, `#marketing`, `#collaboration` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/game_dev_league.png" />
 
 [__Game Dev League__](https://discord.com/invite/gamedev) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://discord.com/invite/gamedev) \
