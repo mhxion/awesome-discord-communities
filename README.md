@@ -296,6 +296,12 @@ Language: English
 Notable Channels: `#homeassistant`, `#support`, `#automations`, `#frontend`, `#devices`, `#templates`, `#add-ons`, `#apps`, `#cameras`, `#diy`, `#node-red`, `#voice-assistants`, `#zigbee`, `#development` \
 Language: English
 
+#### IoT Applications
+
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tasmota.png" /> |
+|----------------------|
+| [__Tasmota__](https://discord.com/invite/Ks2Kzd4)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tasmota.github.io/docs/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/arendst/tasmota) |
+
 ### Hardware
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pc_master_race.png" />
