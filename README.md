@@ -5,6 +5,7 @@
 
 A curated list of awesome [Discord](https://discord.com/) communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts.
 
+<!-- omit in toc -->
 ## How to Navigate
 
 If you're familiar with popular [awesome lists](https://github.com/sindresorhus/awesome/blob/master/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](./badges.md). `Notable channels` are exploratory, they can be used for looking up a topic. A community may offer channels dedicated to more than one languages that `Language` is there for.
@@ -29,6 +30,7 @@ You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ
   - [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
   - [DIY](#diy)
   - [Internet of Things](#internet-of-things)
+    - [IoT Applications](#iot-applications)
   - [Hardware](#hardware)
 - [Programming Languages](#programming-languages)
   - [Language Paradigms](#language-paradigms)
