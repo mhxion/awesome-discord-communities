@@ -298,9 +298,9 @@ Language: English
 
 #### IoT Applications
 
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tasmota.png" /> |
-|----------------------|
-| [__Tasmota__](https://discord.com/invite/Ks2Kzd4)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tasmota.github.io/docs/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/arendst/tasmota) |
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tasmota.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/esphome.png" /> |
+|----------------------|----------------------|
+| [__Tasmota__](https://discord.com/invite/Ks2Kzd4)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tasmota.github.io/docs/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/arendst/tasmota) |  [__ESPHome__](https://discord.com/invite/KhAMKrd)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://esphome.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/esphome) |
 
 ### Hardware
 
