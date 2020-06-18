@@ -795,6 +795,12 @@ Language: English
 Notable Channels: `#general`, `#shorcut-sharing`, `#help-and-support`, `#shortcast-info`, `#shortcasts-content-suggestions`\
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hackintosh_x86.png" />
+
+[__Hackintosh x86__](https://discord.com/invite/hackintosh) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.osx86.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://git.osx86.io/) \
+Notable Channels: `#general-chat`, `#opencore`, `#acpi-ssdt`, `#bios-mods`, `#virtualization`, `#hardware`, `#gaming`, `#efi-database`, `#benchmarks` \
+Language: English
+
 ### Windows
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/microsoft_community.png" />
