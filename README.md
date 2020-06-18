@@ -12,11 +12,12 @@ If you're familiar with popular [awesome lists](https://github.com/sindresorhus/
 
 You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's **privacy policy** and answers to other frequent questions.
 
-  - A quick lookup from browser `ctrl + f` maybe helpful to find a certain topic
-  - Once you've clicked a section from [contents](#contents) below, to go back to previous section press `alt+left arrow` or `⌘ + left arrow`.
+- A quick lookup from browser `ctrl + f` maybe helpful to find a certain topic
+- Once you've clicked a section from [contents](#contents) below, to go back to previous section press `alt+left arrow` or `⌘ + left arrow`.
 
 <!-- omit in toc -->
 ## Contents
+
 - [Programming in General](#programming-in-general)
   - [Support Communities](#support-communities)
   - [Competitive Programming](#competitive-programming)
@@ -58,6 +59,7 @@ You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ
   - [Rust](#rust)
   - [Swift](#swift)
   - [Typescript](#typescript)
+- [Development Environments](#development-environments)
 - [Design and Illustrations](#design-and-illustrations)
 - [Operating Systems](#operating-systems)
   - [Android](#android)
@@ -682,7 +684,12 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 Notable Channels: `#ts-discussion`, `#help`, `#vue`, `#angular`, `#react`, `#language-design`, `#compiler`, `#architecture`, `#tooling`, `#devops`, `#site-localization`, `#deno`, `#meetups`, `#projects` \
 Language: English
 
+## Development Environments
+
+Sketchbooks for software engineers; IDEs, text editors, modular editors, GUI terminals, emulators, or maybe a development utility so complex that can't be described in simple words?
+
 ## Design and Illustrations
+
 All about design systems, graphical illustrations, user interface and user experience.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_spot.png" />
