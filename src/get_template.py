@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import re
 
 
 class APDTemplateGenerator:
@@ -29,12 +30,9 @@ class APDTemplateGenerator:
         while True:
             # TODO: This needs to be displaced with a better domain traceroute check.
             link = input("\n➜ Enter a permanent invite link to the server:\n")
-            for _ in link.split(".com") + link.split(".gg"):
-                if _ in ["https://discord", "https://discordapp", "http://discord", "http://discordapp",
-                         "https://www.discord", "https://www.discordapp", "http://www.discord",
-                         "http://www.discordapp", "discord", "discordapp"]:
-                    self.invite_link = link
-                    return
+            if re.match(r"^((https?:)?//)?(www\.)?(discord\.gg|discord(app)?\.com/invite)/.{2,}$", link):
+                self.invite_link = link
+                return
             else:
                 print(f"Only invite link that is generated from Discord platform itself is allowed.")
                 continue
