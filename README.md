@@ -704,7 +704,8 @@ Language: English
 
 [__Blink__](https://discord.com/invite/ZTtMfvK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://blink.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/blinksh) \
 Notable Channels: `#support`, `#themes-and-fonts`, `#shortcuts`, `#tips-and-tricks`, `#general`, `#dev`, `#design` \
-Language: English
+Language: English \
+<br />
 
 ## Design and Illustrations
 
@@ -736,7 +737,8 @@ The underlying kernels that are responsible for managing application processes.
 
 [__Operating System Development__](https://discord.com/invite/RnCtsqD) \
 Notable Channels: `#osdev`, `#programming`, `#beginner`, `#bootloader-dev`, `#wiki`, `#projects`, `#resources` \
-Language: English
+Language: English \
+<br />
 
 ### Android
 
@@ -769,7 +771,8 @@ Language: English \
 
 [__/r/AndroidRoot__](https://discord.gg/Uq7r6kF) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/androidroot/) \
 Notable Channels: `#root`, `#custom-roms`, `#theming`, `#development`, `#magisk`, `#twrp`, `#substratum`, `#support-room` \
-Language: English
+Language: English \
+<br />
 
 ### Apple Systems
 
@@ -806,7 +809,8 @@ Language: English
 
 [__r/unixporn__](https://discord.com/invite/TnJ4h5K) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/unixporn/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/unixporn) \
 Notable Channels: `#showcase`, `#ricing-theming`, `#tools`, `#wallpapers`, `#tech-support`, `#programming`, `#hardware` \
-Language: English
+Language: English \
+<br />
 
 #### Linux in General
 
@@ -827,7 +831,8 @@ Language: English \
 
 [__*nix nest__](https://discord.gg/shpxu6T) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/discordlinux) \
 Notable Channels: `#home`, `#dev-random`, `#support`, `#unixporn`, `#programming`, `#media`, `#hardware`, `#gaming` \
-Language: English
+Language: English \
+<br />
 
 #### Linux Distributions
 
@@ -854,7 +859,8 @@ Language: English, 日本語 \
 
 [__openSUSE__](https://discord.com/invite/openSUSE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.opensuse.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/openSUSE) \
 Notable Channels: `#support`, `#chat`, `#project`, `#packaging`, `#factory`, `#admin`, `#artwork`, `#docs`, `#gnome`, `#xfce` \
-Language: English, français, Deutsch, italiano, polski, español, Nederlands
+Language: English, français, Deutsch, italiano, polski, español, Nederlands \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/manjaro_linux.png" />
 
@@ -947,7 +953,8 @@ Language: English
 
 [__Linuxserver.io__](https://discord.com/invite/YWrKVTn) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.linuxserver.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/linuxserver) \
 Notable Channels: `#general-support`, `#docker-support`, `#heimdall`, `#linux-chat`, `#other-support`, `#hardware` \
-Language: English
+Language: English \
+<br />
 
 ### Server-side Applications
 
