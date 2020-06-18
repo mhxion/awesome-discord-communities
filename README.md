@@ -801,6 +801,12 @@ Language: English
 Notable Channels: `#general-chat`, `#opencore`, `#acpi-ssdt`, `#bios-mods`, `#virtualization`, `#hardware`, `#gaming`, `#efi-database`, `#benchmarks` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_hackintosh_paradise.png" />
+
+[__/r/Hackintosh Paradise__](https://discord.com/invite/Wxam8aH) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/hackintosh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) \
+Notable Channels: `#hackintosh-help`, `#laptop-prebuilt`, `#smbios`, `#macos`, `#linux`, `#windows`, `#retro-gaming`, `#hardware` \
+Language: English
+
 ### Windows
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/microsoft_community.png" />
