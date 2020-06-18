@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import re
+import requests
 
 
 class APDTemplateGenerator:
@@ -17,20 +18,19 @@ class APDTemplateGenerator:
         self.language = ""
 
     def __get_name(self):
-        while True:
-            name = input("➜ Enter the name of the Discord community/server:\n")
-            if name.isascii():
-                self.name = name
-            else:
-                print(f"Looks like the server name contains non-ascii characters. Emoji are discouraged.\n"
-                      f"But you can change that later. Moving on.")
-                self.name = name
+        name = input("➜ Enter the name of the Discord community/server:\n")
+        if name.isascii():
+            self.name = name
+        else:
+            print(f"Looks like the server name contains non-ascii characters. Emoji are discouraged.\n"
+                  f"But you can change that later. Moving on.")
+            self.name = name
 
     def __get_invite_link(self):
         while True:
-            # TODO: This needs to be displaced with a better domain traceroute check.
             link = input("\n➜ Enter a permanent invite link to the server:\n")
-            if re.match(r"^((https?:)?//)?(www\.)?(discord\.gg|discord(app)?\.com/invite)/.{2,}$", link):
+            r = requests.get(link)
+            if re.match(r"^https?://(www\.)?discord(app)?\.com/invite/.{2,}$", r.url):
                 self.invite_link = link
                 return
             else:
