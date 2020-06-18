@@ -3,17 +3,15 @@
 <!-- omit in toc -->
 # Awesome Programming Discord [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of awesome [Discord](https://discord.com/) communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts.
+A curated list of awesome [Discord](https://discord.com/) communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts. [**This is not a Discord listing or promotional site!**](FAQ.md##how-is-this-list-any-different-from-discord-listing-sites)
 
 <!-- omit in toc -->
 ## How to Navigate
 
-If you're familiar with popular [awesome lists](https://github.com/sindresorhus/awesome/blob/master/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](./badges.md). `Notable channels` are exploratory, they can be used for looking up a topic. A community may offer channels dedicated to more than one languages that `Language` is there for.
-
-You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's **privacy policy** and answers to other frequent questions.
+If you're familiar with other popular [awesome lists](https://github.com/sindresorhus/awesome/blob/master/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](./badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's **privacy policy** and answers to other frequent questions.
 
 - A quick lookup from browser `ctrl + f` maybe helpful to find a certain topic
-- Once you've clicked a section from [contents](#contents) below, to go back to previous section press `alt+left arrow` or `⌘ + left arrow`.
+- Once you've clicked a section from [contents](#contents) below, to go back to previous section press `alt + left arrow` or `⌘ + left arrow`.
 
 <!-- omit in toc -->
 ## Contents
@@ -356,7 +354,7 @@ Language: English \
 
 [__Functional Programming__](https://discord.com/invite/K6XHBSh) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/mniip/discord-eval) \
 Notable Channels: `#haskell`, `#tooling`, `#lisp-beginners`, `#clojure`, `#dependent-types`, `#agda`, `#coq`, `#idris` `#compilers`, `#scala`, `#elm`, `#f-sharp`, `#elixir`, `#purescript`, `#type-theory` \
-Language: English   
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/low_level_programming.png" />
 
@@ -394,6 +392,8 @@ Language: English \
 Notable Channels: `#assembly`, `#c`, `#gpu`, `#audio`, `#build-systems`, `#cpp`, `#embedded`, `#learning`, `#security` `#conferences`, `#tooling`, `#2d-graphics`, `#clion`, `#catch2`, `#qt` \
 Language: English
 
+<!-- markdownlint-disable MD003-->
+<!-- markdownlint-disable MD020-->
 ### C#
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_sharp.png" />
@@ -424,13 +424,13 @@ Notable Channels: `#general`, `#clojure`, `#clojurescript`, `#emacs`, `#editors`
 Language: English \
 <br />
 
-### CSS 
+### CSS
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tailwind_css.png" />
 
 [__Tailwind CSS__](https://discord.com/invite/7NF8GNe) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tailwindcss.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/tailwindcss) \
 Notable Channels: `#help`, `#tailwind-css`, `#core-dev`, `#plugins`, `#docs`, `#tailwind-ui`, `#design`, `#development`, `#showcase` \
-Language: English 
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cascading-style-sheets.png" />
 
@@ -496,7 +496,7 @@ Language: English \
 
 [__JS Programming Language Community__](https://discord.com/invite/Y8Mqbkk) \
 Notable Channels: `#general`, `#beginners`, `#nodejs`, `#web-dom`, `#react`, `#vue`, `#gatsby`, `#webassembly` \
-Language: English
+Language: English \
 <br />
 
 #### JavaScript Web Frameworks
@@ -505,7 +505,7 @@ Language: English
 
 [__emberjs__](https://discord.gg/emberjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://emberjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/emberjs) \
 Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, **[`so much more`](badges.md#so-much-more)** \
-Language: English, français, Deutsch, português, pусский, español 
+Language: English, français, Deutsch, português, pусский, español
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/docusaurus.png" />
 
@@ -532,7 +532,7 @@ Language: English \
 |----------------------|-------------------|
 | [__NestJS__](https://discord.com/invite/G7Qnnhy)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nestjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nestjs) | [__AdonisJS<br>Framework__](https://discord.com/invite/vDcEjq6)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://adonisjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/adonisjs) |
 
-#### ReactJS 
+#### ReactJS
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactiflux.png" />
 
@@ -745,7 +745,7 @@ Language: English
 
 ## Operating Systems
 
-The underlying kernels that are responsible for managing application processes. 
+The underlying kernels that are responsible for managing application processes.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/operating_system_development.png" />
 
@@ -1138,7 +1138,7 @@ Language: English
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamemaker.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/godot_engine.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/unreal_slackers.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cryengine_community.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/construct_community.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/panda3d.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amethyst.png" /> |
 |------------|-------------|-------------|-------------|-------------|-------------|-------------|
-| [__GameMaker__](https://discord.com/invite/By6u9pC)<br>[<img align="center" height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/gamemaker/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GameMakerDiscord) | [__Godot Engine__](https://discord.com/invite/zH7NUgz)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://godotengine.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/godotengine/) | [__Unreal Slackers__](https://discord.com/invite/unreal-slackers)<br> [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unrealslackers.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/unreal-slackers) | [__CRYENGINE<br>Community__](https://discord.com/invite/cryengine)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cryengine.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/CRYTEK/CRYENGINE) | [__Construct<br>Community__](https://discord.com/invite/8RJBHbX)<br> [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/WebCreationClub) | [__Panda3D__](https://discord.com/invite/UyepRMm)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.panda3d.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/panda3d) | [__Amethyst__](https://discord.com/invite/amethyst)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.amethyst.rs/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/amethyst/) | 
+| [__GameMaker__](https://discord.com/invite/By6u9pC)<br>[<img align="center" height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/gamemaker/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GameMakerDiscord) | [__Godot Engine__](https://discord.com/invite/zH7NUgz)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://godotengine.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/godotengine/) | [__Unreal Slackers__](https://discord.com/invite/unreal-slackers)<br> [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unrealslackers.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/unreal-slackers) | [__CRYENGINE<br>Community__](https://discord.com/invite/cryengine)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cryengine.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/CRYTEK/CRYENGINE) | [__Construct<br>Community__](https://discord.com/invite/8RJBHbX)<br> [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/WebCreationClub) | [__Panda3D__](https://discord.com/invite/UyepRMm)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.panda3d.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/panda3d) | [__Amethyst__](https://discord.com/invite/amethyst)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.amethyst.rs/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/amethyst/) |
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/renpy.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/armory.png" /> |
 |------------|------------|
