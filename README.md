@@ -688,6 +688,12 @@ Language: English
 
 Sketchbooks for software engineers; IDEs, text editors, modular editors, GUI terminals, emulators, or maybe a development utility so complex that can't be described in simple words?
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/doom_emacs.png" />
+
+[__Doom Emacs__](https://discord.com/invite/qvGgnVx) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](nada) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/hlissner/doom-emacs) \
+Notable Channels: `#troubleshooting`, `#how-do-i`, `#cli`, `#emacs-lisp`, `#protips`, `#project`, `#org-mode`, `#latex`, `#keyboards`, `#themes`, `#operating-systems`, `#hardware`, `#programming` \
+Language: English
+
 ## Design and Illustrations
 
 All about design systems, graphical illustrations, user interface and user experience.
