@@ -483,6 +483,12 @@ Language: English
 [__Deno__](https://discord.com/invite/deno) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://deno.land/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/denoland) \
 Notable Channels: `#general`, `#showcase`, `#help`, `#dev`, `#rust-libs` \
 Language: English \
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/js_programming_language_community.png" />
+
+[__JS Programming Language Community__](https://discord.com/invite/Y8Mqbkk) \
+Notable Channels: `#general`, `#beginners`, `#nodejs`, `#web-dom`, `#react`, `#vue`, `#gatsby`, `#webassembly` \
+Language: English
 <br />
 
 #### JavaScript Web Frameworks
