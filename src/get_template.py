@@ -75,10 +75,9 @@ class APDTemplateGenerator:
                 else:
                     return True
 
-        def get_homepage():
+        def get_homepage(is_reddit, is_official):
             home = input("\n➜ Enter homepage URL of the community (if any). To skip press Enter. \n")
-            while not home and (is_reddit_check or is_official_check):
-                # if not home and (is_reddit_check or is_official_check):
+            while not home and (is_reddit or is_official):
                 home = input(f"If you're an official entity or a sub-reddit, you must have an homepage.\n"
                              f"It can be a link to the sub-reddit URL or the content creator's profile.\n"
                              f"Please enter the URL:\n")
@@ -109,8 +108,16 @@ class APDTemplateGenerator:
             lang = input("\n➜ Enter the languages the server has dedicated channels for, separated by comma:\n")
             return lang
 
-        return cls(check_name(), check_invite(), icon_link(), is_reddit_check(), is_official_check(), get_homepage(),
-                   get_git_repo(), get_channels(), get_language())
+        name = check_name()
+        invite = check_invite()
+        icon = icon_link()
+        reddit = is_reddit_check()
+        official = is_official_check()
+        homepage = get_homepage(reddit, official)
+        git = get_git_repo()
+        channels = get_channels()
+        language = get_language()
+        return cls(name, invite, icon, reddit, official, homepage, git, channels, language)
 
     def valid_name(self):
         return f"{self.name}"
