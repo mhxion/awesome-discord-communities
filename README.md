@@ -171,7 +171,8 @@ Language: English
 
 [__r/CodingHelp__](https://discord.com/invite/dbe5NnA) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/CodingHelp/) \
 Notable Channels: `#general`, `#html-css`, `#javascript`, `#php`, `#java`, `#python`, `#csharp`, `#c-cpp` \
-Language: English
+Language: English \
+<br />
 
 ### Competitive Programming
 
@@ -489,6 +490,7 @@ Language: English
 [__Deno__](https://discord.com/invite/deno) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://deno.land/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/denoland) \
 Notable Channels: `#general`, `#showcase`, `#help`, `#dev`, `#rust-libs` \
 Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/js_programming_language_community.png" />
 
