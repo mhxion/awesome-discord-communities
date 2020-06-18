@@ -15,7 +15,7 @@ class APDTemplateGenerator:
         self.channels = ""
         self.language = ""
 
-    def __check_name(self):
+    def __get_name(self):
         while True:
             name = input("➜ Enter the name of the Discord community/server:\n")
             if name.isascii():
@@ -25,7 +25,7 @@ class APDTemplateGenerator:
                       f"But you can change that later. Moving on.")
                 self.name = name
 
-    def __check_invite(self):
+    def __get_invite_link(self):
         while True:
             # TODO: This needs to be displaced with a better domain traceroute check.
             link = input("\n➜ Enter a permanent invite link to the server:\n")
@@ -39,7 +39,7 @@ class APDTemplateGenerator:
                 print(f"Only invite link that is generated from Discord platform itself is allowed.")
                 continue
 
-    def __icon_link(self):
+    def __get_server_icon(self):
         while True:
             try:
                 img = input("\n➜ Enter server icon (PNG/JPG) URL. Make sure it's a static link:\n")
@@ -49,7 +49,7 @@ class APDTemplateGenerator:
             self.server_icon = img
             return
 
-    def __is_reddit_check(self):
+    def __get_is_reddit(self):
         while True:
             rdt = input(
                 "\n➜ Does the server belong to or officially recognized by an existing sub-Reddit? "
@@ -61,7 +61,7 @@ class APDTemplateGenerator:
                 self.is_reddit = rdt in ["y", "yes"]
                 return
 
-    def __is_official_check(self):
+    def __get_is_official(self):
         while True:
             org = input("\n➜ Is the server owned or recognized by an established entity "
                         "e.g., a company, organization, open-source project, content creator?\n"
@@ -107,63 +107,63 @@ class APDTemplateGenerator:
         self.language = input("\n➜ Enter the languages the server has dedicated channels for, separated by comma:\n")
 
     def validate(self):
-        self.__check_name()
-        self.__check_invite()
-        self.__icon_link()
-        self.__is_reddit_check()
-        self.__is_official_check()
+        self.__get_name()
+        self.__get_invite_link()
+        self.__get_server_icon()
+        self.__get_is_reddit()
+        self.__get_is_official()
         self.__get_homepage()
         self.__get_git_repo()
         self.__get_channels()
         self.__get_language()
 
-    def __valid_name(self):
+    def __format_name(self):
         return f"{self.name}"
 
-    def __valid_invite(self):
+    def __format_invite_link(self):
         return f"{self.invite_link}"
 
-    def __valid_icon(self):
+    def __format_server_icon(self):
         return f'<img align="left" height="94px" width="94px" alt="Server Icon" src="{self.server_icon}" />'
 
-    def __valid_reddit(self):
+    def __format_is_reddit(self):
         if self.is_reddit:
             return f' [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">]' \
                    f'(badges.md#reddit-badge)'
         return f""
 
-    def __valid_official(self):
+    def __format_is_official(self):
         if self.is_official:
             return f' [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">]' \
                    f'(badges.md#official-identification-badge)'
         return f""
 
-    def __valid_home(self):
+    def __format_homepage(self):
         if self.homepage:
             return f' [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">]' \
                    f'({self.homepage})'
         return f""
 
-    def __valid_git(self):
+    def __format_git_repo(self):
         if self.git_repo:
             return f' [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">]({self.git_repo})'
         return f""
 
-    def __valid_channels(self):
+    def __format_channels(self):
         return self.channels
 
-    def __valid_language(self):
+    def __format_language(self):
         return self.language if len(self.channels) >= 76 else self.language + " \\\n<br />"
 
     def format(self):
         return f"""
 Here's your snippet to copy.
 =========================================================================
-{self.__valid_icon()}
+{self.__format_server_icon()}
 
-[__{self.__valid_name()}__]({self.__valid_invite()}){self.__valid_official()}{self.__valid_reddit()}{self.__valid_home()}{self.__valid_git()} \\
-Notable Channels: {self.__valid_channels()} \\
-Language: {self.__valid_language()}
+[__{self.__format_name()}__]({self.__format_invite_link()}){self.__format_is_official()}{self.__format_is_reddit()}{self.__format_homepage()}{self.__format_git_repo()} \\
+Notable Channels: {self.__format_channels()} \\
+Language: {self.__format_language()}
 """
 
 
