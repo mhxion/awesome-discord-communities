@@ -38,7 +38,7 @@ class APDTemplateGenerator:
             except requests.exceptions.ConnectionError:
                 print(f"No response is received from that link. Please try again.")
                 continue
-            if re.match(r"^https?://(www\.)?discord(app)?\.com/invite/?.{2,}$", r.url):
+            if re.match(r"^https?://(www\.)?discord(app)?\.com/invite/.{2,}$", r.url):
                 self.invite_link = link
                 return
             else:
