@@ -473,18 +473,6 @@ Language: English
 
 ### JavaScript
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/speakjs.png" />
-
-[__SpeakJS__](https://discord.com/invite/dAF4F28) \
-Notable Channels: `#collaboration`, `#code-review`, `#help`, `#react`, `#angular`, `#vue`, `#svelte`, `#jquery`, `#gatsby`, `#node`, `#graphql`, `#electron`, `#threejs`, `#webgl`\
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reasonml.png" />
-
-[__ReasonML__](https://discord.com/invite/reasonml) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://reasonml.github.io/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/facebook/reason) \
-Notable Channels: `#general`, `#reasonconf`, `#native-development`, `#bucklescript`, `#job-openings`, `#react`, `#ocaml`, `#reason-dojo`, `#reason-core-dev`\
-Language: English
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/deno.png" />
 
 [__Deno__](https://discord.com/invite/deno) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://deno.land/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/denoland) \
@@ -499,19 +487,31 @@ Notable Channels: `#general`, `#beginners`, `#nodejs`, `#web-dom`, `#react`, `#v
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reasonml.png" />
+
+[__ReasonML__](https://discord.com/invite/reasonml) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://reasonml.github.io/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/facebook/reason) \
+Notable Channels: `#general`, `#reasonconf`, `#native-development`, `#bucklescript`, `#job-openings`, `#react`, `#ocaml`, `#reason-dojo`, `#reason-core-dev`\
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/speakjs.png" />
+
+[__SpeakJS__](https://discord.com/invite/dAF4F28) \
+Notable Channels: `#collaboration`, `#code-review`, `#help`, `#react`, `#angular`, `#vue`, `#svelte`, `#jquery`, `#gatsby`, `#node`, `#graphql`, `#electron`, `#threejs`, `#webgl`\
+Language: English
+
 #### JavaScript Web Frameworks
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/emberjs.png" />
-
-[__emberjs__](https://discord.gg/emberjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://emberjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/emberjs) \
-Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, **[`so much more`](badges.md#so-much-more)** \
-Language: English, français, Deutsch, português, pусский, español
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/docusaurus.png" />
 
 [__Docusaurus__](https://discord.com/invite/docusaurus) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://v2.docusaurus.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/facebook/Docusaurus) \
 Notable Channels: `#docusaurus-users`, `#docusaurus-dev`, `#docusaurus-2-dogfooding`, `#docusaurus-2-dev`, `#docusaurus-zeit`, `#docusaurus-algolia`, `#docusaurus-1-to-2-migration` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/emberjs.png" />
+
+[__emberjs__](https://discord.gg/emberjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://emberjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/emberjs) \
+Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, **[`so much more`](badges.md#so-much-more)** \
+Language: English, français, Deutsch, português, pусский, español
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/svelte.png" />
 
@@ -558,6 +558,13 @@ Language: English, Deutsch, français, 汉语, español, 日本語, dansk, 한�
 
 #### Other JavaScript Libraries
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/egoist_oss.png" />
+
+[__EGOIST OSS__](https://discord.com/invite/2t5mdCz) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://poi.js.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/egoist/poi) \
+Notable Channels: `#ream`, `#saber`, `#poi`, `#cac`, `#bili`, `#sao`, `#codepan`, `#docup`\
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/storybook.png" />
 
 [__storybook__](https://discord.gg/UUt2PJb) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://storybook.js.org/community/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/storybookjs/) \
@@ -568,13 +575,6 @@ Language: English
 
 [__yarnpkg__](https://discord.com/invite/yarnpkg) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://classic.yarnpkg.com/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/yarnpkg) \
 Notable Channels: `#contributing`, `#prs`, `#issues`, `#support`, `#general`\
-Language: English \
-<br />
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/egoist_oss.png" />
-
-[__EGOIST OSS__](https://discord.com/invite/2t5mdCz) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://poi.js.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/egoist/poi) \
-Notable Channels: `#ream`, `#saber`, `#poi`, `#cac`, `#bili`, `#sao`, `#codepan`, `#docup`\
 Language: English \
 <br />
 
