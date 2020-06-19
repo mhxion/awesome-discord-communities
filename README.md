@@ -287,10 +287,10 @@ Notable Channels: `#suggestions`, `#smartspeakers`, `#smarthub`, `#lighting`, `#
 Language: English \
 <br />
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_homekit.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/home_assistant.png" />
 
-[__r/HomeKit__](https://discord.com/invite/b2kTasd) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/HomeKit/) \
-Notable Channels: `#general`, `#homekit-discussion`, `#hk-showcase`, `#hk-questions-help`, `#homepod-discussion`, `#hp-questions-help`, `#homebridge-discussion`, `#hb-plugin-showcase` \
+[__Home Assistant__](https://discord.com/invite/c5DvZ4e) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.home-assistant.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/home-assistant) \
+Notable Channels: `#homeassistant`, `#support`, `#automations`, `#frontend`, `#devices`, `#templates`, `#add-ons`, `#apps`, `#cameras`, `#diy`, `#node-red`, `#voice-assistants`, `#zigbee`, `#development` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homebridge.png" />
@@ -299,10 +299,10 @@ Language: English
 Notable Channels: `#general`, `#homekit`, `#ui`, `#config`, `#raspberry-pi`, `#raspbian-image`, `#macos`, `#bwindows`, `#docker`, `#verified-plugins`, `#plugins`, `#homebridge-beta-testing`, `#plugin-development` \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/home_assistant.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_homekit.png" />
 
-[__Home Assistant__](https://discord.com/invite/c5DvZ4e) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.home-assistant.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/home-assistant) \
-Notable Channels: `#homeassistant`, `#support`, `#automations`, `#frontend`, `#devices`, `#templates`, `#add-ons`, `#apps`, `#cameras`, `#diy`, `#node-red`, `#voice-assistants`, `#zigbee`, `#development` \
+[__r/HomeKit__](https://discord.com/invite/b2kTasd) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/HomeKit/) \
+Notable Channels: `#general`, `#homekit-discussion`, `#hk-showcase`, `#hk-questions-help`, `#homepod-discussion`, `#hp-questions-help`, `#homebridge-discussion`, `#hb-plugin-showcase` \
 Language: English
 
 #### IoT Applications
