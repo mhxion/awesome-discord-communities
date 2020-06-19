@@ -725,10 +725,10 @@ Language: English
 
 All about design systems, graphical illustrations, user interface and user experience.
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_spot.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adobe_systems_community.png" />
 
-[__The Spot__](https://discord.gg/uz8JDW9) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.thespot.design/) \
-Notable Channels: `#the-spotlight`, `#discussions`, `#critique`, `#showcase`, `#tech-help`, `#resources`, `#inspiration`, `#traditional`, `#illustration`, `#photography` \
+[__Adobe Systems Community__](https://discord.gg/Aak7YGU) \
+Notable Channels: `#work-in-progress-critique`, `#photoshop`, `#premiere-pro`, `#after-effects`, `#illustrator`, `#animate`, `#indesign`, `#xd`, `#lightroom`, `#other-programs` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_design_collective.png" />
@@ -737,10 +737,10 @@ Language: English
 Notable Channels: `#challenge`, `#design`, `#illustration`, `#ui-ux`, `#photo-film`, `#animation`, `#dev`, `#3d`, `#general-one`, `#client-area`, `#collab` \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adobe_systems_community.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_spot.png" />
 
-[__Adobe Systems Community__](https://discord.gg/Aak7YGU) \
-Notable Channels: `#work-in-progress-critique`, `#photoshop`, `#premiere-pro`, `#after-effects`, `#illustrator`, `#animate`, `#indesign`, `#xd`, `#lightroom`, `#other-programs` \
+[__The Spot__](https://discord.gg/uz8JDW9) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.thespot.design/) \
+Notable Channels: `#the-spotlight`, `#discussions`, `#critique`, `#showcase`, `#tech-help`, `#resources`, `#inspiration`, `#traditional`, `#illustration`, `#photography` \
 Language: English
 
 ## Operating Systems
