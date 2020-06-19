@@ -373,10 +373,10 @@ Language: English \
 
 ### C and C++
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_c_and_c_plus_plus.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/include.png" />
 
-[__Together C & C++__](https://discord.com/invite/vnyVmAE) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Headline/discord-compiler-bot) \
-Notable Channels: `#c_general`, `#cpp_general`, `#assembly`, `#code_review`, `#gamedev`, `#graphics`, `#audio`, `#programming_environment`, `#collaboration`, `#unix`, `#other_langs_help`, `#math` \
+[__#include__](https://discord.gg/ZPErMGW) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.includecpp.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/mniip/discord-eval) \
+Notable Channels: `#assembly`, `#c`, `#gpu`, `#audio`, `#build-systems`, `#cpp`, `#embedded`, `#learning`, `#security` `#conferences`, `#tooling`, `#2d-graphics`, `#clion`, `#catch2`, `#qt` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_plus_plus_help.png" />
@@ -386,10 +386,10 @@ Notable Channels: `#cpp-questions`, `#help`, `#advanced`, `#gamedev`, `#project-
 Language: English \
 <br />
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/include.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_c_and_c_plus_plus.png" />
 
-[__#include__](https://discord.gg/ZPErMGW) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.includecpp.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/mniip/discord-eval) \
-Notable Channels: `#assembly`, `#c`, `#gpu`, `#audio`, `#build-systems`, `#cpp`, `#embedded`, `#learning`, `#security` `#conferences`, `#tooling`, `#2d-graphics`, `#clion`, `#catch2`, `#qt` \
+[__Together C & C++__](https://discord.com/invite/vnyVmAE) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Headline/discord-compiler-bot) \
+Notable Channels: `#c_general`, `#cpp_general`, `#assembly`, `#code_review`, `#gamedev`, `#graphics`, `#audio`, `#programming_environment`, `#collaboration`, `#unix`, `#other_langs_help`, `#math` \
 Language: English
 
 <!-- markdownlint-disable MD003-->
