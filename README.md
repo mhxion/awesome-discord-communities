@@ -702,6 +702,13 @@ Language: English
 
 Sketchbooks for software engineers; IDEs, text editors, modular editors, GUI terminals, emulators, or maybe a development utility so complex that can't be described in simple words?
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/blink.png" />
+
+[__Blink__](https://discord.com/invite/ZTtMfvK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://blink.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/blinksh) \
+Notable Channels: `#support`, `#themes-and-fonts`, `#shortcuts`, `#tips-and-tricks`, `#general`, `#dev`, `#design` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/doom_emacs.png" />
 
 [__Doom Emacs__](https://discord.com/invite/qvGgnVx) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/hlissner/doom-emacs) \
@@ -713,13 +720,6 @@ Language: English
 [__JetBrains Community__](https://discord.com/invite/yBQKN5b) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://jetbrains-community.github.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/JetBrains-Community) \
 Notable Channels: `#general-os`, `#ideavim`, `#intellij-idea-community`, `#kotlin`, `#mps`, `#appcode`, `#clion`, `#datagrip`, `#datalore`, `#dotcover`, `#phpstorm`, `#pycharm`, `#resharper`, `#rider`, `#rubymine` \
 Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/blink.png" />
-
-[__Blink__](https://discord.com/invite/ZTtMfvK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://blink.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/blinksh) \
-Notable Channels: `#support`, `#themes-and-fonts`, `#shortcuts`, `#tips-and-tricks`, `#general`, `#dev`, `#design` \
-Language: English \
-<br />
 
 ## Design and Illustrations
 
