@@ -30,7 +30,7 @@ class APDTemplateGenerator:
         while True:
             link = input("\n➜ Enter a permanent invite link to the server:\n")
             r = requests.get(link)
-            if re.match(r"^https?://(www\.)?discord(app)?\.com/invite/.{2,}$", r.url):
+            if re.match(r"^https?://(www\.)?discord(app)?\.com/invite/(gg/)?.{2,}$", r.url):
                 self.invite_link = link
                 return
             else:
