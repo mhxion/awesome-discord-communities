@@ -721,6 +721,13 @@ Notable Channels: `#support`, `#themes-and-fonts`, `#shortcuts`, `#tips-and-tric
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ohmyzsh.png" />
+
+[__ohmyzsh__](https://discord.com/invite/ohmyzsh) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://ohmyz.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/ohmyzsh) \
+Notable Channels: `#discussion`, `#terminal-setups`, `#tech-support`, `#code`, `#suggestions`, `#wiki-rewrite` \
+Language: English \
+<br />
+
 ## Design and Illustrations
 
 All about design systems, graphical illustrations, user interface and user experience.
