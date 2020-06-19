@@ -3,7 +3,7 @@
 <!-- omit in toc -->
 # Awesome Programming Discord [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of awesome [Discord](https://discord.com/) communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts. [**This is not a Discord listing or promotional site!**](FAQ.md##how-is-this-list-any-different-from-discord-listing-sites)
+A curated list of awesome [Discord](https://discord.com/) communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts. [**This is not a Discord listing or promotional site!**](FAQ.md#how-is-this-list-any-different-from-discord-listing-sites)
 
 <!-- omit in toc -->
 ## How to Navigate
