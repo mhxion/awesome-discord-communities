@@ -30,6 +30,14 @@ class APDTemplateGenerator:
         while True:
             link = input("\n➜ Enter a permanent invite link to the server:\n")
             r = requests.get(link)
+            try:
+                r = requests.get(link)
+            except requests.exceptions.MissingSchema:
+                print(f"Did you forget to add 'https'?! Something's not right with the link protocol.")
+                continue
+            except requests.exceptions.ConnectionError:
+                print(f"No response is received from that link. Please try again.")
+                continue
             if re.match(r"^https?://(www\.)?discord(app)?\.com/invite/(gg/)?.{2,}$", r.url):
                 self.invite_link = link
                 return
