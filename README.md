@@ -855,7 +855,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_cafe.png" />
 
-[__Linux Café__](https://discord.com/invite/9pfb5ZB) \
+[__Linux Café__](https://discord.com/invite/9pfb5ZB)  [<img height="16px" width="16px" alt="CodeBerg Repository" src="https://codeberg.org/img/gitea-sm.png">](https://codeberg.org/LinuxCafeFederation) [<img height="16px" width="16px" alt="Reddit" src="images/badges/reddit.png">](https://reddit.com/r/linuxcafe \
 Notable Channels: `#tips-and-links`, `#news`, `#tech`, `#de-and-customization`, `#programming`, `#linux-support`, `#support-other` \
 Language: English
 
@@ -975,7 +975,13 @@ Language: English
 
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homelab/) \
 Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
-Language: English, Deutsch, français, Nederlands \
+Language: English, Deutsch, français, Nederlands 
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://i.imgur.com/hDjIjXE.png" />
+
+[__Pi-hole__](https://discord.gg/VzThBmB) \
+Notable Channels: `#tech`, `#pi-hole-support`, `#share-your-setup`, `#programming` \
+Language: English \
 <br />
 
 ### API
