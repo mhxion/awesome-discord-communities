@@ -975,7 +975,7 @@ Language: English
 
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/homelab/) \
 Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
-Language: English, Deutsch, français, Nederlands 
+Language: English, Deutsch, français, Nederlands \
 <br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://i.imgur.com/hDjIjXE.png" />
