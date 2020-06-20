@@ -853,6 +853,12 @@ Language: English \
 Notable Channels: `#tech`, `#customization`, `#programming`, `#support-linux`, `#support-distro-installs`, `#support-games`, `#support-discord`, `#support-non-linux` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_cafe.png" />
+
+[__Linux Café__](https://discord.com/invite/9pfb5ZB) \
+Notable Channels: `#tips-and-links`, `#news`, `#tech`, `#de-and-customization`, `#programming`, `#linux-support`, `#support-other` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_for_all.png" />
 
 [__Linux For All__](https://discord.gg/gewCYyN) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twitter.com/lfa_linux/) \
