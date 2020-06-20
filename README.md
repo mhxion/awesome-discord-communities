@@ -918,7 +918,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_gaming.png" />
 
-[__Linux Gaming__](https://discord.com/invite/t6GJuTC) \
+[__Linux Gaming__](https://discord.com/invite/linuxgaming) \
 Notable Channels: `#support-general`, `#support-hardware`, `#support-gaming`, `#new-to-linux`, `#tech-general`, `#coding`, `#unixporn`, `#original-content` \
 Language: English
 
