@@ -855,7 +855,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_cafe.png" />
 
-[__Linux Café__](https://discord.com/invite/9pfb5ZB)  [<img height="16px" width="16px" alt="CodeBerg Repository" src="https://codeberg.org/img/gitea-sm.png">](https://codeberg.org/LinuxCafeFederation) [<img height="16px" width="16px" alt="Reddit" src="images/badges/reddit.png">](https://reddit.com/r/linuxcafe) \
+[__Linux Café__](https://discord.com/invite/9pfb5ZB) [<img height="16px" width="16px" alt="Reddit" src="images/badges/reddit.png">](https://reddit.com/r/linuxcafe) [<img height="16px" width="16px" alt="CodeBerg Repository" src="images/badges/git.png">](https://codeberg.org/LinuxCafeFederation) \
 Notable Channels: `#tips-and-links`, `#news`, `#tech`, `#de-and-customization`, `#programming`, `#linux-support`, `#support-other` \
 Language: English
 
