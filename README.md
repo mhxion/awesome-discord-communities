@@ -1130,16 +1130,16 @@ Language: English
 
 ### Game Design
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ttrpg_design_and_playtesting.png" />
-
-[__TTRPG Design and Playtesting__](https://discord.com/invite/5XRWTj9) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/RPGdesign/) \
-Notable Channels: `#business`, `#game-design`, `#math`, `#mechanics`, `#playtesting`, `#visual-design`, `#world-design`, `#writing`, `#game-critique`, `#mechanics-critique`, `#projects` \
-Language: English
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_gamedesign.png" />
 
 [__/r/GameDesign__](https://discord.com/invite/gamedesign) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/gamedesign/) \
 Notable Channels: `#digital-game-design`, `#tabletop-game-design`, `#game-development`, `#music-and-art`, `#find-people`, `#get-found`, `#current-projects` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/graphics_programming.png" />
+
+[__Graphics Programming__](https://discord.com/invite/6mgNGk7) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GraphicsProgramming) \
+Notable Channels: `#mathematics`, `#questions`, `#ray-tracing`, `#techniques`, `#directx`, `#gpu-compute`, `#opengl`, `#unity-unreal`, `#vulkan`, `#web`, `#algorithms`, `#bikeshed`, `#engine-dev`, `#low-level` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/openvfx_the_blender_hub.png" />
@@ -1148,16 +1148,16 @@ Language: English
 Notable Channels: `#cgi-general`, `#resources`, `#3d-printing`, `#animation-rigging`, `#coding`, `#grease-pencil`, `#materials`, `#modeling`, `#physics`, `#rendering`, `#roblox`, **[`so much more`](badges.md#so-much-more)** \
 Language: English, Deutsch, português, español, Nederlands, suomi, Magyar, svenska, dansk, हिन्दी
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/graphics_programming.png" />
-
-[__Graphics Programming__](https://discord.com/invite/6mgNGk7) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GraphicsProgramming) \
-Notable Channels: `#mathematics`, `#questions`, `#ray-tracing`, `#techniques`, `#directx`, `#gpu-compute`, `#opengl`, `#unity-unreal`, `#vulkan`, `#web`, `#algorithms`, `#bikeshed`, `#engine-dev`, `#low-level` \
-Language: English
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/shadertoy.png" />
 
 [__Shadertoy__](https://discord.com/invite/XtmMN6E) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.shadertoy.com) \
 Notable Channels: `#shader-programming`, `#beginners`, `#mathematics`, `#showcase`, `#live-coding-streams`, `#resources` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ttrpg_design_and_playtesting.png" />
+
+[__TTRPG Design and Playtesting__](https://discord.com/invite/5XRWTj9) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/RPGdesign/) \
+Notable Channels: `#business`, `#game-design`, `#math`, `#mechanics`, `#playtesting`, `#visual-design`, `#world-design`, `#writing`, `#game-critique`, `#mechanics-critique`, `#projects` \
 Language: English
 
 ### Game Engines
