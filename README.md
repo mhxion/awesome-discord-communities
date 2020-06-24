@@ -863,6 +863,13 @@ Language: English \
 
 #### Linux in General
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nix_nest.png" />
+
+[__*nix nest__](https://discord.gg/shpxu6T) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/discordlinux) \
+Notable Channels: `#home`, `#dev-random`, `#support`, `#unixporn`, `#programming`, `#media`, `#hardware`, `#gaming` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/discord_linux.png" />
 
 [__Discord Linux__](https://discord.com/invite/discord-linux) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/discordlinux) \
@@ -879,13 +886,6 @@ Language: English
 
 [__Linux For All__](https://discord.gg/gewCYyN) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twitter.com/lfa_linux/) \
 Notable Channels: `#linux-news`, `#general`, `#linux`, `#gaming`, `#suggestions`, `#developers`, `#themes`, `#support` \
-Language: English \
-<br />
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nix_nest.png" />
-
-[__*nix nest__](https://discord.gg/shpxu6T) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/discordlinux) \
-Notable Channels: `#home`, `#dev-random`, `#support`, `#unixporn`, `#programming`, `#media`, `#hardware`, `#gaming` \
 Language: English \
 <br />
 
