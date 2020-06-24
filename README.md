@@ -891,11 +891,12 @@ Language: English \
 
 #### Linux Distributions
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ubuntu_hideout.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arch_linux_unofficial.png" />
 
-[__Ubuntu Hideout__](https://discord.com/invite/jcwJEJH) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://ubuntuhideout.com/) \
-Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
-Language: English
+[__Arch Linux [unofficial]__](https://discord.com/invite/MrhPdhn) \
+Notable Channels: `#news`, `#home`, `#arch-support`, `#other-distros`, `#programming`, `#ricing`, `#wallpapers` \
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fedora_linux.png" />
 
@@ -910,12 +911,11 @@ Notable Channels: `#chat`, `#support`, `#screenshots`, `#general-development`, `
 Language: English, 日本語 \
 <br />
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/opensuse.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_mint_community.png" />
 
-[__openSUSE__](https://discord.com/invite/openSUSE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.opensuse.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/openSUSE) \
-Notable Channels: `#support`, `#chat`, `#project`, `#packaging`, `#factory`, `#admin`, `#artwork`, `#docs`, `#gnome`, `#xfce` \
-Language: English, français, Deutsch, italiano, polski, español, Nederlands \
-<br />
+[__Linux Mint Community__](https://discord.com/invite/EVVtPpw) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/UtopicUnicorns/artemis) \
+Notable Channels: `#support-mint`, `#support-lmde`, `#support-other-os`, `#support-nos`, `#general`, `#tech-talk`, `#user-created-content` \
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/manjaro_linux.png" />
 
@@ -923,17 +923,17 @@ Language: English, français, Deutsch, italiano, polski, español, Nederlands \
 Notable Channels: `#kde`, `#xfce`, `#gnome`, `#manjaro-arm`, `#help-general`, `#help-installation`, `#programming`, `#customizations` \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arch_linux_unofficial.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/opensuse.png" />
 
-[__Arch Linux [unofficial]__](https://discord.com/invite/MrhPdhn) \
-Notable Channels: `#news`, `#home`, `#arch-support`, `#other-distros`, `#programming`, `#ricing`, `#wallpapers` \
-Language: English \
+[__openSUSE__](https://discord.com/invite/openSUSE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.opensuse.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/openSUSE) \
+Notable Channels: `#support`, `#chat`, `#project`, `#packaging`, `#factory`, `#admin`, `#artwork`, `#docs`, `#gnome`, `#xfce` \
+Language: English, français, Deutsch, italiano, polski, español, Nederlands \
 <br />
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_mint_community.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ubuntu_hideout.png" />
 
-[__Linux Mint Community__](https://discord.com/invite/EVVtPpw) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/UtopicUnicorns/artemis) \
-Notable Channels: `#support-mint`, `#support-lmde`, `#support-other-os`, `#support-nos`, `#general`, `#tech-talk`, `#user-created-content` \
+[__Ubuntu Hideout__](https://discord.com/invite/jcwJEJH) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://ubuntuhideout.com/) \
+Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
 Language: English
 
 #### Gaming on Linux
