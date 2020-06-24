@@ -571,6 +571,12 @@ Language: English \
 Notable Channels: `#general`, `#support`, `#maintenance`, `#design`, `#presets`, `#documentation`, `#addons`, `#jobs`, `#frameworks`\
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/testing_library.png" />
+
+[__Testing Library__](https://discord.com/invite/c6JN9fM) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://testing-library.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/testing-library) \
+Notable Channels: `#general`, `#help`, `#dom`, `#react`, `#react-hooks`, `#native`, `#cypress`, `#vue`, `#angular`, `#svelte`, `#preact`, `#preact-hooks`, `#pptr`, `#testcafe`, `#nightwatch`, `#playground` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/yarnpkg.png" />
 
 [__yarnpkg__](https://discord.com/invite/yarnpkg) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://classic.yarnpkg.com/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/yarnpkg) \
@@ -721,6 +727,20 @@ Language: English
 Notable Channels: `#general-os`, `#ideavim`, `#intellij-idea-community`, `#kotlin`, `#mps`, `#appcode`, `#clion`, `#datagrip`, `#datalore`, `#dotcover`, `#phpstorm`, `#pycharm`, `#resharper`, `#rider`, `#rubymine` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/blink.png" />
+
+[__Blink__](https://discord.com/invite/ZTtMfvK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://blink.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/blinksh) \
+Notable Channels: `#support`, `#themes-and-fonts`, `#shortcuts`, `#tips-and-tricks`, `#general`, `#dev`, `#design` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ohmyzsh.png" />
+
+[__ohmyzsh__](https://discord.com/invite/ohmyzsh) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://ohmyz.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/ohmyzsh) \
+Notable Channels: `#discussion`, `#terminal-setups`, `#tech-support`, `#code`, `#suggestions`, `#wiki-rewrite` \
+Language: English \
+<br />
+
 ## Design and Illustrations
 
 All about design systems, graphical illustrations, user interface and user experience.
@@ -846,6 +866,12 @@ Language: English \
 Notable Channels: `#tech`, `#customization`, `#programming`, `#support-linux`, `#support-distro-installs`, `#support-games`, `#support-discord`, `#support-non-linux` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_cafe.png" />
+
+[__Linux Café__](https://discord.com/invite/9pfb5ZB) [<img height="16px" width="16px" alt="Reddit" src="images/badges/reddit.png">](https://reddit.com/r/linuxcafe) [<img height="16px" width="16px" alt="CodeBerg Repository" src="images/badges/git.png">](https://codeberg.org/LinuxCafeFederation) \
+Notable Channels: `#tips-and-links`, `#news`, `#tech`, `#de-and-customization`, `#programming`, `#linux-support`, `#support-other` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_for_all.png" />
 
 [__Linux For All__](https://discord.gg/gewCYyN) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twitter.com/lfa_linux/) \
@@ -911,7 +937,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_gaming.png" />
 
-[__Linux Gaming__](https://discord.com/invite/t6GJuTC) \
+[__Linux Gaming__](https://discord.com/invite/linuxgaming) \
 Notable Channels: `#support-general`, `#support-hardware`, `#support-gaming`, `#new-to-linux`, `#tech-general`, `#coding`, `#unixporn`, `#original-content` \
 Language: English
 
@@ -984,9 +1010,9 @@ Language: English \
 
 ### Server-side Applications
 
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_plex.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/organizr.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/librenms.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/spaceuptech.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/appwrite.png" /> |
-|----------------------|-------------------|-------------------|-------------------|-------------------|
-| [__/r/Plex__](https://discord.com/invite/plex)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/PleX/) | [__Organizr__](https://discord.com/invite/TrNtY7N)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://organizr.app/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/causefx/Organizr) | [__LibreNMS__](https://discord.com/invite/librenms)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.librenms.org) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/librenms) | [__SpaceUpTech__](https://discord.com/invite/RkGjW93)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://spaceuptech.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/spaceuptech) | [__Appwrite__](https://discord.com/invite/GSeTUeA)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://appwrite.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/appwrite/appwrite) |
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_plex.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/organizr.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/librenms.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/spaceuptech.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/appwrite.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pi_hole.png" /> |
+|----------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
+| [__/r/Plex__](https://discord.com/invite/plex)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/PleX/) | [__Organizr__](https://discord.com/invite/TrNtY7N)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://organizr.app/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/causefx/Organizr) | [__LibreNMS__](https://discord.com/invite/librenms)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.librenms.org) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/librenms) | [__SpaceUpTech__](https://discord.com/invite/RkGjW93)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://spaceuptech.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/spaceuptech) | [__Appwrite__](https://discord.com/invite/GSeTUeA)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://appwrite.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/appwrite/appwrite) | [__Pi-Hole__](https://discord.gg/VzThBmB)
 
 ## Computer Security
 
