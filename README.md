@@ -813,6 +813,12 @@ Language: English
 
 ### Apple Systems
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_hackintosh_paradise.png" />
+
+[__/r/Hackintosh Paradise__](https://discord.com/invite/Wxam8aH) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/hackintosh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) \
+Notable Channels: `#hackintosh-help`, `#laptop-prebuilt`, `#smbios`, `#macos`, `#linux`, `#windows`, `#retro-gaming`, `#hardware` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/apple_betas.png" />
 
 [__Apple Betas__](https://discord.com/invite/beta) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/iOSBeta/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/23Aaron/JeffBot) \
@@ -826,22 +832,16 @@ Language: English \
 Notable Channels: `#showcase`, `#common-issues`, `#jailbreak`, `#general`, `#themes`, `#legacy`, `#unc0ver`, `#tvos-jailbreaks`, `#checkra1n`, `#chimera`, `#flex`, `#ncontrol`, `#support` \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/shortcuts.png" />
-
-[__Shortcuts__](https://discord.gg/HrzAhUu) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/shortcuts/) \
-Notable Channels: `#general`, `#shorcut-sharing`, `#help-and-support`, `#shortcast-info`, `#shortcasts-content-suggestions`\
-Language: English
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hackintosh_x86.png" />
 
 [__Hackintosh x86__](https://discord.com/invite/hackintosh) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.osx86.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://git.osx86.io/) \
 Notable Channels: `#general-chat`, `#opencore`, `#acpi-ssdt`, `#bios-mods`, `#virtualization`, `#hardware`, `#gaming`, `#efi-database`, `#benchmarks` \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_hackintosh_paradise.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/shortcuts.png" />
 
-[__/r/Hackintosh Paradise__](https://discord.com/invite/Wxam8aH) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/hackintosh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) \
-Notable Channels: `#hackintosh-help`, `#laptop-prebuilt`, `#smbios`, `#macos`, `#linux`, `#windows`, `#retro-gaming`, `#hardware` \
+[__Shortcuts__](https://discord.gg/HrzAhUu) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/shortcuts/) \
+Notable Channels: `#general`, `#shorcut-sharing`, `#help-and-support`, `#shortcast-info`, `#shortcasts-content-suggestions`\
 Language: English
 
 ### Windows
