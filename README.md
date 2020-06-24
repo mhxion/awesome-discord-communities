@@ -727,6 +727,8 @@ Language: English
 Notable Channels: `#general-os`, `#ideavim`, `#intellij-idea-community`, `#kotlin`, `#mps`, `#appcode`, `#clion`, `#datagrip`, `#datalore`, `#dotcover`, `#phpstorm`, `#pycharm`, `#resharper`, `#rider`, `#rubymine` \
 Language: English
 
+<<<<<<< HEAD
+=======
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/blink.png" />
 
 [__Blink__](https://discord.com/invite/ZTtMfvK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://blink.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/blinksh) \
@@ -741,6 +743,7 @@ Notable Channels: `#discussion`, `#terminal-setups`, `#tech-support`, `#code`, `
 Language: English \
 <br />
 
+>>>>>>> 9de1509aa9cc83e36c48394d47c61cbff22bfaf0
 ## Design and Illustrations
 
 All about design systems, graphical illustrations, user interface and user experience.
@@ -782,16 +785,17 @@ Language: English \
 Notable Channels: `#beginner`, `#intermediate`, `#rom`, `#general`, `#flutter`, `#kotlin`, `#firebase`, `#dependency-injection`, `#rx`, `#design` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_androidroot.png" />
+
+[__/r/AndroidRoot__](https://discord.gg/Uq7r6kF) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/androidroot/) \
+Notable Channels: `#root`, `#custom-roms`, `#theming`, `#development`, `#magisk`, `#twrp`, `#substratum`, `#support-room` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_flutterdev.png" />
 
 [__/r/FlutterDev__](https://discord.com/invite/N7Yshp4) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/FlutterDev/) \
 Notable Channels: `#beginner`, `#intermediate`, `#general`, `#android`, `#ios`, `#web`, `#desktop`, `#app-showcase`, `#hiring` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/xda-developers.png" />
-
-[__XDA-Developers__](https://discord.com/invite/EhaMzy2) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://forum.xda-developers.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/xda) \
-Notable Channels: `#general-tech`, `#help`, `#development`, `#theming`, `#devices`, `#google-general`, `#huawei-general`, `#oneplus-general`, `#samsung-general`, `#nokia-general` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/android_discord.png" />
@@ -801,12 +805,11 @@ Notable Channels: `#android`, `#whatphone`, `#tech-support`, `#phone-questions`,
 Language: English \
 <br />
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_androidroot.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/xda-developers.png" />
 
-[__/r/AndroidRoot__](https://discord.gg/Uq7r6kF) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/androidroot/) \
-Notable Channels: `#root`, `#custom-roms`, `#theming`, `#development`, `#magisk`, `#twrp`, `#substratum`, `#support-room` \
-Language: English \
-<br />
+[__XDA-Developers__](https://discord.com/invite/EhaMzy2) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://forum.xda-developers.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/xda) \
+Notable Channels: `#general-tech`, `#help`, `#development`, `#theming`, `#devices`, `#google-general`, `#huawei-general`, `#oneplus-general`, `#samsung-general`, `#nokia-general` \
+Language: English
 
 ### Apple Systems
 
