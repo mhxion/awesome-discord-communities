@@ -1178,6 +1178,12 @@ Language: English
 
 ### Virtual Reality
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/project_north_star.png" />
+
+[__Project North Star__](https://discord.com/invite/2aE2Nfq) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://developer.leapmotion.com/northstar) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/leapmotion/ProjectNorthStar) \
+Notable Channels: `#build-planning`, `#northstar3-2`, `#jenson-redesing`, `#triton`, `#exii-raspberry-pi`, `#cad`, `#eye-tracking`, `#calibration`, `#steamvr`, `#mechanical`, `#firmware`, `#troubleshooting` \
+Language: English, Deutsch, français, español, 日本語, 韓國語
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vrchat.png" />
 
 [__VRChat__](https://discord.com/invite/vrchat) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vrchat.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vrchat) \
@@ -1189,12 +1195,6 @@ Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语
 [__Virtual Reality__](https://discord.com/invite/virtualreality) \
 Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#oculus-go`, `#valve-index`, `#pimax-vr`, `#htc-vive`, `#windows-mixed-reality`, `#playstation-vr`, `#vr-flightsims` \
 Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/project_north_star.png" />
-
-[__Project North Star__](https://discord.com/invite/2aE2Nfq) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://developer.leapmotion.com/northstar) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/leapmotion/ProjectNorthStar) \
-Notable Channels: `#build-planning`, `#northstar3-2`, `#jenson-redesing`, `#triton`, `#exii-raspberry-pi`, `#cad`, `#eye-tracking`, `#calibration`, `#steamvr`, `#mechanical`, `#firmware`, `#troubleshooting` \
-Language: English, Deutsch, français, español, 日本語, 韓國語
 
 ### Game Development Tools
 
