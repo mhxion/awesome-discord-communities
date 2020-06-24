@@ -1018,34 +1018,10 @@ Language: English \
 
 Everything red and blue teams are leaglly allowed to do; securty asssessment, reverse engineering, loopholes in networks, vulnerability research and so on.
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reverse_engineering.png" />
-
-[__Reverse Engineering__](https://discord.gg/PSfAu8N) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Cryptogenic/REBot) \
-Notable Channels: `#help`, `#ctf`, `#starting-out`, `#mobile`, `#exploits-and-vulns`, `#hardware`, `#malware`, `#tools`, `#software-protections` \
-Language: English
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_many_hats_club.png" />
 
-[__The Many Hats Club__](https://discord.gg/infosec) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://themanyhats.club/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/xdfcfc0xa/TMHC-Challenge-Platform) \
-Notable Channels: `#infosec-general`, `#technical-chat`, `#student-zone`, `#blue-team-zone`, `#ctf`, `#malware-phishing`, `#cyber-threat-intel`, `#digital-forensica` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hacker101.png" />
-
-[__Hacker101__](https://discord.com/invite/32ZNZVN) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.hackerone.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Hacker0x01) \
-Notable Channels: `#general`, `#hacking-resources`, `#questions-and-answers`, `#hacktivity`, `#hackthebox`, `#mother-ctfs`, `#h1-2006-ctf`, `#ctfs`, `#a-little-something-to-get-you-started` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cyberseclabs_lounge.png" />
-
-[__CyberSecLabs Lounge__](https://discord.com/invite/2C9dmtg) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cyberseclabs.co.uk/) \
-Notable Channels: `#support-labs`, `#challenge-labs`, `#ctf`, `#technical-help`, `#red-teaming`, `#networking`, `#cryptography`, `#programming` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_cyber_mentor.png" />
-
-[__The Cyber Mentor__](https://discord.com/invite/Nu59kq5) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.twitch.tv/thecybermentor) \
-Notable Channels: `#web-app-course`, `#zero-to-hero`, `#red-teaming`, `#reverse-engineering`, `#linux`, `#web-apps`, `#htb`, `#tryhackme`, `#forensics`, `#job-postings` \
+[__Շђє ๓คภץ ђคՇร Ċ̵͕l̶̀͘u̸̍͝b̵͌͐__](https://discord.gg/infosec) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://themanyhats.club/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/xdfcfc0xa/TMHC-Challenge-Platform) \
+Notable Channels: `#infosec-general`, `#technical-chat`, `#student-zone`, `#blue-team-zone`, `#ctf`, `#malware-phishing`, `#cyber-threat-intel`, `#digital-forensics` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/3ds_cybersec_empire.png" />
@@ -1054,16 +1030,40 @@ Language: English
 Notable Channels: `#ethical-hacking`, `#questions`, `#sources`, `#projects`, `#security-softwares`, `#capture-the-flag`, `#other-programming-languages` \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/locke.png" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cyberseclabs_lounge.png" />
 
-[__LOCKE__](https://discord.com/invite/n8TSaNf) \
-Notable Channels: `#windows-os`, `#unix-family`, `#mac-os`, `#ethical-hacking`, `#ctf-discussion`, `#job-discussion`, `#networking`, `#cryptography`, `#mobile-devices`, `#web-dev`, `#python` \
+[__CyberSecLabs Lounge__](https://discord.com/invite/2C9dmtg) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cyberseclabs.co.uk/) \
+Notable Channels: `#support-labs`, `#challenge-labs`, `#ctf`, `#technical-help`, `#red-teaming`, `#networking`, `#cryptography`, `#programming` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hacker101.png" />
+
+[__Hacker101__](https://discord.com/invite/32ZNZVN) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.hackerone.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Hacker0x01) \
+Notable Channels: `#general`, `#hacking-resources`, `#questions-and-answers`, `#hacktivity`, `#hackthebox`, `#mother-ctfs`, `#h1-2006-ctf`, `#ctfs`, `#a-little-something-to-get-you-started` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/infosec_and_coding.png" />
 
 [__InfoSec & Coding__](https://discord.gg/zSaDzRW) \
 Notable Channels: `#general`, `#questions`, `#programming`, `#hacking`, `#webdev`, `#opearting-systems`, `#ctf`, `#resources` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/locke.png" />
+
+[__LOCKE__](https://discord.com/invite/n8TSaNf) \
+Notable Channels: `#windows-os`, `#unix-family`, `#mac-os`, `#ethical-hacking`, `#ctf-discussion`, `#job-discussion`, `#networking`, `#cryptography`, `#mobile-devices`, `#web-dev`, `#python` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reverse_engineering.png" />
+
+[__Reverse Engineering__](https://discord.gg/PSfAu8N) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Cryptogenic/REBot) \
+Notable Channels: `#help`, `#ctf`, `#starting-out`, `#mobile`, `#exploits-and-vulns`, `#hardware`, `#malware`, `#tools`, `#software-protections` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_cyber_mentor.png" />
+
+[__The Cyber Mentor__](https://discord.com/invite/Nu59kq5) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.twitch.tv/thecybermentor) \
+Notable Channels: `#web-app-course`, `#zero-to-hero`, `#red-teaming`, `#reverse-engineering`, `#linux`, `#web-apps`, `#htb`, `#tryhackme`, `#forensics`, `#job-postings` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/whitehat_hacking.png" />
