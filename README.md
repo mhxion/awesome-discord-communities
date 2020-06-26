@@ -693,6 +693,12 @@ Language: English
 Notable Channels: `#beginners`, `#contribute`, `#community-team`, `#rustbridge`, `#design`, `#compiler`, `#wg-grammar`, `#wg-async-foundation`, `#type-theory`, `#wg-wasm`, `#wg-gamedev`, **[`so much more`](badges.md#so-much-more)** \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tauri_apps.png" />
+
+[__Tauri Apps__](https://discord.com/invite/SpmNs4S) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tauri.studio) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/tauri-apps) \
+Notable Channels: `#webview`, `#didathing`, `#help`, `#gamedevs`, `#app-devs`, `#vue-cli-plugin`, `#testing-core`, `#documentation`, `#community-projects`, `#working-groups`, `#cli-node`, `#core-rust` \
+Language: English
+
 ### Swift
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/swift.png" />
