@@ -47,7 +47,7 @@ If you're familiar with other popular [awesome lists](https://github.com/sindres
     - [Node.js](#nodejs)
     - [ReactJS](#reactjs)
     - [Vue.js](#vuejs)
-    - [Other JavaScript Libraries](#other-javascript-libraries)
+    - [JavaScript Libraries](#javascript-libraries)
   - [Lisp](#lisp)
   - [Lua](#lua)
   - [PHP](#php)
