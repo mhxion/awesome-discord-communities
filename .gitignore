@@ -1,3 +1,5 @@
+package-lock.json
+node_modules
 .vscode
 TODO.md
 .py38venv
