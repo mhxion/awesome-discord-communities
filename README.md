@@ -86,7 +86,7 @@ If you're familiar with other popular [awesome lists](https://github.com/sindres
 
 ## Programming in General
 
-Some Discord counterpart communities to StackOverflow.
+Some Discord counterpart communities to Stack Overflow.
 
 ### Support Communities
 
