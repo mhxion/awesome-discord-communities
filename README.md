@@ -6,16 +6,9 @@
 A curated list of awesome [Discord](https://discord.com/) communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts. [__This is not a Discord listing or promotional site!__](FAQ.md#how-is-this-list-any-different-from-discord-listing-sites)
 
 <!-- omit in toc -->
-## How to Navigate
-
-If you're familiar with other popular [awesome lists](https://github.com/sindresorhus/awesome/blob/master/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](./badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's __privacy policy__ and answers to other frequent questions.
-
-- A quick lookup from browser `ctrl + f` maybe helpful to find a certain topic
-- Once you've clicked a section from [contents](#contents) below, to go back to previous section press `alt + left arrow` or `⌘ + left arrow`.
-
-<!-- omit in toc -->
 ## Contents
 
+- [__How to Navigate__](#how-to-navigate)
 - [Programming in General](#programming-in-general)
   - [Support Communities](#support-communities)
   - [Competitive Programming](#competitive-programming)
@@ -29,7 +22,7 @@ If you're familiar with other popular [awesome lists](https://github.com/sindres
   - [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
   - [DIY](#diy)
   - [Internet of Things](#internet-of-things)
-    - [IoT Applications](#iot-applications)
+  - [IoT Applications](#iot-applications)
   - [Hardware](#hardware)
 - [Programming Languages](#programming-languages)
   - [Language Paradigms](#language-paradigms)
@@ -43,16 +36,15 @@ If you're familiar with other popular [awesome lists](https://github.com/sindres
   - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
-    - [JavaScript Web Frameworks](#javascript-web-frameworks)
-    - [Node.js](#nodejs)
-    - [ReactJS](#reactjs)
-    - [Vue.js](#vuejs)
-    - [JavaScript Libraries](#javascript-libraries)
+  - [JavaScript Web Frameworks](#javascript-web-frameworks)
+  - [Node.js](#nodejs)
+  - [React.js](#reactjs)
+  - [Vue.js](#vuejs)
+  - [JavaScript Libraries](#javascript-libraries)
   - [Lisp](#lisp)
   - [Lua](#lua)
   - [PHP](#php)
   - [Python](#python)
-    - [Kivy](#kivy)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Swift](#swift)
@@ -64,9 +56,8 @@ If you're familiar with other popular [awesome lists](https://github.com/sindres
   - [Apple Systems](#apple-systems)
   - [Windows](#windows)
   - [Linux](#linux)
-    - [Linux in General](#linux-in-general)
-    - [Linux Distributions](#linux-distributions)
-    - [Gaming on Linux](#gaming-on-linux)
+  - [Linux Distributions](#linux-distributions)
+  - [Gaming on Linux](#gaming-on-linux)
   - [Other OS](#other-os)
 - [Server-side](#server-side)
   - [API](#api)
@@ -78,13 +69,20 @@ If you're familiar with other popular [awesome lists](https://github.com/sindres
 - [Game Development](#game-development)
   - [Game Design](#game-design)
   - [Game Engines](#game-engines)
-    - [Unity](#unity)
   - [Virtual Reality](#virtual-reality)
   - [Game Development Tools](#game-development-tools)
 - [Machine Learning](#machine-learning)
   - [Data Science](#data-science)
 - [Career](#career)
 - [Discord Development](#discord-development)
+- [Attribution](#attribution)
+
+## How to Navigate
+
+If you're familiar with other popular [awesome lists](https://github.com/sindresorhus/awesome/blob/master/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](./badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's __privacy policy__ and answers to other frequent questions.
+
+- A quick lookup from browser `ctrl + f` maybe helpful to find a certain topic
+- Once you've clicked a section from [contents](#contents) below, to go back to previous section press `alt + left arrow` or `⌘ + left arrow`.
 
 ## Programming in General
 
@@ -306,7 +304,7 @@ Language: English
 Notable Channels: `#general`, `#homekit-discussion`, `#hk-showcase`, `#hk-questions-help`, `#homepod-discussion`, `#hp-questions-help`, `#homebridge-discussion`, `#hb-plugin-showcase` \
 Language: English
 
-#### IoT Applications
+### IoT Applications
 
 <!--lint ignore table-pipe-alignment-->
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/appdaemon.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/deconz.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/esphome.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tasmota.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/zigbee2mqtt.png" /> |
@@ -501,7 +499,7 @@ Language: English
 Notable Channels: `#collaboration`, `#code-review`, `#help`, `#react`, `#angular`, `#vue`, `#svelte`, `#jquery`, `#gatsby`, `#node`, `#graphql`, `#electron`, `#threejs`, `#webgl`\
 Language: English
 
-#### JavaScript Web Frameworks
+### JavaScript Web Frameworks
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/docusaurus.png" />
 
@@ -521,7 +519,7 @@ Language: English, français, Deutsch, português, pусский, español
 Notable Channels: `#svelte`, `#support`, `#sapper`, `#examples`, `#updates`, `#meetups`, `#future`, `#showcase`, `#nativedev`, `#internals`, `#gl`, `#jobs`, `#language-tools`, `#sveltesocietyday2020` \
 Language: English
 
-#### Node.js
+### Node.js
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nodeiflux.png" />
 
@@ -535,7 +533,7 @@ Language: English \
 | ---------------------- | ------------------- |
 | [__AdonisJS<br>Framework__](https://discord.com/invite/vDcEjq6)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://adonisjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/adonisjs) | [__NestJS__](https://discord.com/invite/G7Qnnhy)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nestjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nestjs) |
 
-#### ReactJS
+### React.js
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactiflux.png" />
 
@@ -548,7 +546,7 @@ Language: English
 | ---------------------- | ------------------- |
 | [__Gatsby__](https://discord.gg/gatsby)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gatsbyjs.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/gatsbyjs/gatsby) | [__Invertase OSS__](https://discord.com/invite/C9aK28N)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://rnfirebase.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/invertase/react-native-firebase) |
 
-#### Vue.js
+### Vue.js
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_land.png" />
 
@@ -566,7 +564,7 @@ Language: English, Deutsch, français, 汉语, español, 日本語, dansk, 한�
 |-------------------|
 | [__Vuetify__](https://discord.com/invite/s93b7Fv)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vuetifyjs.com/en/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vuetifyjs/vuetify) |
 
-#### JavaScript Libraries
+### JavaScript Libraries
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/egoist_oss.png" />
 
@@ -661,6 +659,7 @@ Language: English
 Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#computer-science`, `#database`, `#data-science`, `#dev-ops`, `#discord-py`, `#game-development`, `#security`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
+<!-- omit in toc -->
 #### Kivy
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/kivy.png" />
@@ -874,15 +873,6 @@ Language: English
 
 ### Linux
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_unixporn.png" />
-
-[__r/unixporn__](https://discord.com/invite/TnJ4h5K) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/unixporn/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/unixporn) \
-Notable Channels: `#showcase`, `#ricing-theming`, `#tools`, `#wallpapers`, `#tech-support`, `#programming`, `#hardware` \
-Language: English \
-<br />
-
-#### Linux in General
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nix_nest.png" />
 
 [__*nix nest__](https://discord.gg/shpxu6T) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/discordlinux) \
@@ -909,7 +899,14 @@ Notable Channels: `#linux-news`, `#general`, `#linux`, `#gaming`, `#suggestions`
 Language: English \
 <br />
 
-#### Linux Distributions
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_unixporn.png" />
+
+[__r/unixporn__](https://discord.com/invite/TnJ4h5K) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/unixporn/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/unixporn) \
+Notable Channels: `#showcase`, `#ricing-theming`, `#tools`, `#wallpapers`, `#tech-support`, `#programming`, `#hardware` \
+Language: English \
+<br />
+
+### Linux Distributions
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arch_linux_unofficial.png" />
 
@@ -956,7 +953,7 @@ Language: English, français, Deutsch, italiano, polski, español, Nederlands \
 Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
 Language: English
 
-#### Gaming on Linux
+### Gaming on Linux
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_gaming.png" />
 
@@ -1197,6 +1194,7 @@ Language: English
 | ------------ | ------------ |
 | [__Ren'Py__](https://discord.com/invite/6ckxWYm)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](http://www.renpy.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/renpy) | [__Unreal Slackers__](https://discord.com/invite/unreal-slackers)<br> [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unrealslackers.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/unreal-slackers) |
 
+<!-- omit in toc -->
 #### Unity
 
 <!--lint ignore table-pipe-alignment-->
@@ -1304,7 +1302,6 @@ All the utilities needed in your tool bag to build a Discord bot or automation t
 is quite long and diverse that it calls for its own awesome list. You can read this [official wiki](https://www.reddit.com/r/discordapp/wiki/developers)
 about the notable development kit.
 
-<!-- omit in toc -->
 ## Attribution
 
 Badge icons are made by [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
