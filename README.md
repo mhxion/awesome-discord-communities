@@ -36,11 +36,6 @@ A curated list of awesome [Discord](https://discord.com/) communities for develo
   - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
-  - [JavaScript Web Frameworks](#javascript-web-frameworks)
-  - [Node.js](#nodejs)
-  - [React.js](#reactjs)
-  - [Vue.js](#vuejs)
-  - [JavaScript Libraries](#javascript-libraries)
   - [Lisp](#lisp)
   - [Lua](#lua)
   - [PHP](#php)
@@ -49,6 +44,12 @@ A curated list of awesome [Discord](https://discord.com/) communities for develo
   - [Rust](#rust)
   - [Swift](#swift)
   - [Typescript](#typescript)
+- [Web Development](#web-development)
+  - [Web Frameworks](#web-frameworks)
+  - [Node.js](#nodejs)
+  - [React.js](#reactjs)
+  - [Vue.js](#vuejs)
+  - [Web Libraries](#web-libraries)
 - [Development Environments](#development-environments)
 - [Design and Illustrations](#design-and-illustrations)
 - [Operating Systems](#operating-systems)
@@ -480,6 +481,13 @@ Notable Channels: `#general`, `#showcase`, `#help`, `#dev`, `#rust-libs` \
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/eslint.png" />
+
+[__ESLint__](https://discord.com/invite/8szcydm) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://eslint.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/eslint) \
+Notable Channels: `#tsc-meetings`, `#general`, `#help`, `#lookwhatimade`, `#developers`, `#season-of-docs` \
+Language: English, 日本語 \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/js_programming_language_community.png" />
 
 [__JS Programming Language Community__](https://discord.com/invite/Y8Mqbkk) \
@@ -498,106 +506,6 @@ Language: English
 [__SpeakJS__](https://discord.com/invite/dAF4F28) \
 Notable Channels: `#collaboration`, `#code-review`, `#help`, `#react`, `#angular`, `#vue`, `#svelte`, `#jquery`, `#gatsby`, `#node`, `#graphql`, `#electron`, `#threejs`, `#webgl`\
 Language: English
-
-### JavaScript Web Frameworks
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/docusaurus.png" />
-
-[__Docusaurus__](https://discord.com/invite/docusaurus) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://v2.docusaurus.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/facebook/Docusaurus) \
-Notable Channels: `#docusaurus-users`, `#docusaurus-dev`, `#docusaurus-2-dogfooding`, `#docusaurus-2-dev`, `#docusaurus-zeit`, `#docusaurus-algolia`, `#docusaurus-1-to-2-migration` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/emberjs.png" />
-
-[__emberjs__](https://discord.gg/emberjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://emberjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/emberjs) \
-Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, __[`so much more`](badges.md#so-much-more)__ \
-Language: English, français, Deutsch, português, pусский, español
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/svelte.png" />
-
-[__Svelte__](https://discord.gg/yy75DKs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://svelte.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/sveltejs/svelte) \
-Notable Channels: `#svelte`, `#support`, `#sapper`, `#examples`, `#updates`, `#meetups`, `#future`, `#showcase`, `#nativedev`, `#internals`, `#gl`, `#jobs`, `#language-tools`, `#sveltesocietyday2020` \
-Language: English
-
-### Node.js
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nodeiflux.png" />
-
-[__Nodeiflux__](https://discord.com/invite/vUsrbjd) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nodejs.org/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nodejs) \
-Notable Channels: `#general`, `#need-help`, `#i-made-this`, `#news-and-links`, `#libraries`, `#ops`, `#react`, `#jobs` \
-Language: English \
-<br />
-
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adonisjs_framework.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nestjs.png" /> |
-| ---------------------- | ------------------- |
-| [__AdonisJS<br>Framework__](https://discord.com/invite/vDcEjq6)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://adonisjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/adonisjs) | [__NestJS__](https://discord.com/invite/G7Qnnhy)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nestjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nestjs) |
-
-### React.js
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactiflux.png" />
-
-[__Reactiflux__](https://discord.gg/reactiflux) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reactiflux.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/reactiflux/reactiflux.com) \
-Notable Channels: Notable Channels: `#help-react`, `#react-native`, `#js`, `#styling`, `#backend`, `#graphql`, `#code-review`, `#react-router`, `#redux`, `#react-bootstrap`, `#formik`, __[`so much more`](badges.md#so-much-more)__ \
-Language: English
-
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gatsby.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/invertase_oss.png" /> |
-| ---------------------- | ------------------- |
-| [__Gatsby__](https://discord.gg/gatsby)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gatsbyjs.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/gatsbyjs/gatsby) | [__Invertase OSS__](https://discord.com/invite/C9aK28N)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://rnfirebase.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/invertase/react-native-firebase) |
-
-### Vue.js
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_land.png" />
-
-[__Vue Land__](https://discord.com/invite/HBherRA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vue-land) \
-Notable Channels: `#vuex-store`, `#vue-router`, `#code-help`, `#vue-cli`, `#vue-i18n`, `#vuepress`, `#composition-api`, `#vue3-discussions`, `#vue2-internals`, `#vue-testing`, __[`so much more`](badges.md#so-much-more)__ \
-Language: English, Deutsch, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский
-
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/bootstrapvue.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/buefy.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gridsome.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nuxtjs.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/quasar_framework.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_material.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vuesax.png" /> |
-|----------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
-| [__BootstrapVue__](https://discord.com/invite/j2Mtcny)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://bootstrap-vue.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/bootstrap-vue) | [__Buefy__](https://discord.com/invite/ZkdFJMr)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://buefy.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/buefy/buefy) | [__Gridsome__](https://discord.com/invite/daeay6n)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://gridsome.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/gridsome) | [__Nuxt.js__](https://discord.com/invite/b3dvQ9b)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nuxtjs.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nuxt) | [__Quasar<br>Framework__](https://discord.com/invite/5TDhbDg)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://quasar.dev/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/quasarframework/quasar) | [__Vue Material__](https://discord.com/invite/vuematerial)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vuematerial.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](http://github.com/vuematerial/vue-material) | [__Vuesax__](https://discord.com/invite/2kHwpfe)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://lusaxweb.github.io/vuesax/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/lusaxweb/vuesax) |
-
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vuetify.png" /> |
-|-------------------|
-| [__Vuetify__](https://discord.com/invite/s93b7Fv)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vuetifyjs.com/en/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vuetifyjs/vuetify) |
-
-### JavaScript Libraries
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/egoist_oss.png" />
-
-[__EGOIST OSS__](https://discord.com/invite/2t5mdCz) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://poi.js.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/egoist/poi) \
-Notable Channels: `#ream`, `#saber`, `#poi`, `#cac`, `#bili`, `#sao`, `#codepan`, `#docup`\
-Language: English \
-<br />
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/eslint.png" />
-
-[__ESLint__](https://discord.com/invite/8szcydm) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://eslint.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/eslint) \
-Notable Channels: `#tsc-meetings`, `#general`, `#help`, `#lookwhatimade`, `#developers`, `#season-of-docs` \
-Language: English, 日本語 \
-<br />
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/storybook.png" />
-
-[__storybook__](https://discord.gg/UUt2PJb) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://storybook.js.org/community/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/storybookjs/) \
-Notable Channels: `#general`, `#support`, `#maintenance`, `#design`, `#presets`, `#documentation`, `#addons`, `#jobs`, `#frameworks`\
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/testing_library.png" />
-
-[__Testing Library__](https://discord.com/invite/c6JN9fM) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://testing-library.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/testing-library) \
-Notable Channels: `#general`, `#help`, `#dom`, `#react`, `#react-hooks`, `#native`, `#cypress`, `#vue`, `#angular`, `#svelte`, `#preact`, `#preact-hooks`, `#pptr`, `#testcafe`, `#nightwatch`, `#playground` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/yarnpkg.png" />
-
-[__yarnpkg__](https://discord.com/invite/yarnpkg) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://classic.yarnpkg.com/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/yarnpkg) \
-Notable Channels: `#contributing`, `#prs`, `#issues`, `#support`, `#general`\
-Language: English \
-<br />
 
 ### Lisp
 
@@ -725,6 +633,103 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 [__TypeScript Community__](https://discord.com/invite/typescript) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.typescriptlang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/typescript-community) \
 Notable Channels: `#ts-discussion`, `#help`, `#vue`, `#angular`, `#react`, `#language-design`, `#compiler`, `#architecture`, `#tooling`, `#devops`, `#site-localization`, `#deno`, `#meetups`, `#projects` \
 Language: English
+
+## Web Development
+
+The back-end of web, from single static page to complex web applications; usage of diverse frameworks, modules, linters, components, package managers, builders, Progressive Web Apps (PWA), everything that fuels the modern web.
+
+### Web Frameworks
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/docusaurus.png" />
+
+[__Docusaurus__](https://discord.com/invite/docusaurus) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://v2.docusaurus.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/facebook/Docusaurus) \
+Notable Channels: `#docusaurus-users`, `#docusaurus-dev`, `#docusaurus-2-dogfooding`, `#docusaurus-2-dev`, `#docusaurus-zeit`, `#docusaurus-algolia`, `#docusaurus-1-to-2-migration` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/emberjs.png" />
+
+[__emberjs__](https://discord.gg/emberjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://emberjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/emberjs) \
+Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English, français, Deutsch, português, pусский, español
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/svelte.png" />
+
+[__Svelte__](https://discord.gg/yy75DKs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://svelte.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/sveltejs/svelte) \
+Notable Channels: `#svelte`, `#support`, `#sapper`, `#examples`, `#updates`, `#meetups`, `#future`, `#showcase`, `#nativedev`, `#internals`, `#gl`, `#jobs`, `#language-tools`, `#sveltesocietyday2020` \
+Language: English
+
+### Node.js
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nodeiflux.png" />
+
+[__Nodeiflux__](https://discord.com/invite/vUsrbjd) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nodejs.org/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nodejs) \
+Notable Channels: `#general`, `#need-help`, `#i-made-this`, `#news-and-links`, `#libraries`, `#ops`, `#react`, `#jobs` \
+Language: English \
+<br />
+
+<!--lint ignore table-pipe-alignment-->
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adonisjs_framework.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nestjs.png" /> |
+| ---------------------- | ------------------- |
+| [__AdonisJS<br>Framework__](https://discord.com/invite/vDcEjq6)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://adonisjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/adonisjs) | [__NestJS__](https://discord.com/invite/G7Qnnhy)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nestjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nestjs) |
+
+### React.js
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactiflux.png" />
+
+[__Reactiflux__](https://discord.gg/reactiflux) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reactiflux.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/reactiflux/reactiflux.com) \
+Notable Channels: Notable Channels: `#help-react`, `#react-native`, `#js`, `#styling`, `#backend`, `#graphql`, `#code-review`, `#react-router`, `#redux`, `#react-bootstrap`, `#formik`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
+
+<!--lint ignore table-pipe-alignment-->
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gatsby.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/invertase_oss.png" /> |
+| ---------------------- | ------------------- |
+| [__Gatsby__](https://discord.gg/gatsby)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gatsbyjs.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/gatsbyjs/gatsby) | [__Invertase OSS__](https://discord.com/invite/C9aK28N)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://rnfirebase.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/invertase/react-native-firebase) |
+
+### Vue.js
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_land.png" />
+
+[__Vue Land__](https://discord.com/invite/HBherRA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vue-land) \
+Notable Channels: `#vuex-store`, `#vue-router`, `#code-help`, `#vue-cli`, `#vue-i18n`, `#vuepress`, `#composition-api`, `#vue3-discussions`, `#vue2-internals`, `#vue-testing`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English, Deutsch, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский
+
+<!--lint ignore table-pipe-alignment-->
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/bootstrapvue.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/buefy.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gridsome.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nuxtjs.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/quasar_framework.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_material.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vuesax.png" /> |
+|----------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
+| [__BootstrapVue__](https://discord.com/invite/j2Mtcny)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://bootstrap-vue.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/bootstrap-vue) | [__Buefy__](https://discord.com/invite/ZkdFJMr)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://buefy.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/buefy/buefy) | [__Gridsome__](https://discord.com/invite/daeay6n)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://gridsome.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/gridsome) | [__Nuxt.js__](https://discord.com/invite/b3dvQ9b)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nuxtjs.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nuxt) | [__Quasar<br>Framework__](https://discord.com/invite/5TDhbDg)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://quasar.dev/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/quasarframework/quasar) | [__Vue Material__](https://discord.com/invite/vuematerial)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vuematerial.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](http://github.com/vuematerial/vue-material) | [__Vuesax__](https://discord.com/invite/2kHwpfe)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://lusaxweb.github.io/vuesax/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/lusaxweb/vuesax) |
+
+<!--lint ignore table-pipe-alignment-->
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vuetify.png" /> |
+|-------------------|
+| [__Vuetify__](https://discord.com/invite/s93b7Fv)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vuetifyjs.com/en/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vuetifyjs/vuetify) |
+
+### Web Libraries
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/egoist_oss.png" />
+
+[__EGOIST OSS__](https://discord.com/invite/2t5mdCz) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://poi.js.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/egoist/poi) \
+Notable Channels: `#ream`, `#saber`, `#poi`, `#cac`, `#bili`, `#sao`, `#codepan`, `#docup`\
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/storybook.png" />
+
+[__storybook__](https://discord.gg/UUt2PJb) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://storybook.js.org/community/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/storybookjs/) \
+Notable Channels: `#general`, `#support`, `#maintenance`, `#design`, `#presets`, `#documentation`, `#addons`, `#jobs`, `#frameworks`\
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/testing_library.png" />
+
+[__Testing Library__](https://discord.com/invite/c6JN9fM) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://testing-library.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/testing-library) \
+Notable Channels: `#general`, `#help`, `#dom`, `#react`, `#react-hooks`, `#native`, `#cypress`, `#vue`, `#angular`, `#svelte`, `#preact`, `#preact-hooks`, `#pptr`, `#testcafe`, `#nightwatch`, `#playground` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/yarnpkg.png" />
+
+[__yarnpkg__](https://discord.com/invite/yarnpkg) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://classic.yarnpkg.com/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/yarnpkg) \
+Notable Channels: `#contributing`, `#prs`, `#issues`, `#support`, `#general`\
+Language: English \
+<br />
 
 ## Development Environments
 
