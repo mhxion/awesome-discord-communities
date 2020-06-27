@@ -3,12 +3,12 @@
 <!-- omit in toc -->
 # Awesome Programming Discord [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of awesome [Discord](https://discord.com/) communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts. [**This is not a Discord listing or promotional site!**](FAQ.md#how-is-this-list-any-different-from-discord-listing-sites)
+A curated list of awesome [Discord](https://discord.com/) communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts. [__This is not a Discord listing or promotional site!__](FAQ.md#how-is-this-list-any-different-from-discord-listing-sites)
 
 <!-- omit in toc -->
 ## How to Navigate
 
-If you're familiar with other popular [awesome lists](https://github.com/sindresorhus/awesome/blob/master/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](./badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's **privacy policy** and answers to other frequent questions.
+If you're familiar with other popular [awesome lists](https://github.com/sindresorhus/awesome/blob/master/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](./badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's __privacy policy__ and answers to other frequent questions.
 
 - A quick lookup from browser `ctrl + f` maybe helpful to find a certain topic
 - Once you've clicked a section from [contents](#contents) below, to go back to previous section press `alt + left arrow` or `⌘ + left arrow`.
@@ -132,19 +132,19 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programming.png" />
 
 [__Programming__](https://discord.com/invite/010z0Kw1A9ql5c1Qe) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/strinking/) \
-Notable Channels: `#data-science`, `#graphics-programming`, `#dev-tools-and-ops`, `#unix-like`, `#web-dev`, `#security`, `#c-language`, `#java-jvm`, `#javascript`, `#odin-lang`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#data-science`, `#graphics-programming`, `#dev-tools-and-ops`, `#unix-like`, `#web-dev`, `#security`, `#c-language`, `#java-jvm`, `#javascript`, `#odin-lang`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programming_discussions.png" />
 
 [__Programming Discussions__](https://discord.com/invite/9zT7NHP) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://progdisc.club/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/progdisc) \
-Notable Channels: `#beginners`, `#interview-prep`, `#java-and-jvm`,`#c-sharp-and-dotnet`, `#ai-and-ml`, `#asm-and-systems`, `#cs-theory`, `#databses`, `#software-architecture`, `#shells`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#beginners`, `#interview-prep`, `#java-and-jvm`,`#c-sharp-and-dotnet`, `#ai-and-ml`, `#asm-and-systems`, `#cs-theory`, `#databses`, `#software-architecture`, `#shells`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_coding_den.png" />
 
 [__The Coding Den__](https://discord.com/invite/code) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/TheCodingDen) \
-Notable Channels: `#general`, `#cil-and-runtime`, `#kotlin`,`#scala`, `#android`, `#ios`, `#nodejs`, `#ruby`, `#php`, `#web-frameworks`, `#algorithms`, `#regex`, `#systems-and-servers`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#general`, `#cil-and-runtime`, `#kotlin`,`#scala`, `#android`, `#ios`, `#nodejs`, `#ruby`, `#php`, `#web-frameworks`, `#algorithms`, `#regex`, `#systems-and-servers`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_odin_project.png" />
@@ -156,7 +156,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_programmers_hangout.png" />
 
 [__The Programmer's Hangout__](https://discord.com/invite/programming) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://theprogrammershangout.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/the-programmers-hangout) \
-Notable Channels: `#beginners`, `#javascript`, `#java`, `#kotlin`,`#rust-lang`, `#ruby`, `#ai-and-ml`, `#career-advice`, `#databases`, `#gamedev`, `#ux-and-ui`, `#shells`, `#version-control`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#beginners`, `#javascript`, `#java`, `#kotlin`,`#rust-lang`, `#ruby`, `#ai-and-ml`, `#career-advice`, `#databases`, `#gamedev`, `#ux-and-ui`, `#shells`, `#version-control`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_codinghelp.png" />
@@ -169,7 +169,7 @@ Language: English \
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/webdev_and_web_design.png" />
 
 [__webdev and web_design__](https://discord.com/invite/keD8rZp) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/webdev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/ljosberinn/webdev-support-bot) \
-Notable Channels: `#dev-help`, `#dev-chat`, `#app-feedback`,`#design`, `#user-experience`, `#html`, `#css`, `#javascript`, `#typescript`, `js-framework`, `#react`, `#vue`, `#php`, `#dot-net`, `#devops`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#dev-help`, `#dev-chat`, `#app-feedback`,`#design`, `#user-experience`, `#html`, `#css`, `#javascript`, `#typescript`, `js-framework`, `#react`, `#vue`, `#php`, `#dot-net`, `#devops`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 ### Competitive Programming
@@ -195,7 +195,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cs50.png" />
 
 [__cs50__](https://discord.com/invite/QYZQfZ6) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.edx.org/course/cs50s-introduction-to-computer-science)\
-Notable Channels: `#lectures`, `#scratch`, `#hello`,`#mario`, `#cash`, `#credit`, `#readability`, `#caesar`, `#substitution`, `#plurality`, `#runoff`, `#tideman`, `#c-to-python-sentimental`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#lectures`, `#scratch`, `#hello`,`#mario`, `#cash`, `#credit`, `#readability`, `#caesar`, `#substitution`, `#plurality`, `#runoff`, `#tideman`, `#c-to-python-sentimental`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 ### Mathematics
@@ -203,7 +203,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/mathematics.png" />
 
 [__Mathematics__](https://discord.com/invite/BacbVax) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/)\
-Notable Channels: `#prealg-algebra`, `#calculus`, `#linear-algebra`,`#computing-software`, `#probability-statistics`, `#discrete-math`, `#abstract-algebra`, `#questions`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#prealg-algebra`, `#calculus`, `#linear-algebra`,`#computing-software`, `#probability-statistics`, `#discrete-math`, `#abstract-algebra`, `#questions`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 ### Physics
@@ -223,13 +223,13 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homework_help.png" />
 
 [__Homework Help__](https://discord.com/invite/YudDZtb) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](http://homework-help.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/spjy/hwh-bot) \
-Notable Channels: `#challenges`, `#math`, `#post-calculus` `#biology`, `#chemistry`, `#physics`, `#english`, `#social-science`, `#history`, `#computer-science`, `#studio-art`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#challenges`, `#math`, `#post-calculus` `#biology`, `#chemistry`, `#physics`, `#english`, `#social-science`, `#history`, `#computer-science`, `#studio-art`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/science_and_technology.png" />
 
 [__Science and Technology__](https://discord.com/invite/science) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/SciTechCommunity) \
-Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#environment`, `#mathematics`, `#geometry`, `#calculus`, `#physics`, `#psychology`, `#technology`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#environment`, `#mathematics`, `#geometry`, `#calculus`, `#physics`, `#psychology`, `#technology`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 ## Electricals
@@ -399,7 +399,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_sharp.png" />
 
 [__C#__](https://discord.com/invite/csharp) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](http://discord-csharp.github.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/discord-csharp) \
-Notable Channels: `#general_csharp`, `#beginner_questions`, `#projects`, `#code-review`, `#career-talk`, `#web`, `#gui`, `#game-dev`, `#database`, `#architecture-and-tooling`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#general_csharp`, `#beginner_questions`, `#projects`, `#code-review`, `#career-talk`, `#web`, `#gui`, `#game-dev`, `#database`, `#architecture-and-tooling`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_sharp_inn.png" />
@@ -510,7 +510,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/emberjs.png" />
 
 [__emberjs__](https://discord.gg/emberjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://emberjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/emberjs) \
-Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English, français, Deutsch, português, pусский, español
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/svelte.png" />
@@ -537,7 +537,7 @@ Language: English \
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactiflux.png" />
 
 [__Reactiflux__](https://discord.gg/reactiflux) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reactiflux.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/reactiflux/reactiflux.com) \
-Notable Channels: Notable Channels: `#help-react`, `#react-native`, `#js`, `#styling`, `#backend`, `#graphql`, `#code-review`, `#react-router`, `#redux`, `#react-bootstrap`, `#formik`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: Notable Channels: `#help-react`, `#react-native`, `#js`, `#styling`, `#backend`, `#graphql`, `#code-review`, `#react-router`, `#redux`, `#react-bootstrap`, `#formik`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gatsby.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/invertase_oss.png" /> |
@@ -549,7 +549,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_land.png" />
 
 [__Vue Land__](https://discord.com/invite/HBherRA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vue-land) \
-Notable Channels: `#vuex-store`, `#vue-router`, `#code-help`, `#vue-cli`, `#vue-i18n`, `#vuepress`, `#composition-api`, `#vue3-discussions`, `#vue2-internals`, `#vue-testing`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#vuex-store`, `#vue-router`, `#code-help`, `#vue-cli`, `#vue-i18n`, `#vuepress`, `#composition-api`, `#vue3-discussions`, `#vue2-internals`, `#vue-testing`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English, Deutsch, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский
 
 | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/bootstrapvue.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/buefy.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gridsome.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nuxtjs.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/quasar_framework.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_material.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vuesax.png" /> |
@@ -652,7 +652,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/python.png" />
 
 [__Python__](https://discord.com/invite/python) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://pythondiscord.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/python-discord/) \
-Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#computer-science`, `#database`, `#data-science`, `#dev-ops`, `#discord-py`, `#game-development`, `#security`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#computer-science`, `#database`, `#data-science`, `#dev-ops`, `#discord-py`, `#game-development`, `#security`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 #### Kivy
@@ -690,7 +690,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_rust_programming_language.png" />
 
 [__The Rust Programming Language__](https://discord.com/invite/rust-lang) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.rust-lang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/rust-lang) \
-Notable Channels: `#beginners`, `#contribute`, `#community-team`, `#rustbridge`, `#design`, `#compiler`, `#wg-grammar`, `#wg-async-foundation`, `#type-theory`, `#wg-wasm`, `#wg-gamedev`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#beginners`, `#contribute`, `#community-team`, `#rustbridge`, `#design`, `#compiler`, `#wg-grammar`, `#wg-async-foundation`, `#type-theory`, `#wg-wasm`, `#wg-gamedev`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tauri_apps.png" />
@@ -710,7 +710,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vapor.png" />
 
 [__VAPOR__](https://discord.com/invite/vapor) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vapor.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vapor/vapor) \
-Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, **[`so much more`](badges.md#so-much-more)**` \
+Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, __[`so much more`](badges.md#so-much-more)__` \
 Language: English, čeština, español, русский, Deutsch, 中文频道, Nederlands, 日本語, français, italiano, українська-мова, 한국어
 
 ### Typescript
@@ -1124,7 +1124,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/game_dev_league.png" />
 
 [__Game Dev League__](https://discord.com/invite/gamedev) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://discord.com/invite/gamedev) \
-Notable Channels: `#events`, `#unity`, `#unreal-engine`, `#gamemaker-studio`, `#open-source`, `#löve-dev`, `#monogame-and-libgdx-dev`, `#godot`, `#web-dev`, `#cryengine-dev`, `#vr-dev`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#events`, `#unity`, `#unreal-engine`, `#gamemaker-studio`, `#open-source`, `#löve-dev`, `#monogame-and-libgdx-dev`, `#godot`, `#web-dev`, `#cryengine-dev`, `#vr-dev`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/game_dev_network.png" />
@@ -1162,7 +1162,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/openvfx_the_blender_hub.png" />
 
 [__OpenVFX: The Blender Hub__](https://discord.com/invite/blender) \
-Notable Channels: `#cgi-general`, `#resources`, `#3d-printing`, `#animation-rigging`, `#coding`, `#grease-pencil`, `#materials`, `#modeling`, `#physics`, `#rendering`, `#roblox`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#cgi-general`, `#resources`, `#3d-printing`, `#animation-rigging`, `#coding`, `#grease-pencil`, `#materials`, `#modeling`, `#physics`, `#rendering`, `#roblox`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English, Deutsch, português, español, Nederlands, suomi, Magyar, svenska, dansk, हिन्दी
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/shadertoy.png" />
@@ -1204,7 +1204,7 @@ Language: English, Deutsch, français, español, 日本語, 韓國語
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vrchat.png" />
 
 [__VRChat__](https://discord.com/invite/vrchat) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vrchat.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vrchat) \
-Notable Channels: `#udon-questions`, `#vrchat-development`, `#avatars`, `#avatar-rigging`, `#animation`, `#shaders`, `#3d-modeling`, `#worlds`, `#world-lighting`, `#oculus-quest-development`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#udon-questions`, `#vrchat-development`, `#avatars`, `#avatar-rigging`, `#animation`, `#shaders`, `#3d-modeling`, `#worlds`, `#world-lighting`, `#oculus-quest-development`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский  
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/virtual_reality.png" />
@@ -1232,7 +1232,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/artificial_intelligence.png" />
 
 [__Artificial Intelligence__](https://discord.com/invite/CbVJYtz) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://discordnetwork.com/) \
-Notable Channels: `#questions`, `#machine-learning`, `#deep-learning`, `#reinforcement-learning`, `#natural-language-processing`, `#systems-neuroscience`, `#computer-vision`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#questions`, `#machine-learning`, `#deep-learning`, `#reinforcement-learning`, `#natural-language-processing`, `#systems-neuroscience`, `#computer-vision`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/sentdex.png" />
