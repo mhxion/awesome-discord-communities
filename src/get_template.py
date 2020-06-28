@@ -3,8 +3,8 @@ import re
 import requests
 
 
-class APDTemplateGenerator:
-    """A simple markdown template generator for Awesome Programming Discord"""
+class ADCTemplateGenerator:
+    """A simple markdown template generator for Awesome Discord Communities"""
 
     def __init__(self):
         self.name = ""
@@ -29,9 +29,9 @@ class APDTemplateGenerator:
     def __get_invite_link(self):
         while True:
             link = input("\n➜ Enter a permanent invite link to the server:\n")
-            r = requests.get(link)
             try:
                 r = requests.get(link)
+                r.raise_for_status()
             except requests.exceptions.MissingSchema:
                 print(f"Did you forget to add 'https'?! Something's not right with the link protocol.")
                 continue
@@ -174,6 +174,6 @@ Language: {self.__format_language()}
 
 
 if __name__ == '__main__':
-    plate = APDTemplateGenerator()
+    plate = ADCTemplateGenerator()
     plate.validate()
     print(plate.format())
