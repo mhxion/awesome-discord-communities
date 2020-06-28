@@ -28,7 +28,7 @@ It has been raised many times about Discord's [awful privacy control](https://sw
 
 ### How is this list any different from Discord listing sites?
 
-You may have come around websites that are known for listing Discord communities for promotional and showcase purpose. This is not one of them. Each community here is hand-picked, reviewed by a maintainer, and meets [certain criteria](CONTRIBUTING.md#quality-standard) e.g., activity vs. productivity ratio, technology-related only, has dedicated channels to help the members -- before they can be finally added; whereas the listing websites often require to link in-house bots that may collect server data and no review against possible unfriendly communities.
+You may have come around websites that are known for listing Discord communities for promotional and showcase purpose. This is not one of them. Each community here is hand-picked, reviewed by a maintainer, and meets [certain criteria](CONTRIBUTING.md#review-policy) e.g., activity vs. productivity ratio, technology-related only, has dedicated channels to help the members -- before they can be finally added; whereas the listing websites often require to link in-house bots that may collect server data and no review against possible unfriendly communities.
 
 ### Are you or is this project affiliated?
 
