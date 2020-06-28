@@ -7,7 +7,7 @@ Answers to some common questions that may come to your mind while exploring this
 - [What about Discord's poor privacy policy?](#what-about-discords-poor-privacy-policy)
 - [How is this list any different from Discord listing sites?](#how-is-this-list-any-different-from-discord-listing-sites)
 - [Are you or is this project affiliated?](#are-you-or-is-this-project-affiliated)
-- [Why is this list made so fancy?](#why-is-this-list-made-so-fancy)
+- [Why does not this list follow convential Awesome list framework?](#why-does-not-this-list-follow-convential-awesome-list-framework)
 - [How to contribute?](#how-to-contribute)
 - [How to report any issue with the list?](#how-to-report-any-issue-with-the-list)
 - [How to properly attribute to compliment the license (CC BY 4.0)?](#how-to-properly-attribute-to-compliment-the-license-cc-by-40)
@@ -34,9 +34,9 @@ You may have come around websites that are known for listing Discord communities
 
 Neither me, or any part of this project is affiliated with Discord in any way.
 
-### Why is this list made so fancy?
+### Why does not this list follow convential Awesome list framework?
 
-It may seem at first some of the assets are redundant, and that simply invite links would do the job. But no additional objects i.e., badges here come empty handed, they all bring in useful links about a community that would save you some googling.
+This was intentional since the very first [commit](https://github.com/mhxion/awesome-programming-discord/commit/303990bcd36e4b10b4dfa80289c8303778d54f07). Unlike other listings in Awesome lists, Discord communities are much more diverese, asymmetrical, and miscellaneous. I.e., the community [Game Dev League](https://gamedevleague.com/) and [Game Dev Network](https://twitter.com/gamedevnetwork_) are both independent and prominent, neither of them offer only one type of support but rather any general support relating game development. That is why an one-liner description for both of them would seem very much vague to the users, the only difference that stands between them are their channels and spoken languages that they offer. And this is true for 53% of the total communities. But channels don't necessarily always explain "what this community is." This was the biggest challenge into making this list. Instead a description, to define a community along with its channels, languages, at the same time not making the list too condensed -- [badges](badges.md) were adapted, specially the [home badge](badges.md#home-badge) which is a link that takes you to the community-owned website. Other badges serve noteworthy purpose as well. Feel free to [open an issue](https://github.com/mhxion/awesome-programming-discord/issues/new/choose) if a new submission doesn't fit within this structure.
 
 ### How to contribute?
 
@@ -44,7 +44,7 @@ Refer to the [contributing](CONTRIBUTING.md) page. As for now the pull request i
 
 ### How to report any issue with the list?
 
-If you have found a typo or maybe an invite link is invalid, you can open a new issue [here](https://github.com/mhxion/awesome-programming-discord/issues), I'll try to fix it soon as possible.
+If you have found a typo or maybe an invite link is invalid, you can open a new issue [here](https://github.com/mhxion/awesome-programming-discord/issues/new/choose), I'll try to fix it soon as possible.
 
 ### How to properly attribute to compliment the license (CC BY 4.0)?
 
