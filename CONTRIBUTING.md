@@ -9,7 +9,7 @@ By participating in this project you agree to abide by the [contributor code of 
 
 ## New Community
 
-To add a new community, fork this project and add your server to a section or sebsection, or you can include a new section if need be, then [create a pull request](https://github.com/sindresorhus/awesome/blob/master/contributing.md). Make sure your proposal meets these requirements below, if you've Python installed you can take advantage of this [script](src/README.md).
+To add a new community, fork this project and add your server to a section or sebsection, or you can include a new section if need be, then [create a pull request](https://github.com/sindresorhus/awesome/blob/main/contributing.md). Make sure your proposal meets these requirements below, if you've Python installed you can take advantage of this [script](src/README.md).
 
 ✅ Each community follows this template
 
