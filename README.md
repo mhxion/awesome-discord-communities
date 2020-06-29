@@ -760,6 +760,12 @@ Language: English \
 Notable Channels: `#general`, `#help`, `#gutenberg`, `#hosting-discussion`, `#themes`, `#plugins`, `#woocommerce`, `#ecommerce`, `#professional`, `#marketplace` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/wordpress_chat.png" />
+
+[__WordPress Chat__](https://discord.com/invite/3gQGJQA) \
+Notable Channels: `#security`, `#general`, `#devops`, `#monthly-challenges`, `#plugin-development`, `#theme-development`, `#coding-questions`, `#css`, `#wp-cli`, `#seo`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
+
 ## Development Environments
 
 Sketchbooks for software engineers; IDEs, text editors, modular editors, GUI terminals, emulators, or maybe a development utility so complex that can't be described in simple words?
