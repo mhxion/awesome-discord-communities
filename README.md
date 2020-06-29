@@ -754,6 +754,12 @@ Language: English \
 
 ### WordPress
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/wordpress.png" />
+
+[__WordPress__](https://discord.com/invite/ysDu8W3) \
+Notable Channels: `#general`, `#help`, `#gutenberg`, `#hosting-discussion`, `#themes`, `#plugins`, `#woocommerce`, `#ecommerce`, `#professional`, `#marketplace` \
+Language: English
+
 ## Development Environments
 
 Sketchbooks for software engineers; IDEs, text editors, modular editors, GUI terminals, emulators, or maybe a development utility so complex that can't be described in simple words?
