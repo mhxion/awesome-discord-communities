@@ -8,7 +8,7 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
 <!-- omit in toc -->
 ## Contents
 
-- [__How to Navigate__](#how-to-navigate)
+- [How to Navigate](#how-to-navigate)
 - [Programming in General](#programming-in-general)
   - [Support Communities](#support-communities)
   - [Competitive Programming](#competitive-programming)
@@ -50,6 +50,7 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
   - [React.js](#reactjs)
   - [Vue.js](#vuejs)
   - [Web Libraries](#web-libraries)
+  - [WordPress](#wordpress)
 - [Development Environments](#development-environments)
 - [Design and Illustrations](#design-and-illustrations)
 - [Operating Systems](#operating-systems)
@@ -750,6 +751,8 @@ Language: English
 Notable Channels: `#contributing`, `#prs`, `#issues`, `#support`, `#general`\
 Language: English \
 <br />
+
+### WordPress
 
 ## Development Environments
 
