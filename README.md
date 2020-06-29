@@ -540,6 +540,13 @@ Notable Channels: `#chitchat`, `#support`, `#extensions`, `#extend`, `#internals
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/grav.png" />
+
+[__Grav__](https://discord.com/invite/5VhYVkR) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://getgrav.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/getgrav) \
+Notable Channels: `#general`, `#theming`, `#development`, `#documentation`, `#plugin-requests`, `#social`, `#testing` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/laravel.png" />
 
 [__Laravel__](https://discord.com/invite/mPZNm7A) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://laravel.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/laravel) \
