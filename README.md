@@ -658,6 +658,13 @@ Language: English
 Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English, français, Deutsch, português, pусский, español
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fomantic-ui.png" />
+
+[__Fomantic-UI__](https://discord.com/invite/UgzHNZF) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://fomantic-ui.com) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/fomantic) \
+Notable Channels: `#general`, `#discussion`, `#need-help`, `#bugs`, `#feature-request` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/svelte.png" />
 
 [__Svelte__](https://discord.gg/yy75DKs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://svelte.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/sveltejs/svelte) \
