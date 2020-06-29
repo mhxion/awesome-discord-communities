@@ -1039,6 +1039,13 @@ Language: English
 
 ### Containers
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cryb.png" />
+
+[__Cryb__](https://discord.com/invite/xdhEgD5) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://cryb.app/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/crybapp) \
+Notable Channels: `#cryb`, `#getting-started`, `#support`, `#tech-support`, `#updates`, `#community`, `#interests` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxserver_io.png" />
 
 [__Linuxserver.io__](https://discord.com/invite/YWrKVTn) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.linuxserver.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/linuxserver) \
