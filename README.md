@@ -763,7 +763,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/wordpress_chat.png" />
 
 [__WordPress Chat__](https://discord.com/invite/3gQGJQA) \
-Notable Channels: `#security`, `#general`, `#devops`, `#monthly-challenges`, `#plugin-development`, `#theme-development`, `#coding-questions`, `#css`, `#wp-cli`, `#seo`, __[`so much more`](badges.md#so-much-more)__ \
+Notable Channels: `#security`, `#general`, `#devops`, `#plugin-development`, `#theme-development`, `#coding-questions`, `#css`, `#wp-cli`, `#seo`, `#beginner-help`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 ## Development Environments
