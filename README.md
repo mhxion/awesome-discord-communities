@@ -217,7 +217,7 @@ Language: English
 ### Other Sciences
 
 <!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/chemistry.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/biological_sciences.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/climate_science.png" /> |
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/biological_sciences.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/chemistry.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/climate_science.png" /> |
 |----------------------|-------------------|---------------------|
 | [__Biological<br>Sciences__](https://discord.com/invite/QwSdffq)<br>[<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/) | [__Chemistry__](https://discord.com/invite/eexdsFw)<br>[<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.discordnetwork.com/) | [__Climate<br>Science__](https://discord.com/invite/YXvuN8X)<br><img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png"> |
 
