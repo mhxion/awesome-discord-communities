@@ -679,6 +679,12 @@ Language: English \
 Notable Channels: `#svelte`, `#support`, `#sapper`, `#examples`, `#updates`, `#meetups`, `#future`, `#showcase`, `#nativedev`, `#internals`, `#gl`, `#jobs`, `#language-tools`, `#sveltesocietyday2020` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/uikit.png" />
+
+[__UIkit__](https://discord.com/invite/NEt4Pv7) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://getuikit.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/uikit) \
+Notable Channels: `#general`, `#i-made-this`, `#ideas`, `#uikit-4`, `#development`, `#html-css`, `#less`, `#js`, `#documentation` \
+Language: English
+
 ### Node.js
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nodeiflux.png" />
