@@ -687,17 +687,24 @@ Language: English
 
 ### Node.js
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adonisjs_framework.png" />
+
+[__AdonisJS Framework__](https://discord.gg/vDcEjq6) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://adonisjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/adonisjs) \
+Notable Channels: `#proposals`, `#articles`, `#showcase`, `#general-v5`, `#auth`, `#database`, `#deploy`, `#testing`, `#validation`, `#view`, `#websocket` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nestjs.png" />
+
+[__NestJS__](https://discord.com/invite/G7Qnnhy) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nestjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nestjs) \
+Notable Channels: `#support`, `#nestjs-core`, `#nestjs-config`, `#nestjs-graphql`, `#nestjs-mongoose`, `#nestjs-swagger`, `#nestjs-testing`, `#nestjs-typeform`, `#nestjs-cli`, `#internals` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nodeiflux.png" />
 
 [__Nodeiflux__](https://discord.com/invite/vUsrbjd) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nodejs.org/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nodejs) \
 Notable Channels: `#general`, `#need-help`, `#i-made-this`, `#news-and-links`, `#libraries`, `#ops`, `#react`, `#jobs` \
 Language: English \
 <br />
-
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adonisjs_framework.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nestjs.png" /> |
-| ---------------------- | ------------------- |
-| [__AdonisJS<br>Framework__](https://discord.com/invite/vDcEjq6)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://adonisjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/adonisjs) | [__NestJS__](https://discord.com/invite/G7Qnnhy)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://nestjs.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/nestjs) |
 
 ### React.js
 
