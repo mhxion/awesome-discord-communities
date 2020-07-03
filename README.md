@@ -648,6 +648,14 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 Notable Channels: `#ts-discussion`, `#help`, `#vue`, `#angular`, `#react`, `#language-design`, `#compiler`, `#architecture`, `#tooling`, `#devops`, `#site-localization`, `#deno`, `#meetups`, `#projects` \
 Language: English
 
+### V
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_v_language_and_apps.png" />
+
+[__The V Language & Apps__](https://discord.com/invite/vlang) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vlang.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vlang) \
+Notable Channels: `#v-development`, `#v-chat`, `#help`, `#bugs`, `#syntax`, `#ideas-and-suggestions`, `#documentation`, `#js-backend`, `#x64-backend`, `#v-ui`, `#volt`, `#gitly`, `#vid`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한국어, português, polski, русский, tiếng-việt, italiano
+
 ## Web Development
 
 The back-end of web, from single static page to complex web applications; usage of diverse frameworks, modules, linters, components, package managers, builders, Progressive Web Apps (PWA), everything that fuels the modern web.
