@@ -41,7 +41,7 @@ Language: English, Deutsch, 日本語
 
 ## Issues
 
-If you've found an issue with an existing server or have a suggestion to make to improve this list, feel free to file a an issue [here](https://github.com/mhxion/awesome-programming-discord/issues/new/choose).
+If you've found an issue with an existing server or have a suggestion to make to improve this list, feel free to file a an issue [here](https://github.com/mhxion/awesome-discord-communities/issues/new/choose).
 
 ## Review Policy
 
