@@ -44,6 +44,7 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
   - [Rust](#rust)
   - [Swift](#swift)
   - [Typescript](#typescript)
+  - [V](#v)
 - [Web Development](#web-development)
   - [Web Frameworks](#web-frameworks)
   - [Node.js](#nodejs)
