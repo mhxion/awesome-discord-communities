@@ -95,7 +95,7 @@ Some Discord counterpart communities to Stack Overflow.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.png" />
 
-[__Code::Together__](https://discord.com/invite/ekgFE4s) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://together.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/codedtogether) \
+[__Code::Together__](https://discord.com/invite/ekgFE4s) [<img height="16px" width="16px" al>t="Homepage URL" src="images/badges/homepage.png">](https://together.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/codedtogether) \
 Notable Channels: `#looking-for-dev`, `#challenges`, `#python`, `#javascript`,`#c-family`, `#java`, `#html-css-web-js` `#dotnet`, `#databases`, `#hosting` \
 Language: English
 
@@ -142,6 +142,13 @@ Language: English
 Notable Channels: `#beginners`, `#interview-prep`, `#java-and-jvm`,`#c-sharp-and-dotnet`, `#ai-and-ml`, `#asm-and-systems`, `#cs-theory`, `#databses`, `#software-architecture`, `#shells`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_codinghelp.png" />
+
+[__r/CodingHelp__](https://discord.com/invite/dbe5NnA) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/CodingHelp/) \
+Notable Channels: `#general`, `#html-css`, `#javascript`, `#php`, `#java`, `#python`, `#csharp`, `#c-cpp` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_coding_den.png" />
 
 [__The Coding Den__](https://discord.com/invite/code) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/TheCodingDen) \
@@ -159,13 +166,6 @@ Language: English
 [__The Programmer's Hangout__](https://discord.com/invite/programming) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://theprogrammershangout.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/the-programmers-hangout) \
 Notable Channels: `#beginners`, `#javascript`, `#java`, `#kotlin`,`#rust-lang`, `#ruby`, `#ai-and-ml`, `#career-advice`, `#databases`, `#gamedev`, `#ux-and-ui`, `#shells`, `#version-control`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_codinghelp.png" />
-
-[__r/CodingHelp__](https://discord.com/invite/dbe5NnA) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/CodingHelp/) \
-Notable Channels: `#general`, `#html-css`, `#javascript`, `#php`, `#java`, `#python`, `#csharp`, `#c-cpp` \
-Language: English \
-<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/webdev_and_web_design.png" />
 
@@ -195,8 +195,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cs50.png" />
 
-[__cs50__](https://discord.com/invite/QYZQfZ6) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.edx.org/course/cs50s-introduction-to-computer-science)\
-Notable Channels: `#lectures`, `#scratch`, `#hello`,`#mario`, `#cash`, `#credit`, `#readability`, `#caesar`, `#substitution`, `#plurality`, `#runoff`, `#tideman`, `#c-to-python-sentimental`, __[`so much more`](badges.md#so-much-more)__ \
+[__cs50__](https://discord.com/invite/QYZQfZ6) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](httpsr/CodingHelpntal`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 ### Mathematics
@@ -1022,6 +1021,12 @@ Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#softwa
 Language: English
 
 ### Gaming on Linux
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamingonlinux.png" />
+
+[__GamingOnLinux__](https://discord.gg/0rxBtcSOonvGzXr4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gamingonlinux.com/) \
+Notable Channels: `#linux-gaming`, `#proton-steamplay-gaming`, `#wine-gaming`, `#cloud-streaming-stadia`, `#tech-support`, `#emulation`, `#developer-stuff`, `#hardware`, `#vr_and_ar`, `#your-content` \
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_gaming.png" />
 
