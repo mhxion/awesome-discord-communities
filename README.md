@@ -722,16 +722,23 @@ Language: English \
 
 ### React.js
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gatsby.png" />
+
+[__Gatsby__](https://discord.gg/gatsby) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gatsbyjs.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://www.gatsbyjs.org) \
+Notable Channels: `#general`, `#help`, `#showcase`, `#development`, `#starter-kits`, `#jobs`, `#graphql`, `#vuejs`, `#data-sourcing`, `#markdown`, `#drupal`, `#craft-cms`, `#dato-cms`, `#cockpit-cms` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/invertase_oss.png" />
+
+[__Invertase OSS__](https://discord.com/invite/C9aK28N) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://rnfirebase.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/invertase) \
+Notable Channels: `#notifee`, `#apple-authentication`, `#general`, `#i-need-help`, `#i-made-this`, `#contributing`, `#news`, `#modules` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactiflux.png" />
 
 [__Reactiflux__](https://discord.gg/reactiflux) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reactiflux.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/reactiflux/reactiflux.com) \
 Notable Channels: Notable Channels: `#help-react`, `#react-native`, `#js`, `#styling`, `#backend`, `#graphql`, `#code-review`, `#react-router`, `#redux`, `#react-bootstrap`, `#formik`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
-
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gatsby.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/invertase_oss.png" /> |
-| ---------------------- | ------------------- |
-| [__Gatsby__](https://discord.gg/gatsby)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gatsbyjs.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/gatsbyjs/gatsby) | [__Invertase OSS__](https://discord.com/invite/C9aK28N)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://rnfirebase.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/invertase/react-native-firebase) |
 
 ### Vue.js
 
