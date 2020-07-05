@@ -5,6 +5,7 @@ Answers to some common questions that may come to your mind while exploring this
 
 - [What is Discord.com exactly?](#what-is-discordcom-exactly)
 - [What about Discord's poor privacy policy?](#what-about-discords-poor-privacy-policy)
+- [How to stay safe in Discord?](#how-to-stay-safe-in-discord)
 - [How is this list any different from Discord listing sites?](#how-is-this-list-any-different-from-discord-listing-sites)
 - [Are you or is this project affiliated?](#are-you-or-is-this-project-affiliated)
 - [Why does not this list follow convential Awesome list framework?](#why-does-not-this-list-follow-convential-awesome-list-framework)
@@ -25,6 +26,10 @@ A _server_ in Discord simply refers to the community itself.
 ### What about Discord's poor privacy policy?
 
 It has been raised many times about Discord's [awful privacy control](https://swordfishevaluations.com/2019/09/12/privacy-concerns-with-discord/), [being a potentional spyware](https://spyware.neocities.org/articles/discord.html), [Richar Stallman's blog](https://stallman.org/discord.html), and [risks of online predators](https://www.wsj.com/articles/discord-where-teens-rule-and-parents-fear-to-tread-11560245402) in a national newspaper. But as much as I'd like to hate Discord because of this, it is hard to deny the wonderful growing communities that are no less-productive than their counteparts in another privacy-focused platform. That alone encouraged me to create this list.
+
+### How to stay safe in Discord?
+
+Discord has a spiffy guide for you [staying safe in communities](https://discord.com/new/safety/360043857751-Four-steps-to-a-super-safe-account) and [for your teenage kids](https://discord.com/new/safety/360044153831-Helping-your-teen-stay-safe-on-Discord). Like any other platform Discord is often targeted for malicious attacks, but with a little caution you'll be safe as houses.
 
 ### How is this list any different from Discord listing sites?
 
