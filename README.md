@@ -95,7 +95,7 @@ Some Discord counterpart communities to Stack Overflow.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.png" />
 
-[__Code::Together__](https://discord.com/invite/ekgFE4s) [<img height="16px" width="16px" al>t="Homepage URL" src="images/badges/homepage.png">](https://together.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/codedtogether) \
+[__Code::Together__](https://discord.com/invite/ekgFE4s) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://together.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/codedtogether) \
 Notable Channels: `#looking-for-dev`, `#challenges`, `#python`, `#javascript`,`#c-family`, `#java`, `#html-css-web-js` `#dotnet`, `#databases`, `#hosting` \
 Language: English
 
