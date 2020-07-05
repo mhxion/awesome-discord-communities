@@ -1014,6 +1014,12 @@ Notable Channels: `#support`, `#chat`, `#project`, `#packaging`, `#factory`, `#a
 Language: English, français, Deutsch, italiano, polski, español, Nederlands \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactos_community.png" />
+
+[__ReactOS Community__](https://discord.com/invite/7knjvhT) \
+Notable Channels: `#general`, `#support`, `#working-programs`, `#working-programs`, `#working-hardware`, `#debugging`, `#teaching-room`, `#reactos-news` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ubuntu_hideout.png" />
 
 [__Ubuntu Hideout__](https://discord.com/invite/jcwJEJH) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://ubuntuhideout.com/) \
