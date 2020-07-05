@@ -1073,7 +1073,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactos_community.png" />
 
 [__ReactOS Community__](https://discord.com/invite/7knjvhT) \
-Notable Channels: `#general`, `#support`, `#working-programs`, `#working-programs`, `#working-hardware`, `#debugging`, `#teaching-room`, `#reactos-news` \
+Notable Channels: `#general`, `#support`, `#working-programs`, `#working-hardware`, `#debugging`, `#teaching-room`, `#reactos-youtube`, `#git-highlights` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_chromeos.png" />
