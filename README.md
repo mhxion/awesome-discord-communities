@@ -45,6 +45,7 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
   - [Swift](#swift)
   - [Typescript](#typescript)
   - [V](#v)
+  - [WebAssembly](#webassembly)
 - [Web Development](#web-development)
   - [Web Frameworks](#web-frameworks)
   - [Node.js](#nodejs)
@@ -655,6 +656,8 @@ Language: English
 [__The V Language & Apps__](https://discord.com/invite/vlang) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vlang.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vlang) \
 Notable Channels: `#v-development`, `#v-chat`, `#help`, `#bugs`, `#syntax`, `#ideas-and-suggestions`, `#documentation`, `#js-backend`, `#x64-backend`, `#v-ui`, `#volt`, `#gitly`, `#vid`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한국어, português, polski, русский, tiếng-việt, italiano
+
+### WebAssembly
 
 ## Web Development
 
