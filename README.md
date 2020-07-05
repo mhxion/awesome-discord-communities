@@ -659,6 +659,12 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### WebAssembly
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/assemblyscript.png" />
+
+[__AssemblyScript__](https://discord.com/invite/assemblyscript) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.assemblyscript.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/AssemblyScript) \
+Notable Channels: `#general`, `#help`, `#built-with-assemblyscript`, `#development`, `#community-group`, `#as-pect` \
+Language: English
+
 ## Web Development
 
 The back-end of web, from single static page to complex web applications; usage of diverse frameworks, modules, linters, components, package managers, builders, Progressive Web Apps (PWA), everything that fuels the modern web.
