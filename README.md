@@ -665,6 +665,12 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 Notable Channels: `#general`, `#help`, `#built-with-assemblyscript`, `#development`, `#community-group`, `#as-pect` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/webassembly.png" />
+
+[__WebAssembly__](https://discord.com/invite/53u3EKq) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/WebAssembly) \
+Notable Channels: `#general`, `#beginners`, `#cg`, `#jobs`, `#events`, `#summit`, `#wasm`, `#wasi`, `#web`, `#standalone`, `#generic`, `#emscripten`, `#javascript`, `#rust`, `#go` \
+Language: English
+
 ## Web Development
 
 The back-end of web, from single static page to complex web applications; usage of diverse frameworks, modules, linters, components, package managers, builders, Progressive Web Apps (PWA), everything that fuels the modern web.
