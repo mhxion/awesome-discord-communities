@@ -1342,7 +1342,7 @@ Language: English
 
 [__EngineHub__](https://discord.com/invite/enginehub) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://enginehub.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/EngineHub) \
 Notable Channels: `#wordedit`, `#worldguard`, `#craftbook`, `#commandbook`, `#enginehub`, `#api`, `#dev-team`, `#git-log`, `#showcase` \
-Language: 
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxgsm_.png" />
 
