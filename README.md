@@ -1332,10 +1332,43 @@ Language: English
 
 ### Game Development Tools
 
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/directx.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/enginehub.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxgsm_.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/rpcs3.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tes3mp.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/twine_games.png" /> |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [__DirectX__](https://discord.com/invite/directx)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://devblogs.microsoft.com/directx/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Microsoft/DirectX-Graphics-Samples) | [__EngineHub__](https://discord.com/invite/enginehub)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://enginehub.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/EngineHub) | [__LinuxGSM___](https://discord.com/invite/UM4VTpK)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://linuxgsm.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GameServerManagers) | [__RPCS3__](https://discord.com/invite/a6zm2T8)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://rpcs3.net/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/rpcs3) | [__TES3MP__](https://discord.com/invite/ECJk293)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tes3mp.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/TES3MP) | [__Twine Games__](https://discord.com/invite/n5dJvPp)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twinery.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/tweecode) |
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/directx.png" />
+
+[__DirectX__](https://discord.com/invite/directx) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://devblogs.microsoft.com/directx/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Microsoft/DirectX-Graphics-Samples) \
+Notable Channels: `#dx-developer-day`, `#dx12-developers`, `#dx9-dx11-developers`, `#pix`, `#showcase`, `#bug-reports`, `#feature-requests`, `#dx-gaming-questions`, `#getting-started-guides` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/enginehub.png" />
+
+[__EngineHub__](https://discord.com/invite/enginehub) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://enginehub.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/EngineHub) \
+Notable Channels: `#wordedit`, `#worldguard`, `#craftbook`, `#commandbook`, `#enginehub`, `#api`, `#dev-team`, `#git-log`, `#showcase` \
+Language: 
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxgsm_.png" />
+
+[__LinuxGSM__](https://discord.com/invite/UM4VTpK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://linuxgsm.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GameServerManagers      ) \
+Notable Channels: `#linuxgsm`, `#linux`, `#game-server`, `#general`, `#battlestations` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/rpcs3.png" />
+
+[__RPCS3__](https://discord.com/invite/a6zm2T8) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://rpcs3.net/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/rpcs3) \
+Notable Channels: `#rpcs3`, `#help`, `#development`, `#media` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tes3mp.png" />
+
+[__TES3MP__](https://discord.com/invite/ECJk293) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tes3mp.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/TES3MP) \
+Notable Channels: `#general`, `#technical-help`, `#scripting-help`, `#content_discussion`, `#bug_reports`, `#development`, `#suggestions` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/twine_games.png" />
+
+[__Twine Games__](https://discord.com/invite/n5dJvPp) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twinery.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/tweecode) \
+Notable Channels: `#central-planning`, `#sugarcube`, `#harlowe`, `#chapbook`, `#snowman`, `#twine1-formats`, `#compilers`, `#general-twine-talk`, `#writing-discussion`, `#testing-and-released`, `#resources` \
+Language: English, Deutsch, español, français
 
 ## Machine Learning
 
