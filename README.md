@@ -1358,6 +1358,13 @@ Notable Channels: `#rpcs3`, `#help`, `#development`, `#media` \
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/steam_rom_manager.png" />
+
+[__Steam ROM Manager__](https://discord.com/invite/vrd6385) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://dozennn.github.io/steam-rom-manager/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://discord.com/invite/vrd6385) \
+Notable Channels: `#srm_discussion`, `#parser_support` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tes3mp.png" />
 
 [__TES3MP__](https://discord.com/invite/ECJk293) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tes3mp.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/TES3MP) \
