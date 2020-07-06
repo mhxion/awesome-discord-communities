@@ -28,7 +28,7 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
   - [Language Paradigms](#language-paradigms)
   - [Assembly](#assembly)
   - [C and C++](#c-and-c)
-  - [C#](#c)
+  - [C](#c)
   - [Clojure](#clojure)
   - [CSS](#css)
   - [Elixir](#elixir)
@@ -73,8 +73,8 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
 - [Game Development](#game-development)
   - [Game Design](#game-design)
   - [Game Engines](#game-engines)
-  - [Virtual Reality](#virtual-reality)
   - [Game Development Utilities](#game-development-utilities)
+- [Virtual Reality](#virtual-reality)
 - [Machine Learning](#machine-learning)
   - [Data Science](#data-science)
 - [Career](#career)
@@ -1310,26 +1310,6 @@ Language: English
 | ------------ | ------------ |
 | [__Official Unity Discord__](https://discord.com/invite/unity)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unity.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Unity-Technologies) | [__Unity Developer Community__](https://discord.com/invite/bu3bbby) |
 
-### Virtual Reality
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/project_north_star.png" />
-
-[__Project North Star__](https://discord.com/invite/2aE2Nfq) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://developer.leapmotion.com/northstar) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/leapmotion/ProjectNorthStar) \
-Notable Channels: `#build-planning`, `#northstar3-2`, `#jenson-redesing`, `#triton`, `#exii-raspberry-pi`, `#cad`, `#eye-tracking`, `#calibration`, `#steamvr`, `#mechanical`, `#firmware`, `#troubleshooting` \
-Language: English, Deutsch, français, español, 日本語, 韓國語
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vrchat.png" />
-
-[__VRChat__](https://discord.com/invite/vrchat) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vrchat.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vrchat) \
-Notable Channels: `#udon-questions`, `#vrchat-development`, `#avatars`, `#avatar-rigging`, `#animation`, `#shaders`, `#3d-modeling`, `#worlds`, `#world-lighting`, `#oculus-quest-development`, __[`so much more`](badges.md#so-much-more)__ \
-Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский  
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/virtual_reality.png" />
-
-[__Virtual Reality__](https://discord.com/invite/virtualreality) \
-Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#oculus-go`, `#valve-index`, `#pimax-vr`, `#htc-vive`, `#windows-mixed-reality`, `#playstation-vr`, `#vr-flightsims` \
-Language: English
-
 ### Game Development Utilities
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/directx.png" />
@@ -1381,6 +1361,28 @@ Language: English, Deutsch, español, français
 
 [__VKx__](https://discord.com/invite/usAgsbK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/doitsujin/dxvk) \
 Notable Channels: `#d3d9-users`, `#d3d9-dev`, `#d3d11-users`, `#d3d11-dev`, `#wine`, `#proton`, `#vkd3d-users`, `#vkd3d-dev`, `#winehackers`, `#trivial-anti-cheetah-users`, `#easy-anti-lobster-dev`, `#builds` \
+Language: English
+
+## Virtual Reality
+
+Developing for virtual, augmented, and mixed reality; the head-mounted displays that stimulate our perception of a whole new world. The applications of VR are endless.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/project_north_star.png" />
+
+[__Project North Star__](https://discord.com/invite/2aE2Nfq) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://developer.leapmotion.com/northstar) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/leapmotion/ProjectNorthStar) \
+Notable Channels: `#build-planning`, `#northstar3-2`, `#jenson-redesing`, `#triton`, `#exii-raspberry-pi`, `#cad`, `#eye-tracking`, `#calibration`, `#steamvr`, `#mechanical`, `#firmware`, `#troubleshooting` \
+Language: English, Deutsch, français, español, 日本語, 韓國語
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vrchat.png" />
+
+[__VRChat__](https://discord.com/invite/vrchat) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://vrchat.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/vrchat) \
+Notable Channels: `#udon-questions`, `#vrchat-development`, `#avatars`, `#avatar-rigging`, `#animation`, `#shaders`, `#3d-modeling`, `#worlds`, `#world-lighting`, `#oculus-quest-development`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский  
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/virtual_reality.png" />
+
+[__Virtual Reality__](https://discord.com/invite/virtualreality) \
+Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#oculus-go`, `#valve-index`, `#pimax-vr`, `#htc-vive`, `#windows-mixed-reality`, `#playstation-vr`, `#vr-flightsims` \
 Language: English
 
 ## Machine Learning
