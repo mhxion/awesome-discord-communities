@@ -1377,6 +1377,12 @@ Language: English
 Notable Channels: `#central-planning`, `#sugarcube`, `#harlowe`, `#chapbook`, `#snowman`, `#twine1-formats`, `#compilers`, `#general-twine-talk`, `#writing-discussion`, `#testing-and-released`, `#resources` \
 Language: English, Deutsch, español, français
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vkx.png" />
+
+[__VKx__](https://discord.com/invite/usAgsbK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/doitsujin/dxvk) \
+Notable Channels: `#d3d9-users`, `#d3d9-dev`, `#d3d11-users`, `#d3d11-dev`, `#wine`, `#proton`, `#vkd3d-users`, `#vkd3d-dev`, `#winehackers`, `#trivial-anti-cheetah-users`, `#easy-anti-lobster-dev`, `#builds` \
+Language: English
+
 ## Machine Learning
 
 Data manupulation and visualization, machine learning frameworks and artificial intelligence.
