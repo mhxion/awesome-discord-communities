@@ -196,7 +196,8 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cs50.png" />
 
-[__cs50__](https://discord.com/invite/QYZQfZ6) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](httpsr/CodingHelpntal`, __[`so much more`](badges.md#so-much-more)__ \
+[__cs50__](https://discord.com/invite/QYZQfZ6) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.edx.org/course/cs50s-introduction-to-computer-science) \
+Notable Channels: `#lectures`, `#scratch`, `#hello`,`#mario`, `#cash`, `#credit`, `#readability`, `#caesar`, `#substitution`, `#plurality`, `#runoff`, `#tideman`, `#c-to-python-sentimental`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 ### Mathematics
@@ -1047,7 +1048,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactos_community.png" />
 
 [__ReactOS Community__](https://discord.com/invite/7knjvhT) \
-Notable Channels: `#general`, `#support`, `#working-programs`, `#working-programs`, `#working-hardware`, `#debugging`, `#teaching-room`, `#reactos-news` \
+Notable Channels: `#general`, `#support`, `#working-programs`, `#working-hardware`, `#debugging`, `#teaching-room`, `#reactos-youtube`, `#git-highlights` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_chromeos.png" />
