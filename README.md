@@ -28,7 +28,7 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
   - [Language Paradigms](#language-paradigms)
   - [Assembly](#assembly)
   - [C and C++](#c-and-c)
-  - [C](#c)
+  - [C#](#c)
   - [Clojure](#clojure)
   - [CSS](#css)
   - [Elixir](#elixir)
