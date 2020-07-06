@@ -74,7 +74,7 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
   - [Game Design](#game-design)
   - [Game Engines](#game-engines)
   - [Virtual Reality](#virtual-reality)
-  - [Game Development Tools](#game-development-tools)
+  - [Game Development Utilities](#game-development-utilities)
 - [Machine Learning](#machine-learning)
   - [Data Science](#data-science)
 - [Career](#career)
@@ -1330,7 +1330,7 @@ Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语
 Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#oculus-go`, `#valve-index`, `#pimax-vr`, `#htc-vive`, `#windows-mixed-reality`, `#playstation-vr`, `#vr-flightsims` \
 Language: English
 
-### Game Development Tools
+### Game Development Utilities
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/directx.png" />
 
