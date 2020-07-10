@@ -928,6 +928,12 @@ Language: English
 Notable Channels: `#hackintosh-help`, `#laptop-prebuilt`, `#smbios`, `#macos`, `#linux`, `#windows`, `#retro-gaming`, `#hardware` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amd_os_x.png" />
+
+[__AMD OS X__](https://discord.com/invite/EfCYAJW) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://amd-osx.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/AMD-OSX) \
+Notable Channels: `#big_sur_discussions`, `#development_discussions`, `#b550_development`, `#install_support`, `#post_install_support`, `#gpu_support`, `#networking_support`, `#hardware_discussion` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/apple_betas.png" />
 
 [__Apple Betas__](https://discord.com/invite/beta) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/iOSBeta/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/23Aaron/JeffBot) \
