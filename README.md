@@ -72,7 +72,7 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
 - [Game Development](#game-development)
   - [Game Design](#game-design)
   - [Game Engines](#game-engines)
-  - [Game Development Utilities](#game-development-utilities)
+  - [Game Development Tools](#game-development-tools)
   - [Gaming on Linux](#gaming-on-linux)
 - [Virtual Reality](#virtual-reality)
 - [Machine Learning](#machine-learning)
@@ -1297,7 +1297,7 @@ Language: English
 | ------------ | ------------ |
 | [__Official Unity Discord__](https://discord.com/invite/unity)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unity.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Unity-Technologies) | [__Unity Developer Community__](https://discord.com/invite/bu3bbby) |
 
-### Game Development Utilities
+### Game Development Tools
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/directx.png" />
 
