@@ -941,6 +941,12 @@ Notable Channels: `#releases`, `#general`, `#ios`, `#ipados`, `#macos`, `#watcho
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/macos_on_unsupported_macs.png" />
+
+[__macos on Unsupported Macs__](https://discord.com/invite/XbbWAsE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://osxhackers.net) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/os-x-hackers) \
+Notable Channels: `#catwoman-patchers`, `#dosdude1-patchers`, `#parrotgeek1-patchers`, `#rmc-patchers`, `#big-sur`, `#catalina`, `#mojave`, `#high-sieraa`, `#sierra`, `#el-capitan`, `#yosemite`, `#mavericks` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_jailbreak.png" />
 
 [__r/Jailbreak__](https://discord.com/invite/jb) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/jailbreak/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Emy/janet) \
