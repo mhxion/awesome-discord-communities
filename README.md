@@ -1055,6 +1055,8 @@ Language: English, français, Deutsch, italiano, polski, español, Nederlands \
 Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
 Language: English
 
+[<p align="right">Gaming on Linux↴</p>](#gaming-on-linux)
+
 ### Other OS
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactos_community.png" />
@@ -1375,6 +1377,8 @@ Language: English
 [__ProtonDB Official Server__](https://discord.com/invite/uuwK9EV) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.protondb.com/)  \
 Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linux`, `#linux-support`, `#general-game-support` \
 Language: English
+
+[<p align="right">Linux↰</p>](#linux-distributions)
 
 ## Virtual Reality
 
