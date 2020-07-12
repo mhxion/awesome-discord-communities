@@ -1298,7 +1298,8 @@ Language: English, français \
 
 [__Construct Community__](https://discord.com/invite/8RJBHbX) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/WebCreationClub) \
 Notable Channels: `#general`, `#feedback`, `#ask`, `#js`, `#tips`, `#tools`, `#job-offers`, `#addons`, `#effects` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cryengine_community.png" />
 
