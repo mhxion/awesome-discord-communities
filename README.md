@@ -61,7 +61,6 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
   - [Windows](#windows)
   - [Linux](#linux)
   - [Linux Distributions](#linux-distributions)
-  - [Gaming on Linux](#gaming-on-linux)
   - [Other OS](#other-os)
 - [Server-side](#server-side)
   - [API](#api)
@@ -73,8 +72,9 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
 - [Game Development](#game-development)
   - [Game Design](#game-design)
   - [Game Engines](#game-engines)
-  - [Virtual Reality](#virtual-reality)
   - [Game Development Tools](#game-development-tools)
+  - [Gaming on Linux](#gaming-on-linux)
+- [Virtual Reality](#virtual-reality)
 - [Machine Learning](#machine-learning)
   - [Data Science](#data-science)
 - [Career](#career)
@@ -930,6 +930,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amd_os_x.png" />
 
+<!--lint ignore awesome-spell-check-->
 [__AMD OS X__](https://discord.com/invite/EfCYAJW) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://amd-osx.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/AMD-OSX) \
 Notable Channels: `#big_sur_discussions`, `#development_discussions`, `#b550_development`, `#install_support`, `#post_install_support`, `#gpu_support`, `#networking_support`, `#hardware_discussion` \
 Language: English
@@ -943,7 +944,7 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/macos_on_unsupported_macs.png" />
 
-[__macos on Unsupported Macs__](https://discord.com/invite/XbbWAsE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://osxhackers.net) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/os-x-hackers) \
+[__macOS on Unsupported Macs__](https://discord.com/invite/XbbWAsE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://osxhackers.net) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/os-x-hackers) \
 Notable Channels: `#catwoman-patchers`, `#dosdude1-patchers`, `#parrotgeek1-patchers`, `#rmc-patchers`, `#big-sur`, `#catalina`, `#mojave`, `#high-sieraa`, `#sierra`, `#el-capitan`, `#yosemite`, `#mavericks` \
 Language: English
 
@@ -1055,31 +1056,7 @@ Language: English, français, Deutsch, italiano, polski, español, Nederlands \
 Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
 Language: English
 
-### Gaming on Linux
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamingonlinux.png" />
-
-[__GamingOnLinux__](https://discord.gg/0rxBtcSOonvGzXr4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gamingonlinux.com/) \
-Notable Channels: `#linux-gaming`, `#proton-steamplay-gaming`, `#wine-gaming`, `#cloud-streaming-stadia`, `#tech-support`, `#emulation`, `#developer-stuff`, `#hardware`, `#vr_and_ar`, `#your-content` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_gaming.png" />
-
-[__Linux Gaming__](https://discord.com/invite/linuxgaming) \
-Notable Channels: `#support-general`, `#support-hardware`, `#support-gaming`, `#new-to-linux`, `#tech-general`, `#coding`, `#unixporn`, `#original-content` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/lutris.png" />
-
-[__Lutris__](https://discord.gg/Pnt5CuY) \
-Notable Channels: `#news`, `#general`, `#irc`, `#requests_and_feedback`, `#lutris_support`, `#linux_support`, `#installer_creation` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/protondb_official_server.png" />
-
-[__ProtonDB Official Server__](https://discord.com/invite/uuwK9EV) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.protondb.com/)  \
-Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linux`, `#linux-support`, `#general-game-support` \
-Language: English
+[Gaming on Linux↴](#gaming-on-linux)
 
 ### Other OS
 
@@ -1305,25 +1282,160 @@ Language: English
 
 ### Game Engines
 
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amethyst.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/armory.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/construct_community.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cryengine_community.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamemaker.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/godot_engine.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/panda3d.png" /> |
-|------------|-------------|-------------|-------------|-------------|-------------|-------------|
-| [__Amethyst__](https://discord.com/invite/amethyst)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.amethyst.rs/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/amethyst/) | [__Armory__](https://discord.com/invite/axq6qWV)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://armory3d.org) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/armory3d) | [__Construct<br>Community__](https://discord.com/invite/8RJBHbX)<br> [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/WebCreationClub) | [__CRYENGINE<br>Community__](https://discord.com/invite/cryengine)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cryengine.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/CRYTEK/CRYENGINE) | [__GameMaker__](https://discord.com/invite/By6u9pC)<br>[<img align="center" height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/gamemaker/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GameMakerDiscord) | [__Godot Engine__](https://discord.com/invite/zH7NUgz)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://godotengine.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/godotengine/) | [__Panda3D__](https://discord.com/invite/UyepRMm)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.panda3d.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/panda3d) |
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amethyst.png" />
 
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/renpy.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/unreal_slackers.png" /> |
-| ------------ | ------------ |
-| [__Ren'Py__](https://discord.com/invite/6ckxWYm)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](http://www.renpy.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/renpy) | [__Unreal Slackers__](https://discord.com/invite/unreal-slackers)<br> [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unrealslackers.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/unreal-slackers) |
+[__Amethyst__](https://discord.com/invite/amethyst) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.amethyst.rs/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/amethyst/) \
+Notable Channels: `#general`, `#help`, `#logic`, `#art`, `#showcase-team`, `#gamejam`, `#engine-general`, `#bikeshed`, `#review-request`, `#assets`, `#audio`, `#documentation`, `#ecs`, `#editor`, `#rendering` \
+Language: English, Deutsch, français, 日本語, русский, 中文, dansk
 
-<!-- omit in toc -->
-#### Unity
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/armory.png" />
 
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/official_unity_discord.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/unity_developer_community.png" /> |
-| ------------ | ------------ |
-| [__Official Unity Discord__](https://discord.com/invite/unity)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unity.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Unity-Technologies) | [__Unity Developer Community__](https://discord.com/invite/bu3bbby) |
+[__Armory__](https://discord.com/invite/axq6qWV) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://armory3d.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/armory3d) \
+Notable Channels: `#armory`, `#armor-paint`, `#general`, `#armory-dev`, `#haxe`, `#logic-nodes`, `#showcase` \
+Language: English, français \
+<br />
 
-### Virtual Reality
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/construct_community.png" />
+
+[__Construct Community__](https://discord.com/invite/8RJBHbX) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/WebCreationClub) \
+Notable Channels: `#general`, `#feedback`, `#ask`, `#js`, `#tips`, `#tools`, `#job-offers`, `#addons`, `#effects` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cryengine_community.png" />
+
+[__CRYENGINE Community__](https://discord.com/invite/cryengine) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cryengine.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/CRYTEK/CRYENGINE) \
+Notable Channels: `#support`, `#licensing`, `#general`, `#showcase`, `#ask-for-help`, `#coding`, `#art-and-assets`, `#animation-and-physics`, `#audio`, `#shaders-and-rendering`, `#vfx-visual-effects`, `#jobs` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamemaker.png" />
+
+[__GameMaker__](https://discord.com/invite/By6u9pC) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.reddit.com/r/gamemaker/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GameMakerDiscord) \
+Notable Channels: `#gamedev`, `#technical`, `#game-design`, `#3d_in_gamemaker`, `#shaders`, `#netcode`, `#beta_2_3`, `#help`, `#gamemaker_showcase` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/godot_engine.png" />
+
+[__Godot Engine__](https://discord.com/invite/zH7NUgz) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://godotengine.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/godotengine/) \
+Notable Channels: `#general`, `#showcase`, `#beginner-help`, `#help`, `#programming`, `#visual-script`, `#shaders`, `#networking`, `#engine`, `#mobile-dev`, `#gnative-dev`, `#plugins`, `#xr`, `#3d`, `#ui` \
+Language: English, عربي, español
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/official_unity_discord.png" />
+
+[__Official Unity Discord__](https://discord.com/invite/unity) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unity.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Unity-Technologies) \
+Notable Channels: `#general-unity`, `#game-jams`, `#completed-projects`, `#unitytips`, `#general-code`, `#editor-extensions`, `#dots`, `#shaders`, `#mobile`, `#machine-learning`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/panda3d.png" />
+
+[__Panda3D__](https://discord.com/invite/UyepRMm) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.panda3d.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/panda3d) \
+Notable Channels: `#general`, `#development` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/renpy.png" />
+
+[__Ren'Py__](https://discord.com/invite/6ckxWYm) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](http://www.renpy.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/renpy) \
+Notable Channels: `#renpy`, `#ontopic`, `#todayidid`, `#social` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/unity_developer_community.png" />
+
+[__Unity Developer Community__](https://discord.com/invite/bu3bbby) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://corniflex.itch.io/) \
+Notable Channels: `#unity-help`, `#general-programming`, `#advanced-programming`, `#physics-maths`, `#networking`, `#art-2d`, `#art-3d`, `#ui-design`, `#audio-engineering`, `#projects-showcase`, `#udc-jam-week` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/unreal_slackers.png" />
+
+[__Unreal Slackers__](https://discord.com/invite/unreal-slackers) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unrealslackers.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/unreal-slackers) \
+Notable Channels: `#unreal-engine`, `#design-chat`, `#game-jams`, `#work-in-progress`, `#graphics`, `#animation`, `#audio`, `#cinematix`, `#level-design`, `#paper2d`, `#visual-fx`, `#niagra`, `#blueprint`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
+
+### Game Development Tools
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/directx.png" />
+
+[__DirectX__](https://discord.com/invite/directx) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://devblogs.microsoft.com/directx/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Microsoft/DirectX-Graphics-Samples) \
+Notable Channels: `#dx-developer-day`, `#dx12-developers`, `#dx9-dx11-developers`, `#pix`, `#showcase`, `#bug-reports`, `#feature-requests`, `#dx-gaming-questions`, `#getting-started-guides` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/enginehub.png" />
+
+[__EngineHub__](https://discord.com/invite/enginehub) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://enginehub.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/EngineHub) \
+Notable Channels: `#wordedit`, `#worldguard`, `#craftbook`, `#commandbook`, `#enginehub`, `#api`, `#dev-team`, `#git-log`, `#showcase` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxgsm_.png" />
+
+[__LinuxGSM__](https://discord.com/invite/UM4VTpK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://linuxgsm.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GameServerManagers      ) \
+Notable Channels: `#linuxgsm`, `#linux`, `#game-server`, `#general`, `#battlestations` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/rpcs3.png" />
+
+[__RPCS3__](https://discord.com/invite/a6zm2T8) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://rpcs3.net/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/rpcs3) \
+Notable Channels: `#rpcs3`, `#help`, `#development`, `#media` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/steam_rom_manager.png" />
+
+[__Steam ROM Manager__](https://discord.com/invite/vrd6385) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://dozennn.github.io/steam-rom-manager/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://discord.com/invite/vrd6385) \
+Notable Channels: `#srm_discussion`, `#parser_support` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tes3mp.png" />
+
+[__TES3MP__](https://discord.com/invite/ECJk293) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tes3mp.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/TES3MP) \
+Notable Channels: `#general`, `#technical-help`, `#scripting-help`, `#content_discussion`, `#bug_reports`, `#development`, `#suggestions` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/twine_games.png" />
+
+[__Twine Games__](https://discord.com/invite/n5dJvPp) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twinery.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/tweecode) \
+Notable Channels: `#central-planning`, `#sugarcube`, `#harlowe`, `#chapbook`, `#snowman`, `#twine1-formats`, `#compilers`, `#general-twine-talk`, `#writing-discussion`, `#testing-and-released`, `#resources` \
+Language: English, Deutsch, español, français
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vkx.png" />
+
+[__VKx__](https://discord.com/invite/usAgsbK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/doitsujin/dxvk) \
+Notable Channels: `#d3d9-users`, `#d3d9-dev`, `#d3d11-users`, `#d3d11-dev`, `#wine`, `#proton`, `#vkd3d-users`, `#vkd3d-dev`, `#winehackers`, `#trivial-anti-cheetah-users`, `#easy-anti-lobster-dev`, `#builds` \
+Language: English
+
+### Gaming on Linux
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamingonlinux.png" />
+
+[__GamingOnLinux__](https://discord.gg/0rxBtcSOonvGzXr4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.gamingonlinux.com/) \
+Notable Channels: `#linux-gaming`, `#proton-steamplay-gaming`, `#wine-gaming`, `#cloud-streaming-stadia`, `#tech-support`, `#emulation`, `#developer-stuff`, `#hardware`, `#vr_and_ar`, `#your-content` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_gaming.png" />
+
+[__Linux Gaming__](https://discord.com/invite/linuxgaming) \
+Notable Channels: `#support-general`, `#support-hardware`, `#support-gaming`, `#new-to-linux`, `#tech-general`, `#coding`, `#unixporn`, `#original-content` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/lutris.png" />
+
+[__Lutris__](https://discord.gg/Pnt5CuY) \
+Notable Channels: `#news`, `#general`, `#irc`, `#requests_and_feedback`, `#lutris_support`, `#linux_support`, `#installer_creation` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/protondb_official_server.png" />
+
+[__ProtonDB Official Server__](https://discord.com/invite/uuwK9EV) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.protondb.com/)  \
+Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linux`, `#linux-support`, `#general-game-support` \
+Language: English
+
+[Linux↰](#linux-distributions)
+
+## Virtual Reality
+
+Developing for virtual, augmented, and mixed reality; the head-mounted displays that stimulate our perception of a whole new world. The applications of VR are endless.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/project_north_star.png" />
 
@@ -1342,13 +1454,6 @@ Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语
 [__Virtual Reality__](https://discord.com/invite/virtualreality) \
 Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#oculus-go`, `#valve-index`, `#pimax-vr`, `#htc-vive`, `#windows-mixed-reality`, `#playstation-vr`, `#vr-flightsims` \
 Language: English
-
-### Game Development Tools
-
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/directx.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/enginehub.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxgsm_.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/rpcs3.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tes3mp.png" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/twine_games.png" /> |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [__DirectX__](https://discord.com/invite/directx)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://devblogs.microsoft.com/directx/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Microsoft/DirectX-Graphics-Samples) | [__EngineHub__](https://discord.com/invite/enginehub)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://enginehub.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/EngineHub) | [__LinuxGSM___](https://discord.com/invite/UM4VTpK)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://linuxgsm.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GameServerManagers) | [__RPCS3__](https://discord.com/invite/a6zm2T8)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://rpcs3.net/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/rpcs3) | [__TES3MP__](https://discord.com/invite/ECJk293)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tes3mp.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/TES3MP) | [__Twine Games__](https://discord.com/invite/n5dJvPp)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twinery.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/tweecode) |
 
 ## Machine Learning
 
