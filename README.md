@@ -1357,6 +1357,12 @@ Notable Channels: `#renpy`, `#ontopic`, `#todayidid`, `#social` \
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/twine_games.png" />
+
+[__Twine Games__](https://discord.com/invite/n5dJvPp) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twinery.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/tweecode) \
+Notable Channels: `#central-planning`, `#sugarcube`, `#harlowe`, `#chapbook`, `#snowman`, `#twine1-formats`, `#compilers`, `#general-twine-talk`, `#writing-discussion`, `#testing-and-released`, `#resources` \
+Language: English, Deutsch, español, français
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/unity_developer_community.png" />
 
 [__Unity Developer Community__](https://discord.com/invite/bu3bbby) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://corniflex.itch.io/) \
@@ -1409,12 +1415,6 @@ Language: English \
 [__TES3MP__](https://discord.com/invite/ECJk293) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://tes3mp.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/TES3MP) \
 Notable Channels: `#general`, `#technical-help`, `#scripting-help`, `#content_discussion`, `#bug_reports`, `#development`, `#suggestions` \
 Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/twine_games.png" />
-
-[__Twine Games__](https://discord.com/invite/n5dJvPp) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://twinery.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/tweecode) \
-Notable Channels: `#central-planning`, `#sugarcube`, `#harlowe`, `#chapbook`, `#snowman`, `#twine1-formats`, `#compilers`, `#general-twine-talk`, `#writing-discussion`, `#testing-and-released`, `#resources` \
-Language: English, Deutsch, español, français
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vkx.png" />
 
