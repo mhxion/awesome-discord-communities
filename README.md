@@ -1253,6 +1253,12 @@ Language: English
 Notable Channels: `#gamedev-talk`, `#career-advice`, `#gamejam`, `#work-in-progress`, `#unity`, `#unreal`, `#godot`, `#gamemaker`, `#stride-xenko`, `#roblox`, `#ui-ux`, `#3d-modeling`, `#sound`, `#looking-for-work` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cgprograms.png" />
+
+[__CompuGenius Programs__](https://discord.gg/4gc5fQf) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cgprograms.com) \
+Notable Channels: `#😲-showcase`, `📝-job-listing`, `#🎉-announcements`, `#🎮-game-design`, `#💻-coding`, `#🔉-audio`, `#🎨-art` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/osu_dev.png" />
 
 [__osu!dev__](https://discord.com/invite/ppy) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://ppy.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/ppy) \
