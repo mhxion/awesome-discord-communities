@@ -1055,7 +1055,7 @@ Language: English, français, Deutsch, italiano, polski, español, Nederlands \
 Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
 Language: English
 
-[<p align="right">Gaming on Linux↴</p>](#gaming-on-linux)
+[Gaming on Linux↴](#gaming-on-linux)
 
 ### Other OS
 
@@ -1429,7 +1429,7 @@ Language: English
 Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linux`, `#linux-support`, `#general-game-support` \
 Language: English
 
-[<p align="right">Linux↰</p>](#linux-distributions)
+[Linux↰](#linux-distributions)
 
 ## Virtual Reality
 
