@@ -1201,6 +1201,13 @@ Notable Channels: `#general`, `#development` \
 Language: English, русский \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pince.png" />
+
+[__PINCE__](https://discord.com/invite/KCNDp9m) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/korcankaraokcu/PINCE) \
+Notable Channels: `#general`, `#issues` \
+Language: English \
+<br />
+
 ## Blockchain and Cryptocurrency
 
 The open-source development of cryptocurrencies and applications of blockchain.
