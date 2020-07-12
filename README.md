@@ -1194,6 +1194,13 @@ Language: English
 
 ### Security Tools
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ghidra.png" />
+
+[__GHIDRA__](https://discord.gg/S4tQnUB) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://ghidra.re/) \
+Notable Channels: `#general`, `#development` \
+Language: English, русский \
+<br />
+
 ## Blockchain and Cryptocurrency
 
 The open-source development of cryptocurrencies and applications of blockchain.
