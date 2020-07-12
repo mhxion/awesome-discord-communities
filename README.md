@@ -930,6 +930,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amd_os_x.png" />
 
+<!--lint ignore awesome-spell-check-->
 [__AMD OS X__](https://discord.com/invite/EfCYAJW) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://amd-osx.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/AMD-OSX) \
 Notable Channels: `#big_sur_discussions`, `#development_discussions`, `#b550_development`, `#install_support`, `#post_install_support`, `#gpu_support`, `#networking_support`, `#hardware_discussion` \
 Language: English
@@ -943,7 +944,7 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/macos_on_unsupported_macs.png" />
 
-[__macos on Unsupported Macs__](https://discord.com/invite/XbbWAsE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://osxhackers.net) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/os-x-hackers) \
+[__macOS on Unsupported Macs__](https://discord.com/invite/XbbWAsE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://osxhackers.net) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/os-x-hackers) \
 Notable Channels: `#catwoman-patchers`, `#dosdude1-patchers`, `#parrotgeek1-patchers`, `#rmc-patchers`, `#big-sur`, `#catalina`, `#mojave`, `#high-sieraa`, `#sierra`, `#el-capitan`, `#yosemite`, `#mavericks` \
 Language: English
 
@@ -1322,7 +1323,7 @@ Language: English, عربي, español
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/official_unity_discord.png" />
 
 [__Official Unity Discord__](https://discord.com/invite/unity) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unity.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/Unity-Technologies) \
-Notable Channels: `#general-unity`, `#game-jams`, `#completed-projects`, `#unitytips`, `#general-code`, `#editor-extensions`, `#dots`, `#shaders`, `#mobile`, `#machine-learning`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#general-unity`, `#game-jams`, `#completed-projects`, `#unitytips`, `#general-code`, `#editor-extensions`, `#dots`, `#shaders`, `#mobile`, `#machine-learning`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/panda3d.png" />
@@ -1348,7 +1349,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/unreal_slackers.png" />
 
 [__Unreal Slackers__](https://discord.com/invite/unreal-slackers) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://unrealslackers.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/unreal-slackers) \
-Notable Channels: `#unreal-engine`, `#design-chat`, `#game-jams`, `#work-in-progress`, `#graphics`, `#animation`, `#audio`, `#cinematix`, `#level-design`, `#paper2d`, `#visual-fx`, `#niagra`, `#blueprint`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#unreal-engine`, `#design-chat`, `#game-jams`, `#work-in-progress`, `#graphics`, `#animation`, `#audio`, `#cinematix`, `#level-design`, `#paper2d`, `#visual-fx`, `#niagra`, `#blueprint`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 ### Game Development Tools
