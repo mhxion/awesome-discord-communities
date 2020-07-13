@@ -1255,7 +1255,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cgprograms.png" />
 
-[__CompuGenius Programs__](https://discord.gg/4gc5fQf) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cgprograms.com) \
+[__CompuGenius Programs__](https://discord.gg/4gc5fQf) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://www.cgprograms.com) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/CompuGenius-Programs) \
 Notable Channels: `#😲-showcase`, `📝-job-listing`, `#🎉-announcements`, `#🎮-game-design`, `#💻-coding`, `#🔉-audio`, `#🎨-art` \
 Language: English
 
