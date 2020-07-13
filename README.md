@@ -1389,6 +1389,12 @@ Language: English
 Notable Channels: `#wordedit`, `#worldguard`, `#craftbook`, `#commandbook`, `#enginehub`, `#api`, `#dev-team`, `#git-log`, `#showcase` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/intellectualsites.png" />
+
+[__IntellectualSites__](https://discord.com/invite/KxkjDVg) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://intellectualsites.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/IntellectualSites) \
+Notable Channels: `#announcements`, `#info`, `#fawe-support`, `#hv-general-chat`, `#is-web`, `#programming` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxgsm_.png" />
 
 [__LinuxGSM__](https://discord.com/invite/UM4VTpK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://linuxgsm.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/GameServerManagers      ) \
