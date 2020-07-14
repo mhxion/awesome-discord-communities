@@ -1392,7 +1392,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/intellectualsites.png" />
 
 [__IntellectualSites__](https://discord.com/invite/KxkjDVg) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](https://intellectualsites.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](https://github.com/IntellectualSites) \
-Notable Channels: `#announcements`, `#info`, `#fawe-support`, `#hv-general-chat`, `#is-web`, `#programming` \
+Notable Channels: `#fawe-support`, `#fawe-developer-chat`, `#ps-developer-chat`, `#hv-general-chat`, `#is-web`, `#programming` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxgsm_.png" />
