@@ -4,7 +4,7 @@ Servers are assigned to  one or multiple badges that they conform to. Some badge
 
 <br>
 
-<img align="left" height="86px" width="86px" alt="Badge for officially owned Server" src="images/badges/official_86px.png" />
+<img align="left" height="86px" width="86px" alt="Badge for officially owned Server" src="images/badges/official_86px.webp" />
 
 #### Official Identification Badge
 
@@ -12,7 +12,7 @@ The server is owned or moderated by an established organization or a company or 
 
 <br>
 
-<img align="left" height="86px" width="86px" alt="Badge for officially owned Server" src="images/badges/reddit_86px.png" />
+<img align="left" height="86px" width="86px" alt="Badge for officially owned Server" src="images/badges/reddit_86px.webp" />
 
 #### Reddit Badge
 
@@ -20,7 +20,7 @@ The server is owned and moderated by an existing [Reddit](https://www.reddit.com
 
 <br>
 
-<img align="left" height="86px" width="86px" alt="Badge for owning a Website" src="images/badges/homepage_86px.png" />
+<img align="left" height="86px" width="86px" alt="Badge for owning a Website" src="images/badges/homepage_86px.webp" />
 
 #### Home Badge
 
@@ -28,7 +28,7 @@ The server's official website, a clickable badge. The webpage may contain helpfu
 
 <br>
 
-<img align="left" height="86px" width="86px" alt="Badge for owning a Website" src="images/badges/git_86px.png" />
+<img align="left" height="86px" width="86px" alt="Badge for owning a Website" src="images/badges/git_86px.webp" />
 
 #### Git Badge
 
