@@ -23,7 +23,7 @@ Language: English, Deutsch, 日本語
 
 ![Render Screenshot](images/screenshots/screenshot_00.png)
 
-✅ Community icon is optimized, and at least `128x128` pixel in resolution with moderate PPI
+✅ Community icon is optimized with [WebP](https://developers.google.com/speed/webp/docs/using#using_cwebp_to_convert_images_to_the_webp_format), lossy quality with `-q 75`, and at least `128x128` pixel in resolution with moderate PPI
 
 ✅ Community name does not contain any emoji (discouraged)
 
