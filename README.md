@@ -8,7 +8,7 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
 <!-- omit in toc -->
 ## Contents
 
-- [How to Navigate](#how-to-navigate)
+- [__How to Navigate__](#how-to-navigate)
 - [Programming in General](#programming-in-general)
   - [Support Communities](#support-communities)
   - [Competitive Programming](#competitive-programming)
@@ -63,6 +63,7 @@ A curated list of awesome [Discord](FAQ.md#what-is-discordcom-exactly) communiti
   - [Linux Distributions](#linux-distributions)
   - [Other OS](#other-os)
 - [Server-side](#server-side)
+  - [Data Management](#data-management)
   - [API](#api)
   - [Containers](#containers)
   - [Server-side Applications](#server-side-applications)
@@ -1115,6 +1116,8 @@ Language: English
 Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
 Language: English, Deutsch, français, Nederlands \
 <br />
+
+### Data Management
 
 ### API
 
