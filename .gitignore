@@ -1,5 +1,5 @@
-.old_png_badges
-images/.old_server_icons
+/images/.old_png_badges
+/images/.old_server_icons
 package-lock.json
 node_modules
 .vscode
