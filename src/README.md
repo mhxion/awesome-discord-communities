@@ -1,6 +1,6 @@
 # Generate Markdown Template
 
-This raw script generates the markdown template required for each community on the list, this is to simplify [contributions](../CONTRIBUTING.md#new-community), not an all-powerful generator.
+This raw script generates the markdown template required for each community on the list, this is to simplify writing inline HTML on markdown for [contributions](../CONTRIBUTING.md#new-community), not an all-powerful generator.
 
 ## Requirements
 
@@ -9,7 +9,7 @@ This raw script generates the markdown template required for each community on t
 
 ## Usage
 
-Run with `python3 /path/to/get_template.py`. You'll be asked to enter the details about the community. At every input to move to the next query simply hit `Enter`. In the end you'll be given a generated template which you only need to copy and propose file change from a pull request.
+Run with `python3 /path/to/get_template.py`. You'll be asked to enter the details about the community. At every input to move to the next query, hit `Enter`. In the end you'll be given a generated template which you only need to copy and propose file change from a pull request.
 
 ![Screenshot of template script](../images/screenshots/screenshot_01.png)
 
