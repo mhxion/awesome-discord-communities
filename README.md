@@ -1331,6 +1331,12 @@ Language: English
 Notable Channels: `#gamedev`, `#technical`, `#game-design`, `#3d_in_gamemaker`, `#shaders`, `#netcode`, `#beta_2_3`, `#help`, `#gamemaker_showcase` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gdevelop.webp" />
+
+[__GDevelop__](https://discord.com/invite/rjdYHvj) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://gdevelop-app.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/4ian/GDevelop) \
+Notable Channels: `#wip`, `#art-and-assets`, `#finished-games`, `#game-jam`, `#general`, `#quick-questions`, `#engine-development`, `#javascript`, `#extension`, `#wiki` \
+Language: English, Deutsch, français, español, 日本語, português, русский, italiano
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/godot_engine.webp" />
 
 [__Godot Engine__](https://discord.com/invite/zH7NUgz) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://godotengine.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/godotengine/) \
