@@ -1119,6 +1119,12 @@ Language: English, Deutsch, français, Nederlands \
 
 ### Data Management
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/data_engineering.webp" />
+
+[__Data Engineering__](https://discord.com/invite/2pER6dq) \
+Notable Channels: `#general`, `#show`, `#help`, `#career`, `#data-science` `#resources`, `#architecture`, `#cloud`, `#databases`, `#etl-workflow` \
+Language: English
+
 ### API
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hasurahq.webp" />
