@@ -777,6 +777,12 @@ Language: English, Deutsch, français, 汉语, español, 日本語, dansk, 한�
 
 ### Web Libraries
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/docsify.webp" />
+
+[__docsify__](https://discord.com/invite/anXTEZk) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://docsify.js.org/#/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/docsifyjs) \
+Notable Channels: `#general`, `#showcase`, `#help`, `#contribution-guidelines`, `#docsify-themeable`, `#plugins`, `#docsify-labs` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/egoist_oss.webp" />
 
 [__EGOIST OSS__](https://discord.com/invite/2t5mdCz) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://poi.js.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/egoist/poi) \
