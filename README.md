@@ -413,6 +413,13 @@ Language: English
 Notable Channels: `#projects`, `#mentors`, `#learning-discussion`, `#questions`, `#architecture`, `#code-review`, `#web`, `#python`, `#ui-ux` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/entitas.webp" />
+
+[__Entitas__](https://discord.com/invite/uHrVx5Z) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://twitter.com/entitas_csharp) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/sschmid/Entitas-CSharp) \
+Notable Channels: `#general`, `#showcase`, `#variants`, `#unity` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/opentk.webp" />
 
 [__opentk__](https://discord.com/invite/6HqD48s) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://opentk.net/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/opentk) \
