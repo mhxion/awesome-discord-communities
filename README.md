@@ -1335,7 +1335,7 @@ Language: English
 
 [__Godot Engine__](https://discord.com/invite/zH7NUgz) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://godotengine.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/godotengine/) \
 Notable Channels: `#general`, `#showcase`, `#beginner-help`, `#help`, `#programming`, `#visual-script`, `#shaders`, `#networking`, `#engine`, `#mobile-dev`, `#gnative-dev`, `#plugins`, `#xr`, `#3d`, `#ui` \
-Language: English, عربي, español
+Language: English, عربي, español, polski
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/official_unity_discord.webp" />
 
