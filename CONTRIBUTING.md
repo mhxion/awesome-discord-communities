@@ -16,14 +16,14 @@ To add a new community, fork this project and add your server to a section or se
 ```html
 <img align="left" height="94px" width="94px" alt="Server Icon" src="<static url of the image>" />
 
-[__Community Name__](url of invite link) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">](url of server homepage) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">](url of server git repository) \
+[__Community Name__](url of invite link) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](url of server homepage) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](url of server git repository) \
 Notable Channels: `#most-important-channel-1`, `#most-important-channel-2`, `#most-important-channel-3`, `#most-important-channel-4`, `#most-important-channel-5`, `#least-important-channel` \
 Language: English, Deutsch, 日本語
 ```
 
 ![Render Screenshot](images/screenshots/screenshot_00.png)
 
-✅ Community icon is optimized, and at least `128x128` pixel in resolution with moderate PPI
+✅ Community icon is optimized with [WebP](https://developers.google.com/speed/webp/docs/using#using_cwebp_to_convert_images_to_the_webp_format), lossy quality with `-q 75`, and at least `128x128` pixel in resolution with moderate PPI
 
 ✅ Community name does not contain any emoji (discouraged)
 

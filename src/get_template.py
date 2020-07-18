@@ -48,7 +48,7 @@ class ADCTemplateGenerator:
     def __get_server_icon(self):
         while True:
             try:
-                img = input("\n➜ Enter server icon (PNG/JPG) URL. Make sure it's a static link:\n")
+                img = input("\n➜ Enter server icon (WebP) URL. Make sure it's a static link:\n")
             except ValueError:
                 print(f"Sorry, the URL you entered was not in a valid text format.")
                 continue
@@ -134,25 +134,25 @@ class ADCTemplateGenerator:
 
     def __format_is_reddit(self):
         if self.is_reddit:
-            return f' [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.png">]' \
+            return f' [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">]' \
                    f'(badges.md#reddit-badge)'
         return f""
 
     def __format_is_official(self):
         if self.is_official:
-            return f' [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.png">]' \
+            return f' [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">]' \
                    f'(badges.md#official-identification-badge)'
         return f""
 
     def __format_homepage(self):
         if self.homepage:
-            return f' [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.png">]' \
+            return f' [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">]' \
                    f'({self.homepage})'
         return f""
 
     def __format_git_repo(self):
         if self.git_repo:
-            return f' [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.png">]({self.git_repo})'
+            return f' [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">]({self.git_repo})'
         return f""
 
     def __format_channels(self):
