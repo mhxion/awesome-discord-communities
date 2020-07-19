@@ -1218,10 +1218,25 @@ Notable Channels: `#general`, `#software`, `#hardware`, `#media-suggestions` \
 Language: English \
 <br />
 
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_plex.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/librenms.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/organizr.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pi_hole.webp" /> |
-| ---------------------- | ------------------- | ------------------- | ------------------- |
-| [__/r/Plex__](https://discord.com/invite/plex)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/PleX/) | [__LibreNMS__](https://discord.com/invite/librenms)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.librenms.org) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/librenms) | [__Organizr__](https://discord.com/invite/TrNtY7N)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://organizr.app/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/causefx/Organizr) | [__Pi-Hole__](https://discord.gg/VzThBmB) |
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/librenms.webp" />
+
+[__LibreNMS__](https://discord.com/invite/librenms) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.librenms.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/librenms) \
+Notable Channels: `#general`, `#devel` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/organizr.webp" />
+
+[__Organizr__](https://discord.com/invite/TrNtY7N) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://organizr.app/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/causefx/Organizr) \
+Notable Channels: `#general`, `#customization-theming`, `#groups`, `#organizr-support` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pi_hole.webp" />
+
+[__Pi-Hole__](https://discord.gg/VzThBmB) \
+Notable Channels: `#general`, `#tech`, `#share-your-setup`, `#pi-hole-setup`, `#other-support` \
+Language: English
 
 ## Computer Security
 
