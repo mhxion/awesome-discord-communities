@@ -1236,7 +1236,8 @@ Language: English \
 
 [__Pi-Hole__](https://discord.gg/VzThBmB) \
 Notable Channels: `#general`, `#tech`, `#share-your-setup`, `#pi-hole-setup`, `#other-support` \
-Language: English
+Language: English \
+<br />
 
 ## Computer Security
 
