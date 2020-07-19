@@ -767,21 +767,62 @@ Language: English
 
 ### Vue.js
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/bootstrapvue.webp" />
+
+[__BootstrapVue__](https://discord.com/invite/j2Mtcny) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://bootstrap-vue.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bootstrap-vue) \
+Notable Channels: `#general`, `#i-made-this` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/buefy.webp" />
+
+[__Buefy__](https://discord.com/invite/ZkdFJMr) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://buefy.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/buefy) \
+Notable Channels: `#general`, `#need-help`, `#feature-request`, `#i-made-this` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gridsome.webp" />
+
+[__Gridsome__](https://discord.com/invite/daeay6n) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://gridsome.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/gridsome) \
+Notable Channels: `#general`, `#help`, `#documentation`, `#showcase`, `#development`, `#starter-kits`, `#plugin-releases`, `#graphql`, `#vuejs`, `#platforms` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nuxtjs.webp" />
+
+[__Nuxt.js__](https://discord.com/invite/b3dvQ9b) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nuxtjs.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nuxt) \
+Notable Channels: `#articles`, `#general`, `#showcase`, `#documentation`, `#proposals`, `#nuxt`, `#axios`, `#pwa`, `#webpack`, `#configuration`, `#middleware`, `#apollo`, `#plugins`, `#store`, **[`so much more`](badges.md#so-much-more)** \
+Language: English, Deutsch, français, español, 日本語, português, русский, italiano, 中文, 
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/quasar_framework.webp" />
+
+[__Quasar Framework__](https://discord.com/invite/5TDhbDg) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://quasar.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/quasarframework/quasar) \
+Notable Channels: `#i-made-this`, `#ideas`, `#jobs`, `#conferences`, `#upgrading`, `#app-extensions`, `#components`, `#cli`, `#spa`, `#ssr`, `#pwa`, `#umd`, `#cordova`, `#electron`, **[`so much more`](badges.md#so-much-more)** \
+Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, Türkçe, español, 日本語, dansk, 한국어, português, polski, русский
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_land.webp" />
 
 [__Vue Land__](https://discord.com/invite/HBherRA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vue-land) \
 Notable Channels: `#vuex-store`, `#vue-router`, `#code-help`, `#vue-cli`, `#vue-i18n`, `#vuepress`, `#composition-api`, `#vue3-discussions`, `#vue2-internals`, `#vue-testing`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English, Deutsch, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский
 
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/bootstrapvue.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/buefy.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gridsome.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nuxtjs.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/quasar_framework.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_material.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vuesax.webp" /> |
-|----------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
-| [__BootstrapVue__](https://discord.com/invite/j2Mtcny)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://bootstrap-vue.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bootstrap-vue) | [__Buefy__](https://discord.com/invite/ZkdFJMr)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://buefy.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/buefy/buefy) | [__Gridsome__](https://discord.com/invite/daeay6n)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://gridsome.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/gridsome) | [__Nuxt.js__](https://discord.com/invite/b3dvQ9b)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nuxtjs.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nuxt) | [__Quasar<br>Framework__](https://discord.com/invite/5TDhbDg)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://quasar.dev/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/quasarframework/quasar) | [__Vue Material__](https://discord.com/invite/vuematerial)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vuematerial.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](http://github.com/vuematerial/vue-material) | [__Vuesax__](https://discord.com/invite/2kHwpfe)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://lusaxweb.github.io/vuesax/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/lusaxweb/vuesax) |
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_material.webp" />
 
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vuetify.webp" /> |
-|-------------------|
-| [__Vuetify__](https://discord.com/invite/s93b7Fv)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vuetifyjs.com/en/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vuetifyjs/vuetify) |
+[__Vue Material__](https://discord.com/invite/vuematerial) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vuematerial.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](http://github.com/vuematerial) \
+Notable Channels: `#general`, `#need-help`, `#bugs`, `#ideas`, `#i-made-this` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vuesax.webp" />
+
+[__Vuesax__](https://discord.com/invite/2kHwpfe) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://lusaxweb.github.io/vuesax/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/lusaxweb/vuesax) \
+Notable Channels: `#i-made-this`, `#issues`, `#ideas`, `#ssr`, `#design`, `#discord-help`, `#bugs`, `#pull-requests`, `#responsive`, `#proposals` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vuetify.webp" />
+
+[__Vuetify__](https://discord.com/invite/s93b7Fv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vuetifyjs.com/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vuetifyjs) \
+Notable Channels: `#help`, `#beginner-questions`, `#bug-reporting`, `#updating-versions`, `#tooling`, `#testing`, `#nuxt`, `#premium-theme-support`, `#women-who-vuetify`, `#frontend`, `#backend` \
+Language: English, Deutsch, français, español, 日本語, 한국어, português, polski, русский
 
 ### Web Libraries
 
