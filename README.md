@@ -323,7 +323,8 @@ Language: English, Deutsch, Nederlands \
 
 [__deCONZ__](https://discord.com/invite/QFhTxqN) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/dresden-elektronik/deconz-rest-plugin) \
 Notable Channels: `#advice`, `#device-issues`, `#home-assisstant-issues`, `#setup-issues`, `#other-issues`, `#phoscon` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/esphome.webp" />
 
@@ -701,7 +702,8 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 [__AssemblyScript__](https://discord.com/invite/assemblyscript) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.assemblyscript.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/AssemblyScript) \
 Notable Channels: `#general`, `#help`, `#built-with-assemblyscript`, `#development`, `#community-group`, `#as-pect` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/webassembly.webp" />
 
