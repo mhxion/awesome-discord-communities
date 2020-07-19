@@ -790,13 +790,13 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nuxtjs.webp" />
 
 [__Nuxt.js__](https://discord.com/invite/b3dvQ9b) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nuxtjs.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nuxt) \
-Notable Channels: `#articles`, `#general`, `#showcase`, `#documentation`, `#proposals`, `#nuxt`, `#axios`, `#pwa`, `#webpack`, `#configuration`, `#middleware`, `#apollo`, `#plugins`, `#store`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#articles`, `#general`, `#showcase`, `#documentation`, `#proposals`, `#nuxt`, `#axios`, `#pwa`, `#webpack`, `#middleware`, `#apollo`, `#plugins`, **[`so much more`](badges.md#so-much-more)** \
 Language: English, Deutsch, français, español, 日本語, português, русский, italiano, 中文, 
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/quasar_framework.webp" />
 
 [__Quasar Framework__](https://discord.com/invite/5TDhbDg) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://quasar.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/quasarframework/quasar) \
-Notable Channels: `#i-made-this`, `#ideas`, `#jobs`, `#conferences`, `#upgrading`, `#app-extensions`, `#components`, `#cli`, `#spa`, `#ssr`, `#pwa`, `#umd`, `#cordova`, `#electron`, **[`so much more`](badges.md#so-much-more)** \
+Notable Channels: `#i-made-this`, `#ideas`, `#jobs`, `#conferences`, `#upgrading`, `#app-extensions`, `#components`, `#cli`, `#spa`, `#ssr`, `#pwa`, `#umd`, `#cordova`, **[`so much more`](badges.md#so-much-more)** \
 Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, Türkçe, español, 日本語, dansk, 한국어, português, polski, русский
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vue_land.webp" />
@@ -821,7 +821,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vuetify.webp" />
 
 [__Vuetify__](https://discord.com/invite/s93b7Fv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vuetifyjs.com/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vuetifyjs) \
-Notable Channels: `#help`, `#beginner-questions`, `#bug-reporting`, `#updating-versions`, `#tooling`, `#testing`, `#nuxt`, `#premium-theme-support`, `#women-who-vuetify`, `#frontend`, `#backend` \
+Notable Channels: `#help`, `#beginner-questions`, `#bug-reporting`, `#updating-versions`, `#tooling`, `#testing`, `#nuxt`, `#premium-theme-support`, `#women-who-vuetify`, `#frontend` \
 Language: English, Deutsch, français, español, 日本語, 한국어, português, polski, русский
 
 ### Web Libraries
