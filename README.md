@@ -312,10 +312,38 @@ Language: English
 
 ### IoT Applications
 
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/appdaemon.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/deconz.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/esphome.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tasmota.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/zigbee2mqtt.webp" /> |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| [__AppDaemon__](https://discord.com/invite/Mx5qafB)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/hassio-addons/addon-appdaemon) | [__deCONZ__](https://discord.com/invite/QFhTxqN)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/dresden-elektronik/deconz-rest-plugin) | [__ESPHome__](https://discord.com/invite/KhAMKrd)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://esphome.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/esphome) | [__Tasmota__](https://discord.com/invite/Ks2Kzd4)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://tasmota.github.io/docs/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/arendst/tasmota) | [__zigbee2mqtt__](https://discord.com/invite/NyseBeK)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.zigbee2mqtt.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/koenkk/zigbee2mqtt) |
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/appdaemon.webp" />
+
+[__AppDaemon__](https://discord.com/invite/Mx5qafB) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/hassio-addons/addon-appdaemon) \
+Notable Channels: `#appdaemon`, `#hadashboard` \
+Language: English, Deutsch, Nederlands \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/deconz.webp" />
+
+[__deCONZ__](https://discord.com/invite/QFhTxqN) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/dresden-elektronik/deconz-rest-plugin) \
+Notable Channels: `#advice`, `#device-issues`, `#home-assisstant-issues`, `#setup-issues`, `#other-issues`, `#phoscon` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/esphome.webp" />
+
+[__ESPHome__](https://discord.com/invite/KhAMKrd) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://esphome.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/esphome) \
+Notable Channels: `#general`, `#devs` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tasmota.webp" />
+
+[__Tasmota__](https://discord.com/invite/Ks2Kzd4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://tasmota.github.io/docs/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/arendst/tasmota) \
+Notable Channels: `#general`, `#issues`, `#3d-prints-and-cnc`, `#projects-gallery`, `#deals-and-promotions` \
+Language: English \
+<br />
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/zigbee2mqtt.webp" />
+
+[__zigbee2mqtt__](https://discord.com/invite/NyseBeK) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.zigbee2mqtt.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/koenkk/zigbee2mqtt) \
+Notable Channels: `#release-branch`, `#development-branch`, `#installation-hassio`, `#installation-docker`, `#zigbee2mqtt`, `#zigbee-shepherd`, `#documentation`, `#hardware` \
+Language: English
 
 ### Hardware
 
