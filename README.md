@@ -1379,7 +1379,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://cdn.discordapp.com/icons/655046906581352459/765b345ab902b27b918e2d8ebdb4e43c" />
 
 [__Coders Craft__](https://discord.gg/DA9qDXF) \
-Flight Simulation Programming (Xplane-11) Soon MFS2020 \
+Flight Simulation Programming (Xplane-11) Soon Microsoft Flight Simulator 2020 \
 Notable Channels: `#general`, `#developer-chat`, `#media` , `#off-topic` ,`#files` , `#bot` ,`#xpl-res` , `#c-cpp`, `#lua`, `#news` , \
 Language: English
 
