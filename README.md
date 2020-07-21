@@ -1376,9 +1376,9 @@ Making of games, how to rasterize or real time ray tracing, the complexities beh
 Notable Channels: `#tutorials_and_articles`, `#unity`, `#programming`, `#mobile`, `#code_optimization`, `#shaders`, `#game_jams`, `#art`, `#audio`, `#game_design`, `#marketing`, `#collaboration` \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="<static url of the image>" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://cdn.discordapp.com/icons/655046906581352459/765b345ab902b27b918e2d8ebdb4e43c" />
 
-[__Coders Craft__](url of invite link) \
+[__Coders Craft__](https://discord.gg/DA9qDXF) \
 Flight Simulation Programming (Xplane-11) Soon MFS2020 \
 Notable Channels: `#general`, `#developer-chat`, `#media` , `#off-topic` ,`#files` , `#bot` ,`#xpl-res` , `#c-cpp`, `#lua`, `#news` , \
 Language: English
