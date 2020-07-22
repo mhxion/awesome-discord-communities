@@ -1550,6 +1550,12 @@ Notable Channels: `#linuxgsm`, `#linux`, `#game-server`, `#general`, `#battlesta
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://pluckyporcupinegame.boutique/wp-content/uploads/2020/03/raylib_256x256.png" />
+
+[__Raylib__](https://discord.com/invite/VkzNHUE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](https://www.reddit.com/r/raylib/) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.raylib.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/raysan5/raylib) \
+Notable Channels: `#general`, `#madewithraylib`, `#help-setup`, `#help-general`, `#raygui`, and many more for bindings \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/rpcs3.webp" />
 
 [__RPCS3__](https://discord.com/invite/a6zm2T8) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://rpcs3.net/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/rpcs3) \
