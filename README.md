@@ -1541,7 +1541,7 @@ Language: English
 
 [__IntellectualSites__](https://discord.com/invite/KxkjDVg) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://intellectualsites.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/IntellectualSites) \
 Notable Channels: `#fawe-support`, `#fawe-developer-chat`, `#ps-developer-chat`, `#hv-general-chat`, `#is-web`, `#programming` \
-Language: English
+Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxgsm_.webp" />
 
