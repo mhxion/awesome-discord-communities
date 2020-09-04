@@ -1447,6 +1447,13 @@ Notable Channels: `#armory`, `#armor-paint`, `#general`, `#armory-dev`, `#haxe`,
 Language: English, français \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/bevy.webp" />
+
+[__Bevy__](https://discord.com/invite/UXvRHG) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://bevyengine.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bevyengine/) \
+Notable Channels: `#general`, `#help`, `#code-review`, `#showcase`, `#tutorials`, `#dev-general`, `#assets`, `#audio`, `#documentation`, `#ecs`, `#ui`, `#rendering` \
+Language: English
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/construct_community.webp" />
 
 [__Construct Community__](https://discord.com/invite/8RJBHbX) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/WebCreationClub) \
