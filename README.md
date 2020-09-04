@@ -131,7 +131,8 @@ Language: English
 
 [__Programmers Palace__](https://discord.com/invite/48Zxcpy) \
 Notable Channels: `#recruitment-hiring`, `#java`, `#python`, `#c_langs`,`#javascript`, `#lua`, `#web-dev`, `#php`, `#other-support` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programming.webp" />
 
@@ -364,7 +365,8 @@ Language: English
 
 [__Monitor Enthusiasts__](https://discord.com/invite/MZwg5cQ) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/Monitors/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/DWF967/MonitorBot) \
 Notable Channels: `#monitors-discussion`, `#ultrawide-discussion`, `#mounts-and-desks`, `#help`, `#setups-and-battlestations` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pc_master_race.webp" />
 
@@ -860,7 +862,8 @@ Language: English, Deutsch, français, español, 日本語, 한국어, portuguê
 
 [__docsify__](https://discord.com/invite/anXTEZk) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://docsify.js.org/#/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/docsifyjs) \
 Notable Channels: `#general`, `#showcase`, `#help`, `#contribution-guidelines`, `#docsify-themeable`, `#plugins`, `#docsify-labs` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/egoist_oss.webp" />
 
@@ -873,7 +876,8 @@ Language: English \
 
 [__storybook__](https://discord.gg/UUt2PJb) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://storybook.js.org/community/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/storybookjs/) \
 Notable Channels: `#general`, `#support`, `#maintenance`, `#design`, `#presets`, `#documentation`, `#addons`, `#jobs`, `#frameworks`\
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/testing_library.webp" />
 
@@ -991,7 +995,8 @@ Language: English \
 
 [__/r/FlutterDev__](https://discord.com/invite/N7Yshp4) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/FlutterDev/) \
 Notable Channels: `#beginner`, `#intermediate`, `#general`, `#android`, `#ios`, `#web`, `#desktop`, `#app-showcase`, `#hiring` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/android_discord.webp" />
 
@@ -1012,7 +1017,8 @@ Language: English
 
 [__/r/Hackintosh Paradise__](https://discord.com/invite/Wxam8aH) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/hackintosh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) \
 Notable Channels: `#hackintosh-help`, `#laptop-prebuilt`, `#smbios`, `#macos`, `#linux`, `#windows`, `#retro-gaming`, `#hardware` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amd_os_x.webp" />
 
@@ -1301,7 +1307,8 @@ Language: English
 
 [__InfoSec & Coding__](https://discord.gg/zSaDzRW) \
 Notable Channels: `#general`, `#questions`, `#programming`, `#hacking`, `#webdev`, `#opearting-systems`, `#ctf`, `#resources` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/locke.webp" />
 
@@ -1424,7 +1431,8 @@ Language: English, Deutsch, português, español, Nederlands, suomi, Magyar, sve
 
 [__Shadertoy__](https://discord.com/invite/XtmMN6E) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.shadertoy.com) \
 Notable Channels: `#shader-programming`, `#beginners`, `#mathematics`, `#showcase`, `#live-coding-streams`, `#resources` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ttrpg_design_and_playtesting.webp" />
 
@@ -1541,7 +1549,8 @@ Language: English
 
 [__IntellectualSites__](https://discord.com/invite/KxkjDVg) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://intellectualsites.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/IntellectualSites) \
 Notable Channels: `#fawe-support`, `#fawe-developer-chat`, `#ps-developer-chat`, `#hv-general-chat`, `#is-web`, `#programming` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linuxgsm_.webp" />
 
