@@ -1387,7 +1387,7 @@ Language: English
 
 [__Coders Craft__](https://discord.gg/DA9qDXF) \
 Flight Simulation Programming (Xplane-11) Soon Microsoft Flight Simulator 2020 \
-Notable Channels: `#general`, `#developer-chat`, `#media` , `#off-topic` ,`#files` , `#bot` ,`#xpl-res` , `#c-cpp`, `#lua`, `#news` , \
+Notable Channels: `#general`, `#developer-chat` , `#bot` ,`#xpl-res` , `#c-cpp`, `#lua`, `#news` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/game_dev_league.webp" />
