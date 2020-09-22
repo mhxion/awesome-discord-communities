@@ -1070,7 +1070,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nix_nest.webp" />
 
-[__*nix nest__](https://discord.gg/shpxu6T) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/discordlinux) \
+[__*nix nest__](https://discord.gg/shpxu6T) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nixnest) \
 Notable Channels: `#home`, `#dev-random`, `#support`, `#unixporn`, `#programming`, `#media`, `#hardware`, `#gaming` \
 Language: English \
 <br />
