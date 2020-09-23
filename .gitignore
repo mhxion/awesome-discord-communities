@@ -6,3 +6,4 @@ node_modules
 TODO.md
 .py38venv
 .idea
+.pipenv
