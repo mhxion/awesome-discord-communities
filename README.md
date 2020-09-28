@@ -550,6 +550,8 @@ Language: English
 Notable Channels: `#collaboration`, `#code-review`, `#help`, `#react`, `#angular`, `#vue`, `#svelte`, `#jquery`, `#gatsby`, `#node`, `#graphql`, `#electron`, `#threejs`, `#webgl`\
 Language: English
 
+[Typescript↴](#typescript) • [Web Frameworks↴](#web-frameworks)
+
 ### Lisp
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/lisp.webp" />
@@ -689,6 +691,8 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 [__TypeScript Community__](https://discord.com/invite/typescript) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.typescriptlang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/typescript-community) \
 Notable Channels: `#ts-discussion`, `#help`, `#vue`, `#angular`, `#react`, `#language-design`, `#compiler`, `#architecture`, `#tooling`, `#devops`, `#site-localization`, `#deno`, `#meetups`, `#projects` \
 Language: English
+
+[JavaScript↰](#javascript)
 
 ### V
 
@@ -905,6 +909,8 @@ Language: English
 [__WordPress Chat__](https://discord.com/invite/3gQGJQA) \
 Notable Channels: `#security`, `#general`, `#devops`, `#plugin-development`, `#theme-development`, `#coding-questions`, `#css`, `#wp-cli`, `#seo`, `#beginner-help`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
+
+[JavaScript↰](#javascript) • [Typescript↰](#typescript) • [WebAssembly↰](#webassembly)
 
 ## Development Environments
 
