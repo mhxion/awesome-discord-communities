@@ -1297,6 +1297,13 @@ Language: English
 Notable Channels: `#support-labs`, `#challenge-labs`, `#ctf`, `#technical-help`, `#red-teaming`, `#networking`, `#cryptography`, `#programming` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/defcon.webp" />
+
+[__DEFCON__](https://discord.com/invite/defcon) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.defcon.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://media.defcon.org/) \
+Notable Channels: _Will open on August 5-8, 2021_ \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hacker101.webp" />
 
 [__Hacker101__](https://discord.com/invite/32ZNZVN) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.hackerone.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Hacker0x01) \
