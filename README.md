@@ -1312,7 +1312,7 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/locke.webp" />
 
-[__LOCKE__](https://discord.com/invite/n8TSaNf) \
+[__LOCKE__](https://discord.gg/Q8YsA7S) \
 Notable Channels: `#windows-os`, `#unix-family`, `#mac-os`, `#ethical-hacking`, `#ctf-discussion`, `#job-discussion`, `#networking`, `#cryptography`, `#mobile-devices`, `#web-dev`, `#python` \
 Language: English
 
