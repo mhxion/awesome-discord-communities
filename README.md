@@ -1291,12 +1291,6 @@ Everything red and blue teams are leaglly allowed to do; securty asssessment, re
 Notable Channels: `#infosec-general`, `#technical-chat`, `#student-zone`, `#blue-team-zone`, `#ctf`, `#malware-phishing`, `#cyber-threat-intel`, `#digital-forensics` \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/3ds_cybersec_empire.webp" />
-
-[__3D's CyberSec Empire__](https://discord.com/invite/V5Axpyj) \
-Notable Channels: `#ethical-hacking`, `#questions`, `#sources`, `#projects`, `#security-softwares`, `#capture-the-flag`, `#other-programming-languages` \
-Language: English
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cyberseclabs_lounge.webp" />
 
 [__CyberSecLabs Lounge__](https://discord.com/invite/2C9dmtg) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cyberseclabs.co.uk/) \
