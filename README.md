@@ -240,7 +240,7 @@ Language: English
 
 ## Electricals
 
-Discussions on bare-bones circuit boards, microprocessors, and bleeding edge hardware.  
+Discussions on bare-bones circuit boards, microprocessors, and bleeding edge hardware.
 
 ### Engineering
 
@@ -834,7 +834,7 @@ Language: English
 
 [__Nuxt.js__](https://discord.com/invite/b3dvQ9b) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nuxtjs.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nuxt) \
 Notable Channels: `#articles`, `#general`, `#showcase`, `#documentation`, `#proposals`, `#nuxt`, `#axios`, `#pwa`, `#webpack`, `#middleware`, `#apollo`, `#plugins`, **[`so much more`](badges.md#so-much-more)** \
-Language: English, Deutsch, français, español, 日本語, português, русский, italiano, 中文, 
+Language: English, Deutsch, français, español, 日本語, português, русский, italiano, 中文,
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/quasar_framework.webp" />
 
@@ -1198,6 +1198,12 @@ Language: English
 
 [__Data Engineering__](https://discord.com/invite/2pER6dq) \
 Notable Channels: `#general`, `#show`, `#help`, `#career`, `#data-science` `#resources`, `#architecture`, `#cloud`, `#databases`, `#etl-workflow` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/eddiejaoudecommunity.webp" />
+
+[__Eddie Jaoude Community__](https://discord.com/invite/jZQs6Wu) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](http://eddiejaoudecommunity.github.io) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](http://github.com/EddieJaoudeCommunity) \
+Notable Channels: `#opensource`, `#first-timers`, `#help`, `#livestream`, `#hackathons`, `#careers` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homelab.webp" />
@@ -1641,7 +1647,7 @@ Language: English, Deutsch, français, español, 日本語, 韓國語
 
 [__VRChat__](https://discord.com/invite/vrchat) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vrchat.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vrchat) \
 Notable Channels: `#udon-questions`, `#vrchat-development`, `#avatars`, `#avatar-rigging`, `#animation`, `#shaders`, `#3d-modeling`, `#worlds`, `#world-lighting`, `#oculus-quest-development`, __[`so much more`](badges.md#so-much-more)__ \
-Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский  
+Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/virtual_reality.webp" />
 
