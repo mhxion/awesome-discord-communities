@@ -647,7 +647,7 @@ Language: English, русский \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ruby.webp" />
 
-[__Ruby__](https://discord.com/invite/KpcVgPc) \
+[__Ruby__](https://discord.com/invite/KbDHDez) \
 Notable Channels: `#beginners-chat`, `#project-ideas`, `#help`, `#devops`, `#code-review`, `#frontend`, `#backend`, `#rails`, `#sinatra`\
 Language: English
 
@@ -1217,7 +1217,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/grakn_labs.webp" />
 
-[__Grakn Labs__](https://discord.com/invite/graknlabs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://grakn.ai/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/graknlabs) \
+[__Grakn__](https://discord.com/invite/grakn) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://grakn.ai/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/graknlabs) \
 Notable Channels: `#general`, `#graql`, `#grakn`, `#grabl`, `#build`, `#buildbuddy`, `#troubleshoot`, `#workbase`, `#biograkn`, `#kglib`, `#nlp`, `#ideas`, `#events` \
 Language: English
 
