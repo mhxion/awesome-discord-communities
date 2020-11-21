@@ -8,7 +8,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
 <!-- omit in toc -->
 ## Contents
 
-- [__How to Navigate__](#how-to-navigate)
+- [How to Navigate](#how-to-navigate)
 - [Programming in General](#programming-in-general)
   - [Support Communities](#support-communities)
   - [Competitive Programming](#competitive-programming)
@@ -62,11 +62,11 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Linux](#linux)
   - [Linux Distributions](#linux-distributions)
   - [Other OS](#other-os)
-- [Server-side](#server-side)
+- [DevOps and System Administration](#devops-and-system-administration)
   - [Data Management](#data-management)
   - [API](#api)
   - [Containers](#containers)
-  - [Server-side Applications](#server-side-applications)
+  - [Server Applications](#server-applications)
 - [Computer Security](#computer-security)
   - [Security Tools](#security-tools)
 - [Blockchain and Cryptocurrency](#blockchain-and-cryptocurrency)
@@ -1177,9 +1177,9 @@ Language: English
 Notable Channels: `#chromeos`, `#chromium`, `#crostini`, `#purchase-advice`, `#dev-mode`, `#enterprise`, `#android`, `#gaming`, `#support`\
 Language: English
 
-## Server-side
+## DevOps and System Administration
 
-Server dwellers, discussions on network management and infrastructure, IT homelab, containers, APIs, Kubernetes and applications that run on them.
+[Continuous development](https://en.wikipedia.org/wiki/DevOps#Toolchains), discussions on network management and infrastructure, IT homelab, containers, APIs, Kubernetes and applications that run on them.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_sysadmin.webp" />
 
@@ -1258,7 +1258,7 @@ Notable Channels: `#general-support`, `#docker-support`, `#heimdall`, `#linux-ch
 Language: English \
 <br />
 
-### Server-side Applications
+### Server Applications
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_plex.webp" />
 
