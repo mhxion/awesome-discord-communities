@@ -108,13 +108,6 @@ Language: English
 Notable Channels: `#javascript`, `#frontend`, `#backend`, `#php`, `#mobile`, `#design`, `#devops`, `#career`, `#code-review`, `#webtopic`, `#desktopic`, `#community-projects`, `#paid-work`\
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/developlace_it.webp" />
-
-[__developlace.it__](https://discord.com/invite/Fprsyxz) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/developlace) \
-Notable Channels: `#projects`, `#web`, `#c_cpp`, `#c_sharp`,`#python`, `#jvm`, `#other`, `#pc_zone`, `#mobile_zone` \
-Language: English, Polish \
-<br />
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/engineerman.webp" />
 
 [__EngineerMan__](https://discord.com/invite/engineerman) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/engineer-man) \
