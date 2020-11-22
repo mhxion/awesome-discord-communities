@@ -1464,7 +1464,7 @@ Language: English, français \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/bevy.webp" />
 
-[__Bevy__](https://discord.com/invite/UXvRHG) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://bevyengine.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bevyengine/) \
+[__Bevy Engine__](https://discord.com/invite/gMUk5Ph) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://bevyengine.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bevyengine/) \
 Notable Channels: `#general`, `#help`, `#code-review`, `#showcase`, `#tutorials`, `#dev-general`, `#assets`, `#audio`, `#documentation`, `#ecs`, `#ui`, `#rendering` \
 Language: English
 <br />
