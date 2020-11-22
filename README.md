@@ -770,7 +770,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nodecg.webp" />
 
-[__NodeCG__](https://discord.com/invite/NNmVz4x) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nodecg.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nodecg) \
+[__NodeCG__](https://discord.com/invite/GJ4r8a8) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nodecg.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nodecg) \
 Notable Channels: `#bundle-dev`, `#core-dev`, `#design`, `#typescript`, `#polymer`, `#vue`, `#react`, `#general`, `#post-your-work`, `#looking-for-dev` \
 Language: English, 日本語
 
