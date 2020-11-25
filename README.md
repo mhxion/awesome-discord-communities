@@ -108,13 +108,6 @@ Language: English
 Notable Channels: `#javascript`, `#frontend`, `#backend`, `#php`, `#mobile`, `#design`, `#devops`, `#career`, `#code-review`, `#webtopic`, `#desktopic`, `#community-projects`, `#paid-work`\
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/developlace_it.webp" />
-
-[__developlace.it__](https://discord.com/invite/Fprsyxz) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/developlace) \
-Notable Channels: `#projects`, `#web`, `#c_cpp`, `#c_sharp`,`#python`, `#jvm`, `#other`, `#pc_zone`, `#mobile_zone` \
-Language: English, Polish \
-<br />
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/engineerman.webp" />
 
 [__EngineerMan__](https://discord.com/invite/engineerman) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/engineer-man) \
@@ -348,12 +341,6 @@ Notable Channels: `#release-branch`, `#development-branch`, `#installation-hassi
 Language: English
 
 ### Hardware
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/electronics_repair_school.webp" />
-
-[__Electronics Repair School__](https://discord.com/invite/6zQWaTN) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCooKQlg-HZ0PFAPc4Ymg3RA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/izy521/Sera-PCMR) \
-Notable Channels: `#projects`, `#tools-and-parts`, `#automative`, `#laptops`, `#phones`, `#tablets`, `#consoles`, `#tv-monitor`, `#batteries`, `#diy-arduino-pi` \
-Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ltt_official.webp" />
 
@@ -777,7 +764,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nodecg.webp" />
 
-[__NodeCG__](https://discord.com/invite/NNmVz4x) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nodecg.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nodecg) \
+[__NodeCG__](https://discord.com/invite/GJ4r8a8) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nodecg.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nodecg) \
 Notable Channels: `#bundle-dev`, `#core-dev`, `#design`, `#typescript`, `#polymer`, `#vue`, `#react`, `#general`, `#post-your-work`, `#looking-for-dev` \
 Language: English, 日本語
 
@@ -1061,7 +1048,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hackintosh_x86.webp" />
 
-[__Hackintosh x86__](https://discord.com/invite/hackintosh) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.osx86.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://git.osx86.io/) \
+[__Hackintosh x86__](https://discord.com/invite/55sDptx) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.hackintoshx86.com/) \
 Notable Channels: `#general-chat`, `#opencore`, `#acpi-ssdt`, `#bios-mods`, `#virtualization`, `#hardware`, `#gaming`, `#efi-database`, `#benchmarks` \
 Language: English
 
@@ -1083,7 +1070,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nix_nest.webp" />
 
-[__*nix nest__](https://discord.gg/shpxu6T) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nixnest) \
+[__*nix nest__](https://discord.com/invite/svhXktFkAG) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nixnest) \
 Notable Channels: `#home`, `#dev-random`, `#support`, `#unixporn`, `#programming`, `#media`, `#hardware`, `#gaming` \
 Language: English \
 <br />
@@ -1306,7 +1293,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cyberseclabs_lounge.webp" />
 
-[__CyberSecLabs Lounge__](https://discord.com/invite/2C9dmtg) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cyberseclabs.co.uk/) \
+[__CyberSecLabs Lounge__](https://discord.com/invite/vy75f7W) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cyberseclabs.co.uk/) \
 Notable Channels: `#support-labs`, `#challenge-labs`, `#ctf`, `#technical-help`, `#red-teaming`, `#networking`, `#cryptography`, `#programming` \
 Language: English
 
@@ -1389,9 +1376,9 @@ Language: English
 ### Currencies
 
 <!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/akroma_official.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cardano_community.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ethergem_egem_and_sfrx.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/groestlcoin.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/metrix_market.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nano.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vertcoin.webp" /> |
-| ---------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| [__Akroma Official__](https://discord.com/invite/KWC8wtT)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://akroma.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/akroma-project/akroma) | [__Cardano<br>Community__](https://discord.com/invite/TUr9RDU)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cardano.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/input-output-hk/cardano-sl) | [__EtherGem <br>/ EGEM & SFRX__](https://discord.com/invite/zav3EkW)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://egem.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/TeamEGEM) | [__Groestlcoin__](https://discord.com/invite/vCKxQBz)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.groestlcoin.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Groestlcoin) | [__Metrix Market__](https://discord.com/invite/5nwrTwJ)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.metrixcoin.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/TheLindaProjectInc) | [__Nano__](https://discord.com/invite/xjMV7j)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nano.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nanocurrency) | [__Vertcoin<br>- Official__](https://discord.com/invite/vertcoin)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vertcoin.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vertcoin-project) |
+| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cardano_community.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ethergem_egem_and_sfrx.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/groestlcoin.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/metrix_market.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nano.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vertcoin.webp" /> |
+| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| [__Cardano<br>Community__](https://discord.com/invite/TUr9RDU)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cardano.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/input-output-hk/cardano-sl) | [__EtherGem <br>/ EGEM & SFRX__](https://discord.com/invite/zav3EkW)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://egem.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/TeamEGEM) | [__Groestlcoin__](https://discord.com/invite/vCKxQBz)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.groestlcoin.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Groestlcoin) | [__Metrix Market__](https://discord.com/invite/5nwrTwJ)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.metrixcoin.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/TheLindaProjectInc) | [__Nano__](https://chat.nano.org/)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nano.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nanocurrency) | [__Vertcoin<br>- Official__](https://discord.com/invite/vertcoin)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vertcoin.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vertcoin-project) |
 
 ## Game Development
 
@@ -1477,7 +1464,7 @@ Language: English, français \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/bevy.webp" />
 
-[__Bevy__](https://discord.com/invite/UXvRHG) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://bevyengine.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bevyengine/) \
+[__Bevy Engine__](https://discord.com/invite/gMUk5Ph) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://bevyengine.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bevyengine/) \
 Notable Channels: `#general`, `#help`, `#code-review`, `#showcase`, `#tutorials`, `#dev-general`, `#assets`, `#audio`, `#documentation`, `#ecs`, `#ui`, `#rendering` \
 Language: English
 <br />
