@@ -486,6 +486,14 @@ Language: English \
 Notable Channels: `#golang`, `#job-market-only`, `#go-art-only`, `#go-news-only`, `#discordgo`, `#disgord`, `#dca`, `#arikawa`\
 Language: English
 
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/sangam14/GopherLabs/master/ic_launcher.png" />
+
+[__Discord GopherLabs__](https://discord.gg/S3GtFvT) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/sangam14/GopherLabs)\
+Notable Channels: `#golang`, `#go-weekly`,  `#podcast-go`,`#go-challanges`, `#blogs`, `#gitgo`, `#concurrency`, `#rank`, `#jobs`\
+Language: English
+
+
 ### Haxe
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/haxe.webp" />
@@ -1287,7 +1295,7 @@ Everything red and blue teams are leaglly allowed to do; securty asssessment, re
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_many_hats_club.webp" />
 
-[__Շђє ๓คภץ ђคՇร Ċ̵͕l̶̀͘u̸̍͝b̵͌͐__](https://discord.gg/infosec) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://themanyhats.club/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/xdfcfc0xa/TMHC-Challenge-Platform) \
+[__Շђє ๓คภץ ђคՇร Ċ̵͕l̶̀͘u̸̍͝b̵͌͐__](https://discord.gg/infosec) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://themanyhats.club/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/xdfcfc0xa/TMHC-Challenge-Platform) \
 Notable Channels: `#infosec-general`, `#technical-chat`, `#student-zone`, `#blue-team-zone`, `#ctf`, `#malware-phishing`, `#cyber-threat-intel`, `#digital-forensics` \
 Language: English
 
