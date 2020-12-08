@@ -95,6 +95,11 @@ If you're familiar with other popular [awesome lists](https://github.com/sindres
 Some Discord counterpart communities to Stack Overflow.
 
 ### Support Communities
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603141344729/PH_xEC8WM.png?w=400&h=400&fit=crop&crop=faces&auto=format&q=60" />
+
+[Lazar's Dev Party](https://discord.gg/huWFZvCEkQ) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nikolovlazar.com/lazars-dev-party) \
+Notable Channels: `#web`, `#react`, `#mobile`, `#angular`, `#tech`, `#ui-design`, `#live-streams`, `#podcasts`\
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.webp" />
 
