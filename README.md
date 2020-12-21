@@ -125,7 +125,7 @@ Language: English
 
 [Top Bots List](https://discord.com/invite/CppuRvB) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://reddit.com/r/topbots) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://top-bots.xyz) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/advancedbravery) \
 Notable Channels: `#welcome`, `#news`, `#main-chat`, `#jobs`, `#javascript`, `#python` \
-Language: English, Russian
+Language: English, Russian \
 <br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programmers_palace.webp" />
