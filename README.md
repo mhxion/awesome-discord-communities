@@ -120,6 +120,13 @@ Language: English
 Notable Channels: `#python exercises`, `#code feedback`, `#collaboration`, `#csharp`,`#java`, `#c and cpp`, `#web`, `#mobile`, `#security`, `#algos and ds`, `#networking`, `#resources`, `#machinelearning` \
 Language: English
 
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://top-bots.xyz/logo.png" />
+
+[Top Bots List](https://discord.com/invite/CppuRvB) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://reddit.com/r/topbots) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://top-bots.xyz) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/advancedbravery) \
+Notable Channels: `#welcome`, `#news`, `#main-chat`, `#jobs`, `#javascript`, `#python` \
+Language: English, Russian
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programmers_palace.webp" />
 
 [__Programmers Palace__](https://discord.com/invite/48Zxcpy) \
