@@ -496,6 +496,12 @@ Language: English
 
 ### Java
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/JavaDiscord.webp" />
+
+[__Java__](https://discord.gg/x65hqE6) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://javadiscord.net) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Java-Discord) \
+Notable Channels: `#help-guidelines`, `#rules`, `#expert-role`, `#self-roles` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_java.webp" />
 
 [__Together Java__](https://discord.gg/hVtnwGd) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Together-Java) \
