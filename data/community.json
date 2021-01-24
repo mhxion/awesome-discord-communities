@@ -1,0 +1,24 @@
+{
+  "name": "Community Name",
+  "invite_code": "code",
+  "official": true,
+  "homepage": "https://example.com",
+  "git": "https://github.com/username/repo",
+  "notable_channels": [
+    "channel-1",
+    "channel-2",
+    "channel-3",
+    "channel-4",
+    "channel-5",
+    "channel-6",
+    "channel-7",
+    "channel-8",
+    "channel-9",
+    "channel-10",
+    "channel-11",
+    "channel-12"
+  ],
+  "language": [
+    "English"
+  ]
+}
