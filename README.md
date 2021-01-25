@@ -214,10 +214,23 @@ Language: English
 
 ### Other Sciences
 
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/biological_sciences.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/chemistry.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/climate_science.webp" /> |
-|----------------------|-------------------|---------------------|
-| [__Biological<br>Sciences__](https://discord.com/invite/QwSdffq)<br>[<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) | [__Chemistry__](https://discord.com/invite/eexdsFw)<br>[<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) | [__Climate<br>Science__](https://discord.com/invite/YXvuN8X)<br>[<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) |
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/biological_sciences.webp" />
+
+[__Biological Sciences__](https://discord.com/invite/QwSdffq) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) \
+Notable Channels: `#biology`, `#questions`, `#resources`, `#molecular-biology`, `#microbiology`, `#anatomy-and-physiology`, `#bioengineering`, `#bioinformatics`, `#ecology`, `#medical-sciences` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/chemistry.webp" />
+
+[__Chemistry__](https://discord.com/invite/eexdsFw) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) \
+Notable Channels: `#highschool-chemistry`, `#general-chemistry`, `#introductory-organic`, `#tech`, `#laboratory`, `#physical-chemistry`, `#inorganic-chemistry`, `#organic-chemistry`, `#biochemistry` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/climate_science.webp" />
+
+[__Climate Science__](https://discord.com/invite/YXvuN8X) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) \
+Notable Channels: `#general`, `#climate-questions`, `#resources`, `#climate-activism`, `#environmental-science`, `#environmental-policy` \
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homework_help.webp" />
 
