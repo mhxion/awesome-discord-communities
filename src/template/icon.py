@@ -2,6 +2,7 @@ import requests
 from io import BytesIO
 from pathlib import Path
 from PIL import Image
+import re
 
 
 class GetIcon:
@@ -13,7 +14,8 @@ class GetIcon:
 
     @staticmethod
     def icon_name(s: str) -> str:
-        return s.replace(' ', '_').lower()
+        form = re.sub(r'[^\w\s.,-]', '', s)        
+        return form.replace(' ', '_').lower()
 
     def save(self, size: int = 512, encode='webp', quality: int = 75):
         icon_name = self.icon_name(self.name)
