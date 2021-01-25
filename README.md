@@ -214,10 +214,23 @@ Language: English
 
 ### Other Sciences
 
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/biological_sciences.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/chemistry.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/climate_science.webp" /> |
-|----------------------|-------------------|---------------------|
-| [__Biological<br>Sciences__](https://discord.com/invite/QwSdffq)<br>[<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) | [__Chemistry__](https://discord.com/invite/eexdsFw)<br>[<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) | [__Climate<br>Science__](https://discord.com/invite/YXvuN8X)<br>[<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) |
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/biological_sciences.webp" />
+
+[__Biological Sciences__](https://discord.com/invite/QwSdffq) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) \
+Notable Channels: `#biology`, `#questions`, `#resources`, `#molecular-biology`, `#microbiology`, `#anatomy-and-physiology`, `#bioengineering`, `#bioinformatics`, `#ecology`, `#medical-sciences` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/chemistry.webp" />
+
+[__Chemistry__](https://discord.com/invite/eexdsFw) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) \
+Notable Channels: `#highschool-chemistry`, `#general-chemistry`, `#introductory-organic`, `#tech`, `#laboratory`, `#physical-chemistry`, `#inorganic-chemistry`, `#organic-chemistry`, `#biochemistry` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/climate_science.webp" />
+
+[__Climate Science__](https://discord.com/invite/YXvuN8X) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) \
+Notable Channels: `#general`, `#climate-questions`, `#resources`, `#climate-activism`, `#environmental-science`, `#environmental-policy` \
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homework_help.webp" />
 
@@ -675,7 +688,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vapor.webp" />
 
 [__VAPOR__](https://discord.com/invite/vapor) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vapor.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vapor/vapor) \
-Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, __[`so much more`](badges.md#so-much-more)__` \
+Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English, čeština, español, русский, Deutsch, 中文频道, Nederlands, 日本語, français, italiano, українська-мова, 한국어
 
 ### Typescript
@@ -1191,7 +1204,8 @@ Language: English
 
 [__Eddie Jaoude Community__](https://discord.com/invite/jZQs6Wu) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](http://eddiejaoudecommunity.github.io) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](http://github.com/EddieJaoudeCommunity) \
 Notable Channels: `#opensource`, `#first-timers`, `#help`, `#livestream`, `#hackathons`, `#careers` \
-Language: English
+Language: English \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homelab.webp" />
 
@@ -1375,10 +1389,35 @@ Language: English
 
 ### Currencies
 
-<!--lint ignore table-pipe-alignment-->
-| <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cardano_community.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ethergem_egem_and_sfrx.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/groestlcoin.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/metrix_market.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nano.webp" /> | <img align="centre" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vertcoin.webp" /> |
-| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| [__Cardano<br>Community__](https://discord.com/invite/TUr9RDU)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cardano.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/input-output-hk/cardano-sl) | [__EtherGem <br>/ EGEM & SFRX__](https://discord.com/invite/zav3EkW)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://egem.io/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/TeamEGEM) | [__Groestlcoin__](https://discord.com/invite/vCKxQBz)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.groestlcoin.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Groestlcoin) | [__Metrix Market__](https://discord.com/invite/5nwrTwJ)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.metrixcoin.com/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/TheLindaProjectInc) | [__Nano__](https://chat.nano.org/)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nano.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nanocurrency) | [__Vertcoin<br>- Official__](https://discord.com/invite/vertcoin)<br>[<img align="center" height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img align="center" height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vertcoin.org/) [<img align="center" height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vertcoin-project) |
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cardano_community.webp" />
+
+[__Cardano Community__](https://discord.com/invite/TUr9RDU) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cardano.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/input-output-hk/cardano-sl) \
+Notable Channels: `#general`, `#learning`, `#trading`, `#yoroi-general`, `#yoroi-support`, `#daedalus-general`, `#daedalus-support`, `#dev-general`, `#cip` \
+Language: English, 日本語, 中文, 한국어, Deutsch, Nedarlands, português, español, Czech
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ethergem_egem_and_sfrx.webp" />
+
+[__EtherGem / EGEM & SFRX__](https://discord.com/invite/zav3EkW) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://egem.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/TeamEGEM) \
+Notable Channels: `#egem-chat`, `#sfrx-chat`, `#mn-talk`, `#docker-mn-talk`, `#otc-market`, `#trading-talk`, `#mining`, `#zero-coin`, `#dev-talks`, `#bounties` \
+Language: English, português, 中文, français, Deutsch, русский, 日本語, 한국어, español
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/metrix_market.webp" />
+
+[__Metrix Market__](https://discord.com/invite/5nwrTwJ) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.metrixcoin.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/TheLindaProjectInc) \
+Notable Channels: `#metrix-discussion`, `#day_trading` \
+Language: English, Nederlands, עִבְרִית‎, 日本語, 中文, 한국어, Deutsch, português, español français, italiano, 한국어, русский, Türkçe, język polski
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nano.webp" />
+
+[__Nano__](https://discord.com/invite/UEezG6U) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nano.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nanocurrency) \
+Notable Channels: `#general`, `#documentation`, `#development`, `#decentralization`, `#graphic-design`, `#business`, `#events`, `#integration`, `#protocol`, `#roadmap`, `#support` \
+Language: English, español, русский, bahasa Indonesia, italiano, Deutsch, 中文, français, português, Türkçe, Tiếng Việt
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/vertcoin.webp" />
+
+[__Vertcoin - Official__](https://discord.com/invite/vertcoin) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vertcoin.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vertcoin-project) \
+Notable Channels: `#general`, `#trading`, `#marketing`, `#development`, `#mining-help`, `#mining-rig-discussion` \
+Language: English, 한국어, русский
 
 ## Game Development
 
