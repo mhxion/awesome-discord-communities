@@ -28,7 +28,6 @@ i = icon.GetIcon(icon_path='./images/server_icons', **parsed.icon())
 t = generator.GenerateTemplate(**parsed.community())
 print(f'''{t.format_icon()}
 
-__[{t.format_name()}]__({t.format_invite()}){t.format_official()}{t.format_reddit()}{t.format_homepage()}{t.format_git()} \\
+[__{t.format_name()}__]({t.format_invite()}){t.format_official()}{t.format_reddit()}{t.format_homepage()}{t.format_git()} \\
 Notable Channels: {t.format_channels()} \\
-Language: {t.format_language()} \\
-{t.padding()}''')
+Language: {t.format_language()}{t.padding()}''')
