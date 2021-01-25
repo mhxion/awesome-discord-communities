@@ -72,19 +72,20 @@ class GenerateTemplate:
         return f''
 
     def format_channels(self):
-        channels = ["#" + _ for _ in self.channels]
+        channels = ['#' + _ for _ in self.channels]
         c = Channels(channels)
         initial_length = c.length()
         if initial_length >= c.EXT_CHAR_LIMIT:
-            c.truncate(c.HIGHEST_CHAR_LIMIT - 15)
+            c.truncate(c.HIGHEST_CHAR_LIMIT - 15)  # 15 is the length of "so much more"
             channels.append('**[`so much more`](badges.md#so-much-more)**')
         else:
             c.truncate()
-        return ', '.join(channels)
+        return ', '.join([f'`{_}`' for _ in channels])
 
     def format_language(self):
         languages = ', '.join(self.language) if isinstance(self.language, list) else self.language
         return languages
 
     def padding(self):
-        return f'<br />' if len(self.format_channels()) <= Channels.LOWEST_CHAR_LIMIT else f''
+        return f' \\\n<br />' if len(self.format_channels()) - self.format_channels().count(
+            '`') <= Channels.LOWEST_CHAR_LIMIT else f''
