@@ -40,7 +40,15 @@ Language: English, Deutsch, 日本語
 
 - If you're unsure about whether a badge applies to your community, leave it excluded. After PR submission, a reviewer will let you know about missing badges, or ask the reviewer.
 
-✅ `Notable Channels` contains the most important channels, no off-topic channels, and does not necessarily take up too much space
+✅ `Notable Channels` contain the most important and active channels, no off-topic or informational channels, and does not necessarily take up too much space.
+
+- `#announcements`, `#rules`, `#roles`, etc., are informational channels and common across all communities, therefore they shouldn't be included.
+- `#general`, `#chat`, `#tech-talk`, etc., casual conversation channels can be included if they aren't meant for off-topic discussions.
+- Support channels: `#help`, `#support`, `#beginners`, etc., should be included. If there are multiple support channels with character suffix/prefix, e.g.: `#help-1`, `#help-2`, `#help-3` -- instead of including them all, just enter `#help`. But if the suffixes present clear distinction between their topics, i.e., `#help-software`, `#help-hardware` -- _software_ and _hardware_ represent two different topics, then both of them can be included.
+- Channels that have barely any activity shouldn't be included, even if they're on-topic. E.g., if `#help-software` has regular activity, but `#help-hardware` has little to no activity, then only `#help-software` should be included.
+- Off-topic channels: `#off-topic`, `#water-cooler`, `#random`, `#memes`, etc., shouldn't be included.
+- Moderation channels, bot channels, feedback channels shouldn't be included.
+- Events or events discussion channels can be included.
 
 ✅ `Language` only contains spoken languages that the community has to offer
 
