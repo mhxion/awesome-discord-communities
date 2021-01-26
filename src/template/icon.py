@@ -19,7 +19,6 @@ class GetIcon:
 
     def save(self, size: int = 512, encode='webp', quality: int = 75):
         icon_name = self.icon_name(self.name)
-        # name, guild_id, guild_icon = self.name(self.parsed["name"]), self.parsed["unique"], self.parsed["icon_id"]
         icon_url = f'https://cdn.discordapp.com/icons/{self.guild_id}/{self.guild_icon}.png?size={size}'
         with requests.get(icon_url, stream=True) as r:
             im = Image.open(BytesIO(r.content))
