@@ -30,7 +30,11 @@ Language: English, Deutsch, 日本語
 
 ✅ Community name does not contain any emoji (discouraged)
 
-✅ Invite link is permanent, generated from Discord platform itself, not a third-party domain
+✅ Invite link is permanent, generated from Discord platform itself, or URL whose domain is owned by you that eventually with or without captcha verification redirects to Discord invite page. No third-party URL domain allowed that isn't owned by your community, this includes link shorteners.
+
+- Allowed: `https://discord.com/invite/123abc` by community A
+- Allowed: `https://b-community.com/discord-invite` by community B when B owns `b-community.com` domain
+- Not Allowed: `https://discord-links.com/community-c-invite` by community C when C doesn't own `discord-links.com` domain
 
 ✅ [Badges](badges.md) are properly placed and aligned
 
