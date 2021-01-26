@@ -1415,7 +1415,7 @@ Language: English, Nederlands, עִבְרִית‎, 日本語, 中文, 한국어
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nano.webp" />
 
-[__Nano__](https://discord.com/invite/UEezG6U) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nano.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nanocurrency) \
+[__Nano__](https://chat.nano.org/) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nano.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nanocurrency) \
 Notable Channels: `#general`, `#documentation`, `#development`, `#decentralization`, `#graphic-design`, `#business`, `#events`, `#integration`, `#protocol`, `#roadmap`, `#support` \
 Language: English, español, русский, bahasa Indonesia, italiano, Deutsch, 中文, français, português, Türkçe, Tiếng Việt
 
