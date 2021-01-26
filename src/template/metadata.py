@@ -4,7 +4,7 @@ from urllib3.util.retry import Retry
 
 
 class DiscordCommunityMetadata:
-    def __init__(self, invite_code: str, api_version: int = 8, protocol: str = 'https', sleep: int = 2):
+    def __init__(self, invite_code: str, api_version: int = 8, protocol: str = 'https', sleep: int = 1):
         self.invite_code = invite_code
         self.sleep = sleep
         self.api_version = api_version
@@ -20,9 +20,13 @@ class DiscordCommunityMetadata:
 
     def parse_data(self):
         data = self.request().json()
-        status = data["code"] == self.invite_code or self.invite_code.lower()
-        if status:
-            data_captured = {"invite_code": data["code"], "unique": data["guild"]["id"],
-                             "icon_id": data["guild"]["icon"]}
-            return data_captured
-        return None
+        try:
+            status = data["code"] == self.invite_code or data["code"] == self.invite_code.lower()
+            if status:
+                data_captured = {"invite_code": data["code"], "unique": data["guild"]["id"],
+                                 "icon_id": data["guild"]["icon"]}
+                return data_captured
+            return None
+
+        except KeyError:
+            raise requests.exceptions.Timeout(f'Possible rate limit. Reply: {self.invite_code} : {data}')
