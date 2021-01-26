@@ -50,7 +50,11 @@ Language: English, Deutsch, 日本語
 - Moderation channels, bot channels, feedback channels shouldn't be included.
 - Events or events discussion channels can be included.
 
-✅ `Language` only contains spoken languages that the community has to offer
+✅ `Language` only contains spoken written languages that the community has active channels for
+- English: If only English language is encouraged
+- English, Deutsch, español: If there are active channels for all three languages
+- Deutsch: If only German language is encouraged
+- Don't include languages that has little to no conversation activity in any channel
 
 ✅ Moderation team is regularly active
 
