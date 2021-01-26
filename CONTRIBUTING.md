@@ -38,6 +38,8 @@ Language: English, Deutsch, 日本語
 
 ✅ [Badges](badges.md) are properly placed and aligned
 
+- If you're unsure about whether a badge applies to your community, leave it excluded. After PR submission, a reviewer will let you know about missing badges, or ask the reviewer.
+
 ✅ `Notable Channels` contains the most important channels, no off-topic channels, and does not necessarily take up too much space
 
 ✅ `Language` only contains spoken languages that the community has to offer
