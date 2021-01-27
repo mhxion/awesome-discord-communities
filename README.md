@@ -690,6 +690,12 @@ Language: English
 Notable Channels: `#beginners`, `#contribute`, `#community-team`, `#rustbridge`, `#design`, `#compiler`, `#wg-grammar`, `#wg-async-foundation`, `#type-theory`, `#wg-wasm`, `#wg-gamedev`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tokio.webp" />
+
+[__Tokio__](https://discord.com/invite/tokio) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://tokio.rs/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/tokio-rs) \
+Notable Channels: `#tokio-users`, `#tokio-dev`, `#tokio-docs`, `#ecosystem`, `#butte`, `#hyper`, `#h3`, `#kube`, `#mio`, `#prost`, `#reqwest`, `#tonic`, `#tower`, `#tracing`, `#warp`, `#loom`, `#rdbc`, `#metrics` \
+Language: English
+
 ### Swift
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/swift.webp" />
