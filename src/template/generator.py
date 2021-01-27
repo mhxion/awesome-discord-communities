@@ -3,7 +3,7 @@ from . import icon
 
 
 class Channels:
-    LOWEST_CHAR_LIMIT = 75
+    LOWEST_CHAR_LIMIT = 91
     HIGHEST_CHAR_LIMIT = 166
     EXT_CHAR_LIMIT = 260
 
