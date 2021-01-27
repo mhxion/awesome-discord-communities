@@ -985,6 +985,12 @@ All about design systems, graphical illustrations, user interface and user exper
 Notable Channels: `#work-in-progress-critique`, `#photoshop`, `#premiere-pro`, `#after-effects`, `#illustrator`, `#animate`, `#indesign`, `#xd`, `#lightroom`, `#other-programs` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/lospec.webp" />
+
+[__Lospec__](https://Lospec.com/Discord) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://lospec.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/lospec) \
+Notable Channels: `#chat`, `#feedback`, `#collaboration`, `#fydo-tiles`, `#pixel-art`, `#palettes`, `#voxel-art`, `#low-poly-3d`, `#textmode`, `#chpitune`, `#programming`, `#in-game-builds`, `#events`, `#jobs` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pixel_art.webp" />
 
 [__Pixel Art__](https://discord.com/invite/HPdmz4P) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://twitter.com/PixelArtDiscord/) \
