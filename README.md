@@ -515,6 +515,13 @@ Language: English
 
 ### Java
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/JavaDiscord.webp" />
+
+[__Java__](https://join.javadiscord.net) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://javadiscord.net) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Java-Discord) \
+Notable Channels: `#question-of-the-week`, `#share-knowledge`, `#community-jam`, `#resources` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_java.webp" />
 
 [__Together Java__](https://discord.gg/hVtnwGd) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Together-Java) \
