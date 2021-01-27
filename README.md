@@ -985,6 +985,12 @@ All about design systems, graphical illustrations, user interface and user exper
 Notable Channels: `#work-in-progress-critique`, `#photoshop`, `#premiere-pro`, `#after-effects`, `#illustrator`, `#animate`, `#indesign`, `#xd`, `#lightroom`, `#other-programs` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pixel_art.webp" />
+
+[__Pixel Art__](https://discord.com/invite/HPdmz4P) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://twitter.com/PixelArtDiscord/) \
+Notable Channels: `#pixelart`, `#gamedev`, `#pixel-challenges`, `#featured-gallery`, `#art-gallery`, `#gallery-discussion`, `#pixelart-feedback`, `#animation-feedback`, `#tutorials` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_design_collective.webp" />
 
 [__The Design Collective__](https://discord.com/invite/zM5pgrc) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://medium.com/the-design-collective) \
