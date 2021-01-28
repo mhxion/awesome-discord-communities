@@ -705,6 +705,12 @@ Language: English
 
 ### Scala
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/scala.webp" />
+
+[__Scala__](https://discord.com/invite/scala) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.scala-lang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/scala) \
+Notable Channels: `#scala-users`, `#scala-contributors`, `#scala-js`, `#scala-native`, `#tooling`, `#events`, `#jobs`, `#akka-users` \
+Language: English
+
 ### Swift
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/swift.webp" />
