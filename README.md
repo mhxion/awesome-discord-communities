@@ -537,6 +537,12 @@ Notable Channels: `#general`, `#showcase`, `#help`, `#dev`, `#rust-libs` \
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/electron.webp" />
+
+[__electron__](https://discord.com/invite/electron) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://electronjs.org) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/electron) \
+Notable Channels: `#general`, `#help`, `#electron-builder`, `#electron-forge`, `#electron-packager`, `#fiddle`, `#security`, `#reactjs`, `#vuejs`, `#jobs`, `#projects` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/eslint.webp" />
 
 [__ESLint__](https://discord.com/invite/8szcydm) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://eslint.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/eslint) \
