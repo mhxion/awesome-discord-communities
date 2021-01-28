@@ -1078,10 +1078,10 @@ Notable Channels: `#releases`, `#general`, `#ios`, `#ipados`, `#macos`, `#watcho
 Language: English \
 <br />
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/macos_on_unsupported_macs.webp" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/unsupported_macs.webp" />
 
-[__macOS on Unsupported Macs__](https://discord.com/invite/XbbWAsE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://osxhackers.net) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/os-x-hackers) \
-Notable Channels: `#catwoman-patchers`, `#dosdude1-patchers`, `#parrotgeek1-patchers`, `#rmc-patchers`, `#big-sur`, `#catalina`, `#mojave`, `#high-sieraa`, `#sierra`, `#el-capitan`, `#yosemite`, `#mavericks` \
+[__Unsupported Macs__](https://discord.com/invite/XbbWAsE) \
+Notable Channels: `#barrykn-patcher`, `#bensova-patcher`, `#dosdude1-patchers`, `#big-sur`, `#catalina`, `#mojave`, `#high-sieraa`, `#sierra`, `#el-capitan`, `#yosemite`, `#mavericks`, `#mountain-lion` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_jailbreak.webp" />
