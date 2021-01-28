@@ -909,6 +909,13 @@ Notable Channels: `#ream`, `#saber`, `#poi`, `#cac`, `#bili`, `#sao`, `#codepan`
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/solidjs.webp" />
+
+[__SolidJS__](https://discord.com/invite/solidjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://solidjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ryansolid/solid) \
+Notable Channels: `#help`, `#reactivity`, `#ssr`, `#tooling`, `#typescript`, `#articles`, `#jobs`, `#showcase` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/storybook.webp" />
 
 [__storybook__](https://discord.gg/UUt2PJb) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://storybook.js.org/community/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/storybookjs/) \
