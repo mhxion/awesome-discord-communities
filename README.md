@@ -492,8 +492,8 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/elixir_language.webp" />
 
-[__Elixir Language__](https://discord.com/invite/elixir)\
-Notable Channels: `#elixir`, `#erlang`, `#nerves`, `#phoenix`, `#absinthe`, `#alchemy`, `#frontend`\
+[__Elixir Language__](https://discord.com/invite/elixir) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://elixir-lang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/elixir-lang) \
+Notable Channels: `#elixir`, `#erlang`, `#ecto`, `#nerves`, `#phoenix`, `#absinthe`, `#alchemy`, `#frontend`, `#jobs` \
 Language: English \
 <br />
 
