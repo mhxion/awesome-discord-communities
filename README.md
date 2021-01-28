@@ -996,6 +996,13 @@ Notable Channels: `#general`, `#design` \
 Language: English \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gitea.webp" />
+
+[__Gitea__](https://discord.com/invite/gitea) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://gitea.io) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/go-gitea) \
+Notable Channels: `#configuration`, `#docker`, `#drone-integration`, `#reverse-proxies`, `#develop`, `#helm-chart`, `#tea` \
+Language: English, Deutsch, português, 中文, français, español, Nederlands, русский, Czech \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/jetbrains_community.webp" />
 
 [__JetBrains Community__](https://discord.com/invite/yBQKN5b) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://jetbrains-community.github.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/JetBrains-Community) \
