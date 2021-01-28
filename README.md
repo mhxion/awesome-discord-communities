@@ -42,6 +42,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Swift](#swift)
   - [Typescript](#typescript)
   - [V](#v)
