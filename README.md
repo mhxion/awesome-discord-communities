@@ -1466,6 +1466,12 @@ Language: English
 Notable Channels: `#general`, `#light-client`, `#abigen`, `#clef`, `#puppeth`, `#rinkeboy`, `#progpow`, `#firefly`, `#devp2p`, `#mobile` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/lbry_foundation.webp" />
+
+[__LBRY Foundation__](https://discord.com/invite/Z3bERWA) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://lbry.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/lbryio/) \
+Notable Channels: `#general`, `#ideas-and-feedback`, `#content`, `#help` \
+Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano, português, 日 本語, français, español, Türkçe, Nederlands, русский, हिन्दी, বাংলা, Czech, bahasa Indonesia, Pilipino
+
 ### Currencies
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cardano_community.webp" />
