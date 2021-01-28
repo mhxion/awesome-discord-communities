@@ -816,6 +816,12 @@ Language: English \
 
 ### React.js
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/blitz_js.webp" />
+
+[__Blitz.js__](https://discord.com/invite/epMSc7Mpvt) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://blitzjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/blitz-js) \
+Notable Channels: `#ideas`, `#help-blitz`, `#help-react`, `#help-prisma`, `#help-typescript`, `#blitz-content`, `#blitz-libraries`, `#built-with-blitz`, `#dev-general` \
+Language: English, 中文, español
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gatsby.webp" />
 
 [__Gatsby__](https://discord.gg/gatsby) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.gatsbyjs.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://www.gatsbyjs.org) \
