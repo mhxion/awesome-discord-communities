@@ -54,6 +54,9 @@ class GenerateTemplate:
 
     def format_official(self):
         if self.official:
+            if (self.official and not self.homepage) and (self.official and not self.git):
+                raise ValueError(
+                    'An official community must have a homepage or Git repository that claims its ownership')
             return f' [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">]' \
                    f'(badges.md#official-identification-badge)'
         return f''
@@ -62,8 +65,6 @@ class GenerateTemplate:
         if self.homepage:
             return f' [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">]' \
                    f'({self.homepage})'
-        elif self.official and not self.homepage:
-            raise ValueError('An official community must have a homepage that claims its ownership')
         return f''
 
     def format_git(self):
