@@ -703,6 +703,8 @@ Language: English
 Notable Channels: `#tokio-users`, `#tokio-dev`, `#tokio-docs`, `#ecosystem`, `#butte`, `#hyper`, `#h3`, `#kube`, `#mio`, `#prost`, `#reqwest`, `#tonic`, `#tower`, `#tracing`, `#warp`, `#loom`, `#rdbc`, `#metrics` \
 Language: English
 
+### Scala
+
 ### Swift
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/swift.webp" />
