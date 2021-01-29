@@ -27,16 +27,17 @@ class Content:
         self.user = data.user()
         self.server = data.server()
 
-    def community(self):
+    def community(self) -> dict:
         d = {}
         # TODO: For compatibility reasons. For the future: d = d | x
         d.update(self.user)
+        d["name"] = self.server["name"] if not d["name"] else d["name"]
         d["invite_code"] = self.server["invite_code"]
         return d
 
-    def icon(self):
+    def icon(self) -> dict:
         d = {}
         d.update(self.server)
-        d["name"] = self.user["name"]
+        d["name"] = self.community().get("name")
         d.pop("invite_code")
         return d
