@@ -52,6 +52,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Node.js](#nodejs)
   - [React.js](#reactjs)
   - [Vue.js](#vuejs)
+  - [WebAssembly Frameworks](#webassembly-frameworks)
   - [Web Libraries](#web-libraries)
   - [WordPress](#wordpress)
 - [Development Environments](#development-environments)
@@ -766,6 +767,8 @@ Language: English \
 Notable Channels: `#general`, `#beginners`, `#cg`, `#jobs`, `#events`, `#summit`, `#wasm`, `#wasi`, `#web`, `#standalone`, `#generic`, `#emscripten`, `#javascript`, `#rust`, `#go` \
 Language: English
 
+[WebAssembly Frameworks↴](#webassembly-frameworks)
+
 ## Web Development
 
 The back-end of web, from single static page to complex web applications; usage of diverse frameworks, modules, linters, components, package managers, builders, Progressive Web Apps (PWA), everything that fuels the modern web.
@@ -914,6 +917,8 @@ Language: English
 [__Vuetify__](https://discord.com/invite/s93b7Fv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vuetifyjs.com/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vuetifyjs) \
 Notable Channels: `#help`, `#beginner-questions`, `#bug-reporting`, `#updating-versions`, `#tooling`, `#testing`, `#nuxt`, `#premium-theme-support`, `#women-who-vuetify`, `#frontend` \
 Language: English, Deutsch, français, español, 日本語, 한국어, português, polski, русский
+
+### WebAssembly Frameworks
 
 ### Web Libraries
 
