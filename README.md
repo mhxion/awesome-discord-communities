@@ -920,6 +920,13 @@ Language: English, Deutsch, français, español, 日本語, 한국어, portuguê
 
 ### WebAssembly Frameworks
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/seed_rs.webp" />
+
+[__seed-rs__](https://discord.com/invite/JHHcHp5) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://seed-rs.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/seed-rs) \
+Notable Channels: `#app-architecture`, `#hooks-and-style`, `#devel`, `#support`, `#showcase`, `#documentation`, `#jobs` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/yew.webp" />
 
 [__Yew__](https://discord.com/invite/VQck8X4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://yew.rs) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/yewstack) \
