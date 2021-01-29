@@ -1316,6 +1316,13 @@ Language: English
 Notable Channels: `#support`, `#maintainers`, `#account`, `#users`, `#database`, `#storage`, `#web`, `#flutter`, `#react-native`, `#ios`, `#android`, `#servers`, `#unity`, `#electron` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/disease_sh.webp" />
+
+[__disease.sh__](https://discord.com/invite/uypdG2h) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://disease.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/disease-sh) \
+Notable Channels: `#showcase`, `#feedback-suggestions`, `#commands`, `#api-support`, `#public-development` \
+Language: English \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hasurahq.webp" />
 
 [__HasuraHQ__](https://discord.com/invite/hasura) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://hasura.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/hasura/graphql-engine) \
