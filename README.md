@@ -72,6 +72,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Security Tools](#security-tools)
 - [Blockchain and Cryptocurrency](#blockchain-and-cryptocurrency)
   - [Currencies](#currencies)
+- [Simulation](#simulation)
 - [Game Development](#game-development)
   - [Game Design](#game-design)
   - [Game Engines](#game-engines)
@@ -1518,6 +1519,10 @@ Language: English, español, русский, bahasa Indonesia, italiano, Deutsch
 [__Vertcoin - Official__](https://discord.com/invite/vertcoin) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vertcoin.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vertcoin-project) \
 Notable Channels: `#general`, `#trading`, `#marketing`, `#development`, `#mining-help`, `#mining-rig-discussion` \
 Language: English, 한국어, русский
+
+## Simulation
+
+Computationally model natural or supernatural phenomena using the rigorous laws of physics and mathematics in your favorite application environment.
 
 ## Game Development
 
