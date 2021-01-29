@@ -920,6 +920,12 @@ Language: English, Deutsch, français, español, 日本語, 한국어, portuguê
 
 ### WebAssembly Frameworks
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/yew.webp" />
+
+[__Yew__](https://discord.com/invite/VQck8X4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://yew.rs) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/yewstack) \
+Notable Channels: `#development`, `#support`, `#showcase`, `#fetch`, `#functional`, `#router`, `#ssr`, `#gloo`, `#malvolio`, `#trunk`, `#ybc`, `#yewprint`, `#yew-state`, `#yew_styles` \
+Language: English, 中文
+
 ### Web Libraries
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/docsify.webp" />
