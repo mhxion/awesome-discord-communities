@@ -1524,6 +1524,13 @@ Notable Channels: `#3blue1brown`, `#manim-help`, `#python-help`, `#math-discussi
 Language: English, español, português, français, Deutsch, русский \
 <br />
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/dimforge.webp" />
+
+[__dimforge__](https://discord.com/invite/vt9DJSW) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.dimforge.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/dimforge) \
+Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `#nalgebra`, `#simba`, `#nphysics`, `#simba` \
+Language: English \
+<br />
+
 ## Game Development
 
 Making of games, how to rasterize or real time ray tracing, the complexities behind each object movement, everything before publishing in the marketplace.
