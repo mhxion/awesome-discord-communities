@@ -200,13 +200,6 @@ Language: English
 
 ### Mathematics
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/manim.webp" />
-
-[__Manim__](https://discord.com/invite/mMRrZQW) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.manim.community) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ManimCommunity) \
-Notable Channels: `#3blue1brown`, `#manim-help`, `#python-help`, `#math-discussion`, `#manim-dev`, `#projects`, `#docs` \
-Language: English, español, português, français, Deutsch, русский \
-<br />
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/mathematics.webp" />
 
 [__Mathematics__](https://discord.com/invite/BacbVax) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/)\
@@ -1523,6 +1516,13 @@ Language: English, 한국어, русский
 ## Simulation
 
 Computationally model natural or supernatural phenomena using the rigorous laws of physics and mathematics in your favorite application environment.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/manim.webp" />
+
+[__Manim__](https://discord.com/invite/mMRrZQW) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.manim.community) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ManimCommunity) \
+Notable Channels: `#3blue1brown`, `#manim-help`, `#python-help`, `#math-discussion`, `#manim-dev`, `#projects`, `#docs` \
+Language: English, español, português, français, Deutsch, русский \
+<br />
 
 ## Game Development
 
