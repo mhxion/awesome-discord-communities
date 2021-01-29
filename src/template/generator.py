@@ -88,5 +88,6 @@ class GenerateTemplate:
         return languages
 
     def padding(self):
-        return f' \\\n<br />' if len(self.format_channels()) - self.format_channels().count(
-            '`') <= Channels.LOWEST_CHAR_LIMIT else f''
+        channel_limit = len(self.format_channels()) - self.format_channels().count('`') <= Channels.LOWEST_CHAR_LIMIT
+        language_limit = len(self.format_language()) <= Channels.LOWEST_CHAR_LIMIT
+        return f' \\\n<br />' if channel_limit and language_limit else f''
