@@ -629,13 +629,6 @@ Language: English \
 
 ### Python
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fastapi.webp" />
-
-[__FastAPI__](https://discord.com/invite/VQjSZaeJmf) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://fastapi.tiangolo.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/tiangolo/fastapi) \
-Notable Channels: `#discussion`, `#documentation`, `#advanced-questions`, `#articles-videos-podcasts`, `#showcase` \
-Language: English, español, 中文, русский, português, italiano, Türkçe, українська мова \
-<br />
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/microsoft-python.webp" />
 
 [__microsoft-python__](https://discord.com/invite/b8YJQPx) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://twitter.com/pythonvscode) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/microsoft/vscode-python) \
@@ -786,6 +779,13 @@ Language: English
 [__emberjs__](https://discord.gg/emberjs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://emberjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/emberjs) \
 Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English, français, Deutsch, português, pусский, español
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fastapi.webp" />
+
+[__FastAPI__](https://discord.com/invite/VQjSZaeJmf) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://fastapi.tiangolo.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/tiangolo/fastapi) \
+Notable Channels: `#discussion`, `#documentation`, `#advanced-questions`, `#articles-videos-podcasts`, `#showcase` \
+Language: English, español, 中文, русский, português, italiano, Türkçe, українська мова \
+<br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fomantic-ui.webp" />
 
