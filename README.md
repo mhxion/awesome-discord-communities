@@ -95,6 +95,8 @@ If you're familiar with other popular [awesome lists](https://github.com/sindres
 
 ## Programming in General
 
+<a href="#contents"><img align="right" width="15" height="15" src="https://bit.ly/382Vmvi" alt="Back to top" /></a>
+
 Some Discord counterpart communities to Stack Overflow.
 
 ### Support Communities
