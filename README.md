@@ -95,6 +95,8 @@ If you're familiar with other popular [awesome lists](https://github.com/sindres
 
 ## Programming in General
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 Some Discord counterpart communities to Stack Overflow.
 
 ### Support Communities
@@ -183,6 +185,8 @@ Language: English
 
 ## Art of Computer Science
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 Discussions on the concepts behind modern, and classical computing and its kin.
 
 ### Computer Science
@@ -248,6 +252,8 @@ Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#envir
 Language: English
 
 ## Electricals
+
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
 
 Discussions on bare-bones circuit boards, microprocessors, and bleeding edge hardware.
 
@@ -384,6 +390,8 @@ Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming
 Language: English
 
 ## Programming Languages
+
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
 
 Programming languages used in embedded systems, web frameworks, automation and mobile apps.
 
@@ -758,6 +766,8 @@ Language: English
 
 ## Web Development
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 The back-end of web, from single static page to complex web applications; usage of diverse frameworks, modules, linters, components, package managers, builders, Progressive Web Apps (PWA), everything that fuels the modern web.
 
 ### Web Frameworks
@@ -994,6 +1004,8 @@ Language: English
 
 ## Development Environments
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 Sketchbooks for software engineers; IDEs, text editors, modular editors, GUI terminals, emulators, or maybe a development utility so complex that can't be described in simple words?
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/blink.webp" />
@@ -1045,6 +1057,8 @@ Language: English \
 
 ## Design and Illustrations
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 All about design systems, graphical illustrations, user interface and user experience.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adobe_systems_community.webp" />
@@ -1078,6 +1092,8 @@ Notable Channels: `#the-spotlight`, `#discussions`, `#critique`, `#showcase`, `#
 Language: English
 
 ## Operating Systems
+
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
 
 The underlying kernels that are responsible for managing application processes.
 
@@ -1278,6 +1294,8 @@ Language: English
 
 ## DevOps and System Administration
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 [Continuous development](https://en.wikipedia.org/wiki/DevOps#Toolchains), discussions on network management and infrastructure, IT homelab, containers, APIs, Kubernetes and applications that run on them.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_sysadmin.webp" />
@@ -1403,6 +1421,8 @@ Language: English \
 
 ## Computer Security
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 Everything red and blue teams are leaglly allowed to do; securty asssessment, reverse engineering, loopholes in networks, vulnerability research and so on.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_many_hats_club.webp" />
@@ -1479,6 +1499,8 @@ Language: English \
 
 ## Blockchain and Cryptocurrency
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 The open-source development of cryptocurrencies and applications of blockchain.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cryptodevs.webp" />
@@ -1533,6 +1555,8 @@ Language: English, 한국어, русский
 
 ## Simulation
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 Computationally model natural or supernatural phenomena using the rigorous laws of physics and mathematics in your favorite application environment.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/manim.webp" />
@@ -1550,6 +1574,8 @@ Language: English \
 <br />
 
 ## Game Development
+
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
 
 Making of games, how to rasterize or real time ray tracing, the complexities behind each object movement, everything before publishing in the marketplace.
 
@@ -1791,6 +1817,8 @@ Language: English
 
 ## Virtual Reality
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 Developing for virtual, augmented, and mixed reality; the head-mounted displays that stimulate our perception of a whole new world. The applications of VR are endless.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/project_north_star.webp" />
@@ -1812,6 +1840,8 @@ Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#
 Language: English
 
 ## Machine Learning
+
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
 
 Data manupulation and visualization, machine learning frameworks and artificial intelligence.
 
@@ -1870,6 +1900,8 @@ Language: English
 
 ## Career
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 Discussions on interview challenges, resume reviews, job opportunities in the field of programming.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cs_career_hackers.webp" />
@@ -1880,11 +1912,15 @@ Language: English
 
 ## Discord Development
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 All the utilities needed in your tool bag to build a Discord bot or automation through their APIs. However, this list
 is quite long and diverse that it calls for its own awesome list. You can read this [official wiki](https://www.reddit.com/r/discordapp/wiki/developers)
 about the notable development kit.
 
 ## Attribution
+
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
 
 Badge icons are made by [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
 
