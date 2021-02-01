@@ -1920,6 +1920,8 @@ about the notable development kit.
 
 ## Attribution
 
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
+
 Badge icons are made by [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
 
 To attribute this awesome list (as restricted by the license) see [how to attribute](FAQ.md#FAQ.md#how-to-properly-attribute-to-compliment-the-license-cc-by-40).
