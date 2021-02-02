@@ -727,7 +727,7 @@ Language: English
 
 [__VAPOR__](https://discord.com/invite/vapor) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://vapor.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vapor/vapor) \
 Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, __[`so much more`](badges.md#so-much-more)__ \
-Language: English, čeština, español, русский, Deutsch, 中文频道, Nederlands, 日本語, français, italiano, українська-мова, 한국어
+Language: English, čeština, español, русский, Deutsch, 中文频道, Nederlands, 日本語, français, italiano, українська, 한국어
 
 ### Typescript
 
@@ -788,7 +788,7 @@ Language: English, français, Deutsch, português, pусский, español
 
 [__FastAPI__](https://discord.com/invite/VQjSZaeJmf) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://fastapi.tiangolo.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/tiangolo/fastapi) \
 Notable Channels: `#discussion`, `#documentation`, `#advanced-questions`, `#articles-videos-podcasts`, `#showcase` \
-Language: English, español, 中文, русский, português, italiano, Türkçe, українська мова \
+Language: English, español, 中文, русский, português, italiano, Türkçe, Українська \
 <br />
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fomantic-ui.webp" />
