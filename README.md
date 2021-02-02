@@ -17,7 +17,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Mathematics](#mathematics)
   - [Physics](#physics)
   - [Other Sciences](#other-sciences)
-- [Electricals](#electricals)
+- [Electrical](#electrical)
   - [Engineering](#engineering)
   - [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
   - [DIY](#diy)
@@ -44,7 +44,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Rust](#rust)
   - [Scala](#scala)
   - [Swift](#swift)
-  - [Typescript](#typescript)
+  - [TypeScript](#typescript)
   - [V](#v)
   - [WebAssembly](#webassembly)
 - [Web Development](#web-development)
@@ -251,7 +251,7 @@ Language: English
 Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#environment`, `#mathematics`, `#geometry`, `#calculus`, `#physics`, `#psychology`, `#technology`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
-## Electricals
+## Electrical
 
 [<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
 
@@ -729,7 +729,7 @@ Language: English
 Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English, čeština, español, русский, Deutsch, 中文频道, Nederlands, 日本語, français, italiano, українська, 한국어
 
-### Typescript
+### TypeScript
 
 [JavaScript↰](#javascript)
 
