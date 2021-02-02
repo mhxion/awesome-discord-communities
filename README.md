@@ -541,6 +541,8 @@ Language: English
 
 ### JavaScript
 
+[TypeScript↴](#typescript)
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/deno.webp" />
 
 [__Deno__](https://discord.com/invite/deno) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://deno.land/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/denoland) \
@@ -579,8 +581,6 @@ Language: English
 [__SpeakJS__](https://discord.com/invite/dAF4F28) \
 Notable Channels: `#collaboration`, `#code-review`, `#help`, `#react`, `#angular`, `#vue`, `#svelte`, `#jquery`, `#gatsby`, `#node`, `#graphql`, `#electron`, `#threejs`, `#webgl`\
 Language: English
-
-[Typescript↴](#typescript) • [Web Frameworks↴](#web-frameworks)
 
 ### Lisp
 
@@ -731,13 +731,13 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Typescript
 
+[JavaScript↰](#javascript)
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/typescript_community.webp" />
 
 [__TypeScript Community__](https://discord.com/invite/typescript) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.typescriptlang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/typescript-community) \
 Notable Channels: `#ts-discussion`, `#help`, `#vue`, `#angular`, `#react`, `#language-design`, `#compiler`, `#architecture`, `#tooling`, `#devops`, `#site-localization`, `#deno`, `#meetups`, `#projects` \
 Language: English
-
-[JavaScript↰](#javascript)
 
 ### V
 
@@ -748,6 +748,8 @@ Notable Channels: `#v-development`, `#v-chat`, `#help`, `#bugs`, `#syntax`, `#id
 Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한국어, português, polski, русский, tiếng-việt, italiano
 
 ### WebAssembly
+
+[WebAssembly Frameworks↴](#webassembly-frameworks)
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/assemblyscript.webp" />
 
@@ -762,8 +764,6 @@ Language: English \
 Notable Channels: `#general`, `#beginners`, `#cg`, `#jobs`, `#events`, `#summit`, `#wasm`, `#wasi`, `#web`, `#standalone`, `#generic`, `#emscripten`, `#javascript`, `#rust`, `#go` \
 Language: English
 
-[WebAssembly Frameworks↴](#webassembly-frameworks)
-
 ## Web Development
 
 [<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top" />](#contents)
@@ -771,6 +771,8 @@ Language: English
 The back-end of web, from single static page to complex web applications; usage of diverse frameworks, modules, linters, components, package managers, builders, Progressive Web Apps (PWA), everything that fuels the modern web.
 
 ### Web Frameworks
+
+[WebAssembly Frameworks↴](#webassembly-frameworks)
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/docusaurus.webp" />
 
@@ -930,6 +932,8 @@ Language: English, Deutsch, français, español, 日本語, 한국어, portuguê
 
 ### WebAssembly Frameworks
 
+[WebAssembly↰](#webassembly) • [Web Frameworks↰](#web-frameworks)
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/seed_rs.webp" />
 
 [__seed-rs__](https://discord.com/invite/JHHcHp5) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://seed-rs.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/seed-rs) \
@@ -999,8 +1003,6 @@ Language: English
 [__WordPress Chat__](https://discord.com/invite/3gQGJQA) \
 Notable Channels: `#security`, `#general`, `#devops`, `#plugin-development`, `#theme-development`, `#coding-questions`, `#css`, `#wp-cli`, `#seo`, `#beginner-help`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
-
-[JavaScript↰](#javascript) • [Typescript↰](#typescript) • [WebAssembly↰](#webassembly)
 
 ## Development Environments
 
@@ -1231,6 +1233,8 @@ Language: English \
 
 ### Linux Distributions
 
+[Gaming on Linux↴](#gaming-on-linux)
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arch_linux_unofficial.webp" />
 
 [__Arch Linux [unofficial]__](https://discord.com/invite/MrhPdhn) \
@@ -1275,8 +1279,6 @@ Language: English, français, Deutsch, italiano, polski, español, Nederlands \
 [__Ubuntu Hideout__](https://discord.com/invite/jcwJEJH) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://ubuntuhideout.com/) \
 Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
 Language: English
-
-[Gaming on Linux↴](#gaming-on-linux)
 
 ### Other OS
 
@@ -1789,6 +1791,8 @@ Language: English
 
 ### Gaming on Linux
 
+[Linux Distributions↰](#linux-distributions)
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/gamingonlinux.webp" />
 
 [__GamingOnLinux__](https://discord.gg/0rxBtcSOonvGzXr4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.gamingonlinux.com/) \
@@ -1812,8 +1816,6 @@ Language: English
 [__ProtonDB Official Server__](https://discord.com/invite/uuwK9EV) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.protondb.com/)  \
 Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linux`, `#linux-support`, `#general-game-support` \
 Language: English
-
-[Linux↰](#linux-distributions)
 
 ## Virtual Reality
 
