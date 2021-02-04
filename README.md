@@ -414,6 +414,12 @@ Language: English
 
 ### Phones
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/xiaomi_community.webp" />
+
+[__Xiaomi Community__](https://discord.com/invite/xiaomi) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/XiaomiWiki) \
+Notable Channels: `#mi_a_series`, `#mi_mix_series`, `#mi_max_series`, `#mi_note_series`, `#mi_series`, `#redmi_k_series`, `#redmi_series`, `#poco_series`, `#mi_wearables`, `#mi_notebook`, `#mi_pad` \
+Language: English
+
 ## Programming Languages
 
 [<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
