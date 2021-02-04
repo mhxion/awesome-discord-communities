@@ -381,7 +381,7 @@ Language: English
 
 From fixing broken parts of various computer hardware to discussions on CPU, GPU, keyboards, mice, phones, tablets, smartwatches, headphones, and other related gadgets.
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/dave2d.webp" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/dave2d.webp">
 
 [__Dave2D__](https://discord.com/invite/dave2d) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw) \
 Notable Channels: `#laptop-suggestions`, `#gaming-laptops-suggestions`, `#phones`, `#keyboards-mice`, `#desktops`, `#tablets`, `#vehicles`, `#deals`, `#tech-support` \
@@ -414,7 +414,7 @@ Language: English
 
 ### Phones
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/xiaomi_community.webp" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/xiaomi_community.webp">
 
 [__Xiaomi Community__](https://discord.com/invite/xiaomi) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/XiaomiWiki) \
 Notable Channels: `#mi_a_series`, `#mi_mix_series`, `#mi_max_series`, `#mi_note_series`, `#mi_series`, `#redmi_k_series`, `#redmi_series`, `#poco_series`, `#mi_wearables`, `#mi_notebook`, `#mi_pad` \

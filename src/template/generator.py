@@ -41,8 +41,8 @@ class GenerateTemplate:
     def format_icon(self):
         if self.icon_path is GenerateTemplate.ICON_PATH:  # alternative: self.__init__.__defaults__[0]
             return f'<img align="left" height="94px" width="94px" alt="Server Icon" src="{self.icon_path}/' \
-                   f'{icon.GetIcon.icon_name(self.name)}.webp" /> '
-        return f'<img align="left" height="94px" width="94px" alt="Server Icon" src="{self.icon_path}" /> '
+                   f'{icon.GetIcon.icon_name(self.name)}.webp"> '
+        return f'<img align="left" height="94px" width="94px" alt="Server Icon" src="{self.icon_path}"> '
 
     def format_reddit(self):
         # From subreddit name rule: https://redd.it/592kmw
@@ -90,4 +90,4 @@ class GenerateTemplate:
     def padding(self):
         channel_limit = len(self.format_channels()) - self.format_channels().count('`') <= Channels.LOWEST_CHAR_LIMIT
         language_limit = len(self.format_language()) <= Channels.LOWEST_CHAR_LIMIT
-        return f' \\\n<br />' if channel_limit and language_limit else f''
+        return f' \\\n<br>' if channel_limit and language_limit else f''
