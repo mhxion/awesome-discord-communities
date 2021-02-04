@@ -1170,6 +1170,12 @@ Language: English \
 Notable Channels: `#barrykn-patcher`, `#bensova-patcher`, `#dosdude1-patchers`, `#big-sur`, `#catalina`, `#mojave`, `#high-sieraa`, `#sierra`, `#el-capitan`, `#yosemite`, `#mavericks`, `#mountain-lion` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_apple.webp" />
+
+[__r/Apple__](https://discord.com/invite/apple) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/Apple) \
+Notable Channels: `#apple`, `#purchase-advice`, `#shot-on-iphone`, `#homescreen`, `#ios-ipados`, `#macos`, `#watchos`, `#xcode`, `#services`, `#jailbreak-info`, `#support` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_jailbreak.webp" />
 
 [__r/Jailbreak__](https://discord.com/invite/jb) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/jailbreak/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Emy/janet) \
