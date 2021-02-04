@@ -78,7 +78,7 @@ class GenerateTemplate:
         initial_length = c.length()
         if initial_length >= c.EXT_CHAR_LIMIT:
             c.truncate(c.HIGHEST_CHAR_LIMIT - 15)  # 15 is for the length of " so much more"
-            channels.append(__[`so much more`](badges.md#so-much-more)__)
+            channels.append('__[`so much more`](badges.md#so-much-more)__')
         else:
             c.truncate()
         return ', '.join([f'`{_}`' for _ in channels])
