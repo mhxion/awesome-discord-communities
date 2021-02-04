@@ -426,6 +426,12 @@ Language: English
 Notable Channels: `#ios-beta`, `#what-should-i-buy`, `#jailbreak`, `#dev`, `#software-support`, `#hardware-support`, `#homescreen` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_oneplus.webp">
+
+[__r/oneplus__](https://discord.com/invite/oneplus) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/iphone/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Rithari/OnePlusBot) \
+Notable Channels: `#oneplus`, `#oneplus-n10-n100`, `#oneplus8t`, `#oneplus-nord`, `#oneplus8-series`, `#oneplus7t-series`, `#oneplus7-series`, `#oneplus6-6t`, `#legacy`, `#accessories` \
+Language: English
+
 ## Programming Languages
 
 [<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
