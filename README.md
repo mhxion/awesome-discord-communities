@@ -24,6 +24,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Internet of Things](#internet-of-things)
   - [IoT Applications](#iot-applications)
 - [Hardware](#hardware)
+  - [Phones](#phones)
 - [Programming Languages](#programming-languages)
   - [Language Paradigms](#language-paradigms)
   - [Assembly](#assembly)
@@ -410,6 +411,8 @@ Language: English \
 [__PC MASTER RACE__](https://discord.com/invite/pcmr) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/pcmasterrace/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/izy521/Sera-PCMR) \
 Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
 Language: English
+
+### Phones
 
 ## Programming Languages
 
