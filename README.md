@@ -23,7 +23,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [DIY](#diy)
   - [Internet of Things](#internet-of-things)
   - [IoT Applications](#iot-applications)
-  - [Hardware](#hardware)
+- [Hardware](#hardware)
 - [Programming Languages](#programming-languages)
   - [Language Paradigms](#language-paradigms)
   - [Assembly](#assembly)
@@ -374,7 +374,11 @@ Language: English \
 Notable Channels: `#release-branch`, `#development-branch`, `#installation-hassio`, `#installation-docker`, `#zigbee2mqtt`, `#zigbee-shepherd`, `#documentation`, `#hardware` \
 Language: English
 
-### Hardware
+## Hardware
+
+[<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
+
+From fixing broken parts of various computer hardware to discussions on CPU, GPU, keyboards, mice, phones, tablets, smartwatches, headphones, and other related gadgets.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/electronics_repair_school.webp">
 
