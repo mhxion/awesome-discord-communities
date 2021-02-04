@@ -277,6 +277,12 @@ Language: English
 Notable Channels: `#electrical-engineering`, `#questions`, `#computer-engineering` `#electronics-engineering`, `#power-engineering`, `#signal-controls`, `#mechanical-engineering`, `#robotics` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/real_engineering_discord.webp" />
+
+[__Real Engineering Discord__](https://discord.com/invite/emx3W4Z) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg) \
+Notable Channels: `#the-library-discussions`, `#study-and-career-help`, `#sustainable-engineering`, `#bioengineering`, `#mechanical-engineering`, `#aero-and-astronautical`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
+
 ### Microprocessors and Microcontrollers
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arduino.webp" />
