@@ -420,6 +420,13 @@ Language: English
 Notable Channels: `#mi_a_series`, `#mi_mix_series`, `#mi_max_series`, `#mi_note_series`, `#mi_series`, `#redmi_k_series`, `#redmi_series`, `#poco_series`, `#mi_wearables`, `#mi_notebook`, `#mi_pad` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_googlepixel.webp">
+
+[__r/GooglePixel__](https://discord.com/invite/googlepixel) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/GooglePixel/) \
+Notable Channels: `#tech-support`, `#pixelography`, `#themes` \
+Language: English \
+<br>
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_iphone.webp" />
 
 [__r/iPhone__](https://discord.com/invite/iphone) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/iphone/) \
