@@ -259,6 +259,12 @@ Discussions on bare-bones circuit boards, microprocessors, and bleeding edge har
 
 ### Engineering
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/_r_engineeringstudents.webp" />
+
+[__/r/EngineeringStudents__](https://discord.com/invite/engineeringstudents) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/EngineeringStudents/) \
+Notable Channels: `#homework`, `#college-101-and-applications`, `#academics-and-teaching`, `#research`, `#jobs-resume-finance`, `#hobbies-and-projects` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/aerospace_and_mech_eng.webp" />
 
 [__Aerospace & Mech Eng__](https://discord.com/invite/fYkvJNQ) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/)\
