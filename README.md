@@ -380,6 +380,12 @@ Language: English
 
 From fixing broken parts of various computer hardware to discussions on CPU, GPU, keyboards, mice, phones, tablets, smartwatches, headphones, and other related gadgets.
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/dave2d.webp" />
+
+[__Dave2D__](https://discord.com/invite/dave2d) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw) \
+Notable Channels: `#laptop-suggestions`, `#gaming-laptops-suggestions`, `#phones`, `#keyboards-mice`, `#desktops`, `#tablets`, `#vehicles`, `#deals`, `#tech-support` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/electronics_repair_school.webp">
 
 [__Electronics Repair School__](http://invite.ers.repair/) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCooKQlg-HZ0PFAPc4Ymg3RA) \
