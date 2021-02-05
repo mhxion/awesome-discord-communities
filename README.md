@@ -449,6 +449,12 @@ Language: English \
 
 ### Smartwatches
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fitbit.webp">
+
+[__Fitbit__](https://discord.com/invite/4ujeheG) \
+Notable Channels: `#fitbit`, `#fitbit-coding`, `#fitbit-design`, `#fitbit-animation`, `#fitbit-widgets`, `#fitbit-typescript` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/smartwatch.webp">
 
 [__Smartwatch__](https://discord.com/invite/nPEHdsyjDg) \
