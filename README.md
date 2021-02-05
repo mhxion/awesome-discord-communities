@@ -25,6 +25,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [IoT Applications](#iot-applications)
 - [Hardware](#hardware)
   - [Phones](#phones)
+  - [Smartwatches](#smartwatches)
 - [Programming Languages](#programming-languages)
   - [Language Paradigms](#language-paradigms)
   - [Assembly](#assembly)
@@ -445,6 +446,8 @@ Language: English
 Notable Channels: `#samsung`, `#purchase-advice`, `#accessories`, `#roms`, `#support` \
 Language: English \
 <br>
+
+### Smartwatches
 
 ## Programming Languages
 
