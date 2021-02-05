@@ -483,6 +483,12 @@ Language: English \
 
 ### Keyboards
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/qmk.webp">
+
+[__QMK__](https://discord.com/invite/Uq7gcHh) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://qmk.fm/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/qmk) \
+Notable Channels: `#help`, `#firmware`, `#cli`, `#configurator`, `#via`, `#toolbox`, `#webhooks`, `#configurator_log`, `#hardware`, `#ergonomics`, `#programming` \
+Language: English
+
 ## Programming Languages
 
 [<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
