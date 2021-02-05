@@ -26,6 +26,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
 - [Hardware](#hardware)
   - [Phones](#phones)
   - [Smartwatches](#smartwatches)
+  - [Keyboards](#keyboards)
 - [Programming Languages](#programming-languages)
   - [Language Paradigms](#language-paradigms)
   - [Assembly](#assembly)
@@ -479,6 +480,8 @@ Language: English
 Notable Channels: `#general`, `#support`, `#purchase-advice`, `#showcase`, `#activity`, `#smartwatch-by-brands` \
 Language: English \
 <br>
+
+### Keyboards
 
 ## Programming Languages
 
