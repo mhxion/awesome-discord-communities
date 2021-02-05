@@ -287,6 +287,12 @@ Language: English
 
 ### Microprocessors and Microcontrollers
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amulius___embedded_engineering__.webp">
+
+[__Amulius - Embedded Engineering__](https://discord.com/invite/SrJEYjq) \
+Notable Channels: `#general`, `#arm`, `#arduino-avr`, `#c-cpp`, `#esp32-espressif`, `#linux`, `#pic`, `#rust`, `#risc-v`, `#rtos-gpos`, `#projects-advice`, `#careeer-advice`, `#projects-showcase` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arduino.webp">
 
 [__Arduino__](https://discord.gg/jQJFwW7) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://arduino.cc/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/BluLightShow/arduino-bot) \
