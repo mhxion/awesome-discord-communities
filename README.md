@@ -449,6 +449,13 @@ Language: English \
 
 ### Smartwatches
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/smartwatch.webp">
+
+[__Smartwatch__](https://discord.com/invite/nPEHdsyjDg) \
+Notable Channels: `#general`, `#support`, `#purchase-advice`, `#showcase`, `#activity`, `#smartwatch-by-brands` \
+Language: English \
+<br>
+
 ## Programming Languages
 
 [<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
