@@ -455,6 +455,12 @@ Language: English \
 Notable Channels: `#fitbit`, `#fitbit-coding`, `#fitbit-design`, `#fitbit-animation`, `#fitbit-widgets`, `#fitbit-typescript` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_rebble_alliance.webp">
+
+[__The Rebble Alliance__](https://discord.com/invite/aRUAYFN) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://rebble.io/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/pebble-dev) \
+Notable Channels: `#pebble`, `#rebble-help`, `#app-dev`, `#rockyjs`, `#smartstraps`, `#rebble-grants`, `#firmware`, `#hardware`, `#mobile-apps`, `#appstore`, `#web-services`, `#bipdev` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/smartwatch.webp">
 
 [__Smartwatch__](https://discord.com/invite/nPEHdsyjDg) \
