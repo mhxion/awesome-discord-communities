@@ -273,6 +273,12 @@ Language: English
 Notable Channels: `#general-engineering`, `#events`, `#questions`, `#astronautics-aeronautics` `#thermo-fluids`, `#mechanics`, `#structural-analysis`, `#mechatronics`, `#design` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amulius___engineering____chill__.webp">
+
+[__Amulius - Engineering  & Chill__](https://discord.com/invite/5vkPupa) \
+Notable Channels: `#general`, `#electrical`, `#civil`, `#mechanical`, `#software`, `#chemical`, `#aerospace`, `#industrial`, `#engineering-lobby`, `#student-lobby`, `#careeer-advice`, `#projects-showcase` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/electrical_engineering.webp">
 
 [__Electrical Engineering__](https://discord.com/invite/W8v5EK2) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/)\
