@@ -77,6 +77,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
 - [Blockchain and Cryptocurrency](#blockchain-and-cryptocurrency)
   - [Currencies](#currencies)
 - [Simulation](#simulation)
+  - [Flight Simulation](#flight-simulation)
 - [Game Development](#game-development)
   - [Game Design](#game-design)
   - [Game Engines](#game-engines)
@@ -1680,6 +1681,8 @@ Language: English, español, português, français, Deutsch, русский \
 Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `#nalgebra`, `#simba`, `#nphysics`, `#simba` \
 Language: English \
 <br>
+
+### Flight Simulation
 
 ## Game Development
 
