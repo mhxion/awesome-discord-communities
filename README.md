@@ -1684,6 +1684,12 @@ Language: English \
 
 ### Flight Simulation
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/coders_craft.webp">
+
+[__Coders Craft__](https://discord.com/invite/DA9qDXF) \
+Notable Channels: `#general`, `#xpl-res`, `#dev-chat`, `#lua`, `#c-cpp`, `#microsoft-flight-simulation-dev-chat`, `#modeling-texture` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/flybywire_simulations.webp">
 
 [__FlyByWire Simulations__](https://discord.com/invite/UjzuHMU) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/flybywiresim/a32nx) \
