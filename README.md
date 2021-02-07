@@ -27,6 +27,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Phones](#phones)
   - [Smartwatches](#smartwatches)
   - [Keyboards](#keyboards)
+  - [Retro Computers](#retro-computer)
 - [Programming Languages](#programming-languages)
   - [Language Paradigms](#language-paradigms)
   - [Assembly](#assembly)
@@ -489,6 +490,8 @@ Language: English \
 [__QMK__](https://discord.com/invite/Uq7gcHh) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://qmk.fm/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/qmk) \
 Notable Channels: `#help`, `#firmware`, `#cli`, `#configurator`, `#via`, `#toolbox`, `#webhooks`, `#configurator_log`, `#hardware`, `#ergonomics`, `#programming` \
 Language: English
+
+### Retro Computers
 
 ## Programming Languages
 
