@@ -180,6 +180,12 @@ Language: English
 Notable Channels: `#dev-help`, `#dev-chat`, `#app-feedback`,`#design`, `#user-experience`, `#html`, `#css`, `#javascript`, `#typescript`, `js-framework`, `#react`, `#vue`, `#php`, `#dot-net`, `#devops`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/developersIndia.webp">
+
+[__developersIndia__](https://discord.gg/8mprbDZBBP) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/developersIndia/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/developersIndia) \
+Notable Channels: `#general`, `#careers`, `#resources`, `#help`, `#events`, `#showcase`, __[`so much more`](badges.md#so-much-more)__ \
+Language: English
+
 ### Competitive Programming
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cp_community.webp">
