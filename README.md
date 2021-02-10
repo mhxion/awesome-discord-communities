@@ -551,8 +551,8 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/include.webp">
 
-[__#include__](https://discord.gg/ZPErMGW) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.includecpp.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/mniip/discord-eval) \
-Notable Channels: `#assembly`, `#c`, `#gpu`, `#audio`, `#build-systems`, `#cpp`, `#embedded`, `#learning`, `#security` `#conferences`, `#tooling`, `#2d-graphics`, `#clion`, `#catch2`, `#qt` \
+[__#include__](https://discord.gg/ZPErMGW) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.includecpp.org/) \
+Notable Channels: `#assembly`, `#c-language`, `#gpu`, `#audio`, `#build-systems`, `#cpp`, `#embedded`, `#learning`, `#security` `#conferences`, `#tooling`, `#2d-graphics`, `#clion`, `#catch2`, `#qt` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/c_plus_plus_help.webp">
