@@ -133,7 +133,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="<static url of the image>"/>
 
-[__Humans Of Julia__](https://discord.gg/C5h9D4j) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/humans_of_julia.webp">](https://github.com/Humans-of-Julia) \
+[__Humans Of Julia__](https://discord.gg/C5h9D4j) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/git.webp">](https://github.com/Humans-of-Julia) \
 Notable Channels: `#general`, `#ask-for-help-1`, `#off-topic`, `#graknclientjl`, `#game-dev`, `#julia-constraints`, `data-science`, `machine-learning`,  __[`so much more`](badges.md#so-much-more)__ \ \
 Language: English
 
