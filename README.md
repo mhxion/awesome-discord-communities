@@ -130,6 +130,13 @@ Language: English
 Notable Channels: `#python exercises`, `#code feedback`, `#collaboration`, `#csharp`,`#java`, `#c and cpp`, `#web`, `#mobile`, `#security`, `#algos and ds`, `#networking`, `#resources`, `#machinelearning` \
 Language: English
 
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/humans_of_julia.webp"/>
+
+[__Humans Of Julia__](https://discord.gg/C5h9D4j) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/git.webp">](https://github.com/Humans-of-Julia) \
+Notable Channels: `#general`, `#ask-for-help-1`, `#off-topic`, `#graknclientjl`, `#game-dev`, `#julia-constraints`, `data-science`, `machine-learning`,  __[`so much more`](badges.md#so-much-more)__ \ \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programmers_palace.webp">
 
 [__Programmers Palace__](https://discord.com/invite/48Zxcpy) \
