@@ -106,6 +106,12 @@ Some Discord counterpart communities to Stack Overflow.
 
 ### Support Communities
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/Cracking%20Coding%20Interviews.webp">
+
+[__Cracking Coding Interviews__](https://discord.gg/CajDq6RxeN) [<img height="16px" width="16px" alt="Owner Portfolio" src="images/badges/homepage.webp">](http://itsabhinav.me/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/logicinfinite) \
+Notable Channels: `#doubts clearing`, `#help`,`#resume reviews`,`#interview experience`, `#python`, `#javascript`,`#cpp`, `#java`, `#referrals`,`#openings` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.webp">
 
 [__Code::Together__](https://discord.com/invite/ekgFE4s) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://together.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/codedtogether) \
