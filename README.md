@@ -769,7 +769,7 @@ Language: English \
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/python.webp">
 
 [__Python__](https://discord.com/invite/python) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://pythondiscord.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/python-discord/) \
-Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#computer-science`, `#database`, `#data-science`, `#dev-ops`, `#discord-py`, `#game-development`, `#security`, __[`so much more`](badges.md#so-much-more)__ \
+Notable Channels: `#python-general`, `#careers`, `#how-to-get-help`, `#async-and-concurrency`, `#databases`, `#data-science-and-ai`, `#discord.py`, `#game-development`, `#web-development`, #security`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
 <!-- omit in toc -->
