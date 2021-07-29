@@ -1407,7 +1407,13 @@ Language: English, français, Deutsch, italiano, polski, español, Nederlands \
 [__Ubuntu Hideout__](https://discord.com/invite/jcwJEJH) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://ubuntuhideout.com/) \
 Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
 Language: English
+<br>
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nixos.webp">
+
+[__Nixos__](https://discord.gg/RbvHtGa) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nixos.org/) \
+Notable Channels: `#nixos`, `#nix-nixpkgs`, `#deployments`, `#nixos-dev,` `#home-manager`, `#nix-flakes`, `#macos`, `#documentation` \
+Language: English
 ### Other OS
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reactos_community.webp">
