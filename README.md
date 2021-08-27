@@ -36,6 +36,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Clojure](#clojure)
   - [CSS](#css)
   - [Elixir](#elixir)
+  - [Enso](#enso)
   - [Go](#go)
   - [Haxe](#haxe)
   - [Java](#java)
@@ -629,6 +630,14 @@ Language: English
 Notable Channels: `#elixir`, `#erlang`, `#ecto`, `#nerves`, `#phoenix`, `#absinthe`, `#alchemy`, `#frontend`, `#jobs` \
 Language: English \
 <br>
+
+### Enso
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/enso.webp">
+
+[__Enso__](https://discord.gg/enso) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://enso.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/enso-org/enso)\
+Notable Channels: `#general`, `#what-are-you-working-on`, `#watercooler`, `#help-and-troubleshooting`\
+Language: English
 
 ### Go
 
