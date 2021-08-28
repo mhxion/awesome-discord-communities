@@ -35,6 +35,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [C#](#c)
   - [Clojure](#clojure)
   - [CSS](#css)
+  - [D](#d)
   - [Elixir](#elixir)
   - [Enso](#enso)
   - [Go](#go)
@@ -621,6 +622,14 @@ Language: English
 
 [__Tailwind CSS__](https://discord.com/invite/7NF8GNe) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://tailwindcss.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/tailwindcss) \
 Notable Channels: `#help`, `#tailwind-css`, `#core-dev`, `#plugins`, `#docs`, `#tailwind-ui`, `#design`, `#development`, `#showcase` \
+Language: English
+
+### D
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/d.webp">
+
+[__D Language Code Club__](https://discord.com/invite/bMZk9Q4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://dlang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/dlang/dmd)\
+Notable Channels: `#programming`, `#programming2`, `#audiodev`, `#osdev`, `#webdev`, `#gamedev`, `#langtalk`, `#graphics`, `#machinelearning`, `#learn-d-resources`, `#d-editors`\
 Language: English
 
 ### Elixir
