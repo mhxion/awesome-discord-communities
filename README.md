@@ -43,6 +43,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [JavaScript](#javascript)
   - [Lisp](#lisp)
   - [Lua](#lua)
+  - [Nim](#nim)
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -736,6 +737,14 @@ Language: English \
 Notable Channels: `#general`, `#lua`, `#luvit`, `#luvi`, `#luv`, `#lit` \
 Language: English \
 <br>
+
+### Nim
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nim.webp">
+
+[__Nim__](https://discord.gg/nim) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nim-lang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nim-lang/Nim)\
+Notable Channels: `#main`, `#jobs`, `#internals`, `#gamedev`, `#langdev`, `#science`, `#embedded`\
+Language: English
 
 ### PHP
 
