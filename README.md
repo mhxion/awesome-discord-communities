@@ -1344,12 +1344,6 @@ Language: English
 
 ### Linux
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/bedrock.webp">
-
-[__/bedrock/strata/discord__](https://invite.gg/bedrocklinux) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://bedrocklinux.org/) [<img height="16px" width="16px" alt="Reddit" src="images/badges/reddit.webp">](https://reddit.com/r/bedrocklinux/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bedrocklinux/bedrocklinux-userland)\
-Notable Channels: `#general`, `#support`, `#bedrock-linux`, `#bedrock-updates`\
-Language: English
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nix_nest.webp">
 
 [__*nix nest__](https://discord.com/invite/svhXktFkAG) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nixnest) \
@@ -1393,6 +1387,12 @@ Language: English \
 Notable Channels: `#news`, `#home`, `#arch-support`, `#other-distros`, `#programming`, `#ricing`, `#wallpapers` \
 Language: English \
 <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/bedrock.webp">
+
+[__/bedrock/strata/discord__](https://invite.gg/bedrocklinux) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://bedrocklinux.org/) [<img height="16px" width="16px" alt="Reddit" src="images/badges/reddit.webp">](https://reddit.com/r/bedrocklinux/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bedrocklinux/bedrocklinux-userland)\
+Notable Channels: `#general`, `#support`, `#bedrock-linux`, `#bedrock-updates`\
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fedora_linux.webp">
 
