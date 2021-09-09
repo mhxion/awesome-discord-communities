@@ -54,6 +54,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [TypeScript](#typescript)
   - [V](#v)
   - [WebAssembly](#webassembly)
+  - [Zig](#zig)
 - [Web Development](#web-development)
   - [Web Frameworks](#web-frameworks)
   - [Node.js](#nodejs)
@@ -905,6 +906,14 @@ Language: English \
 
 [__WebAssembly__](https://discord.com/invite/53u3EKq) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/WebAssembly) \
 Notable Channels: `#general`, `#beginners`, `#cg`, `#jobs`, `#events`, `#summit`, `#wasm`, `#wasi`, `#web`, `#standalone`, `#generic`, `#emscripten`, `#javascript`, `#rust`, `#go` \
+Language: English
+
+### Zig
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/zig.webp">
+
+[__Zig Programming Language__](https://discord.gg/gxsFFjE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://ziglang.org) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ziglang/zig)\
+Notable Channels: `#zig`, `#zig-help`, `#gamedev`, `#embedded`, `#os-dev`, `#tooling-dev`, `#lang-dev`, `#projects`\
 Language: English
 
 ## Web Development
