@@ -44,6 +44,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Lua](#lua)
   - [PHP](#php)
   - [Python](#python)
+  - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -788,6 +789,14 @@ Language: English \
 Notable Channels: `#general`, `#support`, `#suggestions-for-improvements`, `#users-gallery`, `#kivymd-studio` \
 Language: English, русский \
 <br>
+
+### R
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/R_server_icon.webp">
+
+[__The R Programming Language__](https://discord.gg/FQp6ZNd) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/discoRd-org) \
+Notable Channels: `#r-help`, `#r-chat`, `#r-jobs`, `#resources`, `#r-jobs` `#r-data-viz`, `#r-datasets`, `#statistics`, `#machine-learning`, `#gis`, `#other-stats-software`, `#web-dev`, `#interactive-data-viz`\
+Language: English
 
 ### Ruby
 
