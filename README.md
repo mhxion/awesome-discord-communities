@@ -322,6 +322,12 @@ Language: English
 Notable Channels: `#circuitpython`, `#arduino`, `#3dprinting`, `#radio`,`#raspberry-pi`, `#wearables`, `#robotics`, `#help-with-projects`, `#iot`, `#events` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/digitalhackerspace.webp"/>
+
+[__Digital Hackerspace__](https://discord.gg/NAGpXKn) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/digitalhackerspace) \
+Notable Channels: `#arduino_esp_etc`, `#3dprinting_cnc_etc`, `#tech_talk`, `#raspberrypi_and_others`, `#showcase`, `#work-in-progress` \
+Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/diy_tech.webp">
 
 [__DIY Tech__](https://discord.com/invite/diytech) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/KazWolfe/HuskyBot) \
