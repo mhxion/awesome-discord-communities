@@ -40,6 +40,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Kotlin](#kotlin)
   - [Lisp](#lisp)
   - [Lua](#lua)
   - [PHP](#php)
@@ -702,6 +703,14 @@ Language: English
 
 [__SpeakJS__](https://discord.com/invite/dAF4F28) \
 Notable Channels: `#collaboration`, `#code-review`, `#help`, `#react`, `#angular`, `#vue`, `#svelte`, `#jquery`, `#gatsby`, `#node`, `#graphql`, `#electron`, `#threejs`, `#webgl`\
+Language: English
+
+### Kotlin
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/kotlin_discord_ug.webp"/>
+
+[Kotlin Discord UG](https://discord.gg/gjXqqCS) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://kotlindiscord.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Kotlin-Discord/) \
+Notable Channels: `#kotlin`, `#kotlin-native`, `#kotlin-multiplatform`, `#kotlin-js`, `#android`, `#minecraft-modding` `#discord-kord` `#game-development` \
 Language: English
 
 ### Lisp
