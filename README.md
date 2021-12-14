@@ -35,13 +35,16 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [C#](#c)
   - [Clojure](#clojure)
   - [CSS](#css)
+  - [D](#d)
   - [Elixir](#elixir)
+  - [Enso](#enso)
   - [Go](#go)
   - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Lisp](#lisp)
   - [Lua](#lua)
+  - [Nim](#nim)
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -51,6 +54,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [TypeScript](#typescript)
   - [V](#v)
   - [WebAssembly](#webassembly)
+  - [Zig](#zig)
 - [Web Development](#web-development)
   - [Web Frameworks](#web-frameworks)
   - [Node.js](#nodejs)
@@ -108,7 +112,7 @@ Some Discord counterpart communities to Stack Overflow.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.webp">
 
-[__Code::Together__](https://discord.com/invite/ekgFE4s) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://together.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/codedtogether) \
+[__Code::Together__](https://discord.gg/jZtws8qA7w) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://together.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/codedtogether) \
 Notable Channels: `#looking-for-dev`, `#challenges`, `#python`, `#javascript`,`#c-family`, `#java`, `#html-css-web-js` `#dotnet`, `#databases`, `#hosting` \
 Language: English
 
@@ -621,6 +625,14 @@ Language: English
 Notable Channels: `#help`, `#tailwind-css`, `#core-dev`, `#plugins`, `#docs`, `#tailwind-ui`, `#design`, `#development`, `#showcase` \
 Language: English
 
+### D
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/d.webp">
+
+[__D Language Code Club__](https://discord.com/invite/bMZk9Q4) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://dlang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/dlang/dmd)\
+Notable Channels: `#programming`, `#programming2`, `#audiodev`, `#osdev`, `#webdev`, `#gamedev`, `#langtalk`, `#graphics`, `#machinelearning`, `#learn-d-resources`, `#d-editors`\
+Language: English
+
 ### Elixir
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/elixir_language.webp">
@@ -629,6 +641,14 @@ Language: English
 Notable Channels: `#elixir`, `#erlang`, `#ecto`, `#nerves`, `#phoenix`, `#absinthe`, `#alchemy`, `#frontend`, `#jobs` \
 Language: English \
 <br>
+
+### Enso
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/enso.webp">
+
+[__Enso__](https://discord.gg/enso) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://enso.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/enso-org/enso)\
+Notable Channels: `#general`, `#what-are-you-working-on`, `#watercooler`, `#help-and-troubleshooting`\
+Language: English
 
 ### Go
 
@@ -727,6 +747,14 @@ Language: English \
 Notable Channels: `#general`, `#lua`, `#luvit`, `#luvi`, `#luv`, `#lit` \
 Language: English \
 <br>
+
+### Nim
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nim.webp">
+
+[__Nim__](https://discord.gg/nim) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://nim-lang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nim-lang/Nim)\
+Notable Channels: `#main`, `#jobs`, `#internals`, `#gamedev`, `#langdev`, `#science`, `#embedded`\
+Language: English
 
 ### PHP
 
@@ -878,6 +906,14 @@ Language: English \
 
 [__WebAssembly__](https://discord.com/invite/53u3EKq) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/WebAssembly) \
 Notable Channels: `#general`, `#beginners`, `#cg`, `#jobs`, `#events`, `#summit`, `#wasm`, `#wasi`, `#web`, `#standalone`, `#generic`, `#emscripten`, `#javascript`, `#rust`, `#go` \
+Language: English
+
+### Zig
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/zig.webp">
+
+[__Zig Programming Language__](https://discord.gg/gxsFFjE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://ziglang.org) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ziglang/zig)\
+Notable Channels: `#zig`, `#zig-help`, `#gamedev`, `#embedded`, `#os-dev`, `#tooling-dev`, `#lang-dev`, `#projects`\
 Language: English
 
 ## Web Development
@@ -1369,6 +1405,12 @@ Language: English \
 Notable Channels: `#news`, `#home`, `#arch-support`, `#other-distros`, `#programming`, `#ricing`, `#wallpapers` \
 Language: English \
 <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/bedrock.webp">
+
+[__/bedrock/strata/discord__](https://invite.gg/bedrocklinux) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://bedrocklinux.org/) [<img height="16px" width="16px" alt="Reddit" src="images/badges/reddit.webp">](https://reddit.com/r/bedrocklinux/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/bedrocklinux/bedrocklinux-userland)\
+Notable Channels: `#general`, `#support`, `#bedrock-linux`, `#bedrock-updates`\
+Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/fedora_linux.webp">
 
