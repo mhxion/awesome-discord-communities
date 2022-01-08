@@ -208,6 +208,12 @@ Language: English
 Notable Channels: `#lectures`, `#scratch`, `#hello`,`#mario`, `#cash`, `#credit`, `#readability`, `#caesar`, `#substitution`, `#plurality`, `#runoff`, `#tideman`, `#c-to-python-sentimental`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/imaginaryctf.webp">
+
+[__ImaginaryCTF__](https://discord.com/invite/bb4r5DgGnC) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://imaginaryctf.org/)\
+Notable Channels: `#ctf-challenge`, `#ctf-challenge-help`, `#coding`, `#general` \
+Language: English
+
 ### Mathematics
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/mathematics.webp">
