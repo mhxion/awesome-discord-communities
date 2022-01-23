@@ -32,7 +32,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Language Paradigms](#language-paradigms)
   - [Assembly](#assembly)
   - [C and C++](#c-and-c)
-  - [C](#c)
+  - [C#](#c)
   - [Clojure](#clojure)
   - [CSS](#css)
   - [Elixir](#elixir)
