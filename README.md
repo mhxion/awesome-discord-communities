@@ -32,7 +32,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [Language Paradigms](#language-paradigms)
   - [Assembly](#assembly)
   - [C and C++](#c-and-c)
-  - [C#](#c)
+  - [C](#c)
   - [Clojure](#clojure)
   - [CSS](#css)
   - [Elixir](#elixir)
@@ -2059,6 +2059,13 @@ Discussions on interview challenges, resume reviews, job opportunities in the fi
 [__CS Career Hackers__](https://discord.com/invite/rGwhXJv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cscareerhackers.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/CS-Career-Hackers) \
 Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#career-questions`, `#ask-a-manager`, `#students`, `#meetups`, `#programming-challenges` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cscareers_dev.webp">
+
+[__cscareers.dev__](https://discord.com/invite/cscareers) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cscareers.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/cscareers-dev) \
+Notable Channels: `#leetcode-bot`, `#leetcode_discussion`, `#mock_interviews` \
+Language: English \
+<br>
 
 ## Discord Development
 
