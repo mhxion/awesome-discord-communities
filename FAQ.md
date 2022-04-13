@@ -25,10 +25,9 @@ A _server_ in Discord mainly refers to the community itself.
 
 ### What about Discord's poor privacy policy?
 
-It has been raised many times about
-the [awful privacy control](https://swordfishevaluations.com/2019/09/12/privacy-concerns-with-discord/),
+It has been raised many times about Discord
 [being a potential spyware](https://spyware.neocities.org/articles/discord.html),
-[criticism by Richard Stallman](https://stallman.org/discord.html),
+[having criticism by Richard Stallman](https://stallman.org/discord.html),
 and [risks of online predators](https://www.wsj.com/articles/discord-where-teens-rule-and-parents-fear-to-tread-11560245402)
 on a national newspaper. As much as I'd like to hate Discord because of this, it's hard to deny the wonderful growing communities that are no less productive than their counterparts in another privacy-focused platform. That alone encouraged me to create this list.
 
