@@ -495,7 +495,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amigadev.webp">
 
-[__AmigaDev__](https://discord.com/invite/Dfba7Yb) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.amigadev.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/AmigaPorts) \
+[__AmigaDev__](https://discord.com/invite/Dfba7Yb) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/AmigaPorts) \
 Notable Channels: `#ace`, `#milkytracker`, `#sdl`, `#website`, `#scummvm`, `#68k-arm`, `#python`, `#arexx`, `#amos`, `#c-and-cpp`, `#amiga-68k`, `#amiga-ppc`, `#aros`, `#morphos`, `#warpos-sonnet`, `#vbcc` \
 Language: English
 
