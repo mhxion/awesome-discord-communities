@@ -1449,7 +1449,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/eddiejaoudecommunity.webp">
 
-[__Eddie Jaoude Community__](https://discord.com/invite/jZQs6Wu) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](http://eddiejaoudecommunity.github.io) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](http://github.com/EddieJaoudeCommunity) \
+[__Eddie Jaoude Community__](https://discord.com/invite/jZQs6Wu) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](http://github.com/EddieJaoudeCommunity) \
 Notable Channels: `#opensource`, `#first-timers`, `#help`, `#livestream`, `#hackathons`, `#careers` \
 Language: English \
 <br>
