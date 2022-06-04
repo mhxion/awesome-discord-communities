@@ -1920,7 +1920,7 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/steam_rom_manager.webp">
 
-[__Steam ROM Manager__](https://discord.com/invite/vrd6385) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://dozennn.github.io/steam-rom-manager/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://discord.com/invite/vrd6385) \
+[__Steam ROM Manager__](https://discord.com/invite/vrd6385) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://discord.com/invite/vrd6385) \
 Notable Channels: `#srm_discussion`, `#parser_support` \
 Language: English \
 <br>
