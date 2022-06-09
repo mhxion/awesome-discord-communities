@@ -799,12 +799,6 @@ Language: English
 
 ### Rust
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/arorust.webp">
-
-[__Ärorust__](https://discord.com/invite/RXNsMXc) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://twitter.com/AeroRust) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/AeroRust) \
-Notable Channels: `#resources`, `#drones`, `#space`, `#general-aviation`, `#rtos`, `#osal`, `#splice`, `#godwit`, `#ideas`, `#books`, `#conferences` \
-Language: English
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/rust_programming_language_community_server.webp">
 
 [__Rust Programming Language Community Server__](https://discord.com/invite/aVESxV8) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ivandardi/RustBot) \
