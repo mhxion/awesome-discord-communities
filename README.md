@@ -837,6 +837,14 @@ Language: English
 Notable Channels: `#scala-users`, `#scala-contributors`, `#scala-js`, `#scala-native`, `#tooling`, `#events`, `#jobs`, `#akka-users` \
 Language: English
 
+### Squirrel
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/squirrel_unofficial.webp"/>
+
+[__Squirrel Unofficial__](https://discord.gg/tBbUzPfQKy) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://squirrel-lang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/albertodemichelis/squirrel) \
+Notable Channels: `#general`, `#help`, `#snippets`, `#cool-creations`, `#find-contributors`, `#learn-squirrel` \
+Language: English
+
 ### Swift
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/swift.webp">
