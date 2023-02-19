@@ -106,6 +106,15 @@ Some Discord counterpart communities to Stack Overflow.
 
 ### Support Communities
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/code_support.webp">
 
 [__Code::Together__](https://discord.com/invite/ekgFE4s) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://together.codes/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/codedtogether) \
@@ -196,6 +205,15 @@ Discussions on the concepts behind modern, and classical computing and its kin.
 
 ### Computer Science
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/computer_science.webp">
 
 [__Computer Science__](https://discord.com/invite/eF3Wjsd) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/)\
@@ -209,6 +227,15 @@ Notable Channels: `#lectures`, `#scratch`, `#hello`,`#mario`, `#cash`, `#credit`
 Language: English
 
 ### Mathematics
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/mathematics.webp">
 
@@ -648,6 +675,15 @@ Language: English
 
 ### Java
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/JavaDiscord.webp">
 
 [__Java__](https://join.javadiscord.net) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://javadiscord.net) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Java-Discord) \
@@ -697,6 +733,15 @@ Language: English \
 [__ReasonML__](https://discord.com/invite/reasonml) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://reasonml.github.io/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/facebook/reason) \
 Notable Channels: `#general`, `#reasonconf`, `#native-development`, `#bucklescript`, `#job-openings`, `#react`, `#ocaml`, `#reason-dojo`, `#reason-core-dev`\
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/speakjs.webp">
 
@@ -771,6 +816,15 @@ Language: English \
 [__Python__](https://discord.com/invite/python) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://pythondiscord.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/python-discord/) \
 Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#computer-science`, `#database`, `#data-science`, `#dev-ops`, `#discord-py`, `#game-development`, `#security`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
 
 <!-- omit in toc -->
 #### Kivy
@@ -879,6 +933,15 @@ Language: English \
 [__WebAssembly__](https://discord.com/invite/53u3EKq) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/WebAssembly) \
 Notable Channels: `#general`, `#beginners`, `#cg`, `#jobs`, `#events`, `#summit`, `#wasm`, `#wasi`, `#web`, `#standalone`, `#generic`, `#emscripten`, `#javascript`, `#rust`, `#go` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
 
 ## Web Development
 
@@ -1326,6 +1389,15 @@ Language: English
 
 ### Linux
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/nix_nest.webp">
 
 [__*nix nest__](https://discord.com/invite/svhXktFkAG) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/nixnest) \
@@ -1428,6 +1500,15 @@ Language: English
 
 [Continuous development](https://en.wikipedia.org/wiki/DevOps#Toolchains), discussions on network management and infrastructure, IT homelab, containers, APIs, Kubernetes and applications that run on them.
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_sysadmin.webp">
 
 [__/r/sysadmin__](https://discord.com/invite/sysadmin) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/sysadmin) \
@@ -1462,6 +1543,15 @@ Language: English, Deutsch, français, Nederlands \
 <br>
 
 ### Data Management
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/data_engineering.webp">
 
@@ -1554,6 +1644,15 @@ Language: English \
 [<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
 
 Everything red and blue teams are leaglly allowed to do; securty asssessment, reverse engineering, loopholes in networks, vulnerability research and so on.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_many_hats_club.webp">
 
@@ -1728,6 +1827,15 @@ Making of games, how to rasterize or real time ray tracing, the complexities beh
 [__Brackeys__](https://discord.com/invite/brackeys) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Brackeys) \
 Notable Channels: `#tutorials_and_articles`, `#unity`, `#programming`, `#mobile`, `#code_optimization`, `#shaders`, `#game_jams`, `#art`, `#audio`, `#game_design`, `#marketing`, `#collaboration` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/WoC-logo.gif"> 
+
+[__World of Coding__](https://discord.com/invite/program)  [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](https://www.reddit.com/r/code/) 
+  [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) 
+  [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://world-of-coding.tech/) 
+  [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/World-of-Coding) \
+  Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`,`#infosec`, `#linux`, `#web-dev` `#game-dev`, `#js`, `#py` \
+  Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/game_dev_league.webp">
 
