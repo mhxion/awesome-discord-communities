@@ -1651,6 +1651,12 @@ Language: English
 Notable Channels: `#general`, `#ideas-and-feedback`, `#content`, `#help` \
 Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano, português, 日 本語, français, español, Türkçe, Nederlands, русский, हिन्दी, বাংলা, Czech, bahasa Indonesia, Pilipino
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/4C.webp"/>
+
+[__4C__](https://discord.gg/4ccommunity) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.4c.rocks/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/FrancescoXX/4c-site) \
+Notable Channels: `#free-web3-project`, `#discuss-ur-projects`, `#created-content`, `#github`, `#articles-posts`, `#spaces-lounge`, `#website` \
+Language: English
+
 ### Currencies
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cardano_community.webp">
