@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "awesome-discord"
+version = "1.5"
+description = ""
+authors = ["Mahadi Xion <mhxions@gmail.com>"]
+license = "CC-BY-4.0"
+readme = "README.md"
+packages = [{ include = "awesome_discord" }]
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+certifi = ">=2020.12.5"
+chardet = ">=4.0.0"
+idna = ">=2.10"
+pillow = ">=8.1.0"
+requests = ">=2.25.1"
+urllib3 = ">=1.26.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
