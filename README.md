@@ -2029,13 +2029,6 @@ Notable Channels: `#q-and-a`, `#need-help`, `#general`, `#dev-talk`, `#dev-docs`
 Language: English \
 <br>
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_dataisbeautiful.webp">
-
-[__r/DataIsBeautiful__](https://discord.com/invite/NRnrWE7) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/dataisbeautiful/) \
-Notable Channels: `#dataviz`, `#datascience`, `#looking-for-help` \
-Language: English \
-<br>
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_data_share.webp">
 
 [__The Data Share__](https://discord.com/invite/eaPVRW3) \
