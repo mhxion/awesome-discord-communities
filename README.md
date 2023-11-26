@@ -2001,12 +2001,6 @@ Data manupulation and visualization, machine learning frameworks and artificial 
 Notable Channels: `#quick-questions`, `#machine-learning-projects`, `#resources`, `#math-questions`, `#programming-questions`, `#andrew-ng-coursera-machine-learning` \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/artificial_intelligence.webp">
-
-[__Artificial Intelligence__](https://discord.com/invite/CbVJYtz) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://discordnetwork.com/) \
-Notable Channels: `#questions`, `#machine-learning`, `#deep-learning`, `#reinforcement-learning`, `#natural-language-processing`, `#systems-neuroscience`, `#computer-vision`, __[`so much more`](badges.md#so-much-more)__ \
-Language: English
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/sentdex.webp">
 
 [__Sentdex__](https://discord.com/invite/sentdex) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/user/sentdex) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Sentdex) \
