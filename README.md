@@ -733,9 +733,9 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/delphi_community.webp">
 
-[__Delphi Community__](https://discord.com/invite/K6XHBSh) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://delphi-community.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Delphi-Community/Delphi-Community-Page) \
-Notable Channels: `#programming`, `#cpp-builder`, `#user-interface`, `#network`, `#database`, `#homework`, `#user-projects`, `#job-exchange` \
-Language: English
+[__Delphi Community__](https://discord.com/invite/c382VBk) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://delphi-community.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Delphi-Community/Delphi-Community-Page) \
+Notable Channels: `#general-chat`, `#programming`, `#user-interface`, `#network`, `#database`, `#homework`, `#user-projects`, `#job-exchange` \
+Language: English, Deutsch, Pусский, Afrikaans, Português, Español, Français
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/delphi_programmers.webp">
 
