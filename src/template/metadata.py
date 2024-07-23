@@ -4,7 +4,7 @@ from urllib3.util.retry import Retry
 
 
 class DiscordCommunityMetadata:
-    def __init__(self, invite_code: str, api_version: int = 8, protocol: str = 'https', sleep: int = 1):
+    def __init__(self, invite_code: str, api_version: int = 10, protocol: str = 'https', sleep: int = 1):
         self.invite_code = invite_code
         self.sleep = sleep
         self.api_version = api_version
