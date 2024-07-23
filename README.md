@@ -473,11 +473,6 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/smartwatch.webp">
 
-[__Smartwatch__](https://discord.com/invite/nPEHdsyjDg) \
-Notable Channels: `#general`, `#support`, `#purchase-advice`, `#showcase`, `#activity`, `#smartwatch-by-brands` \
-Language: English \
-<br>
-
 ### Keyboards
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/qmk.webp">
