@@ -278,7 +278,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/electrical_engineering.webp">
 
-[__Electrical Engineering__](https://discord.com/invite/W8v5EK2) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/)\
+[__Electrical Engineering__](https://discord.com/invite/tUU9dPp) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/)\
 Notable Channels: `#electrical-engineering`, `#questions`, `#computer-engineering` `#electronics-engineering`, `#power-engineering`, `#signal-controls`, `#mechanical-engineering`, `#robotics` \
 Language: English
 
