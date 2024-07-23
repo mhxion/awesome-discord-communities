@@ -439,9 +439,10 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_iphone.webp" />
 
-[__r/iPhone__](https://discord.com/invite/iphone) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://iphonediscord.info) \
-Notable Channels: `#ios-beta`, `#what-should-i-buy`, `#jailbreak`, `#dev`, `#software-support`, `#hardware-support`, `#homescreen` \
+[__iPhone | iOS__](https://discord.com/invite/r5McVVhqqs) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://iphonediscord.info) \
+Notable Channels: `#apple`, `#shot-on-iphone`, `#ios-beta`, `#setup-showcase`, `#support`, `#what-should-i-buy` \
 Language: English
+<br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/r_oneplus.webp">
 
