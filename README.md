@@ -675,13 +675,6 @@ Notable Channels: `#tsc-meetings`, `#general`, `#help`, `#lookwhatimade`, `#deve
 Language: English, 日本語 \
 <br>
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/js_programming_language_community.webp">
-
-[__JS Programming Language Community__](https://discord.com/invite/Y8Mqbkk) \
-Notable Channels: `#general`, `#beginners`, `#nodejs`, `#web-dom`, `#react`, `#vue`, `#gatsby`, `#webassembly` \
-Language: English \
-<br>
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/reasonml.webp">
 
 [__ReasonML__](https://discord.com/invite/reasonml) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://reasonml.github.io/en/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/facebook/reason) \
