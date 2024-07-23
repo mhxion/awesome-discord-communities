@@ -497,7 +497,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/official_commodore_amiga.webp">
 
-[__Official Commodore Amiga__](https://discord.com/invite/TPpQv2H) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://forum.amiga.org) \
+[__Official Commodore Amiga__](https://discord.com/invite/92RmK7ZUrE) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://forum.amiga.org) \
 Notable Channels: `#general`, `#amigashell`, `#next-gen`, `#emulation-and-fpga`, `#hardware`, `#multimedia`, `#coding`, `#accessory-port` \
 Language: English
 
