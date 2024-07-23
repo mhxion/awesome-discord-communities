@@ -16,7 +16,9 @@ class CheckInvalid:
         self.invalidated = Path(invalidated)
 
     def parse_links(self):
-        invite_pattern = re.compile(r"\[__(.+?)__]\(https?://(discord)\.(com|gg)(/invite)?/(.+?)\)")
+        invite_pattern = re.compile(
+            r"\[__(.+?)__]\(https?://(discord)\.(com|gg)(/invite)?/(.+?)\)"
+        )
         invite_codes = {}
         with open(self.load, encoding="utf-8", mode="r") as readme:
             for _ in readme:

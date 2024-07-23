@@ -1,14 +1,16 @@
 import json
 from pathlib import Path
+from typing import Union
+
 from . import metadata
 
 
 class DumpMetadata:
-    def __init__(self, path: str):
+    def __init__(self, path: Union[str, Path]):
         self.path = Path(path)
 
     def user(self) -> dict:
-        with open(self.path, encoding='utf-8', mode="r") as f:
+        with open(self.path, encoding="utf-8", mode="r") as f:
             u = json.load(f)
         return u
 
