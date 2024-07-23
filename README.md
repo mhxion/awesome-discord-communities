@@ -112,6 +112,13 @@ Some Discord counterpart communities to Stack Overflow.
 Notable Channels: `#javascript`, `#frontend`, `#backend`, `#php`, `#mobile`, `#design`, `#devops`, `#career`, `#code-review`, `#webtopic`, `#desktopic`, `#community-projects`, `#paid-work`\
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/developer_s_keep.webp">
+
+[__Developer's Keep__](https://discord.com/invite/vG5uukx) \
+Notable Channels: `#project-showcase`, `#java-jvm`, `#python`, `#c-family`, `#javascript`, `#c-sharp`, `#hardware` \
+Language: English \
+<br>
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/engineerman.webp">
 
 [__EngineerMan__](https://discord.com/invite/engineerman) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/engineer-man) \
@@ -123,13 +130,6 @@ Language: English
 [__Garbage Collectors__](https://discord.com/invite/aJwTAgS) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/garbage-collectors-development) \
 Notable Channels: `#python exercises`, `#code feedback`, `#collaboration`, `#csharp`,`#java`, `#c and cpp`, `#web`, `#mobile`, `#security`, `#algos and ds`, `#networking`, `#resources`, `#machinelearning` \
 Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programmers_palace.webp">
-
-[__Programmers Palace__](https://discord.com/invite/48Zxcpy) \
-Notable Channels: `#recruitment-hiring`, `#java`, `#python`, `#c_langs`,`#javascript`, `#lua`, `#web-dev`, `#php`, `#other-support` \
-Language: English \
-<br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/programming.webp">
 
