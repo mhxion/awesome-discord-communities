@@ -601,7 +601,7 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cascading-style-sheets.webp">
 
-[__cascading-style-sheets__](https://discord.gg/92yyRb2) \
+[__cascading-style-sheets__](https://discord.com/invite/pFc6XmH) \
 Notable Channels: `#new-to-css`, `#intermediate-users`, `#blog-posts`, `#less`, `#sass`, `#scss`, `#native-css-feature`, `#tailwind`\
 Language: English
 
