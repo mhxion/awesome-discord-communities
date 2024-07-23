@@ -234,8 +234,8 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/climate_science.webp">
 
-[__Climate Science__](https://discord.com/invite/YXvuN8X) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) \
-Notable Channels: `#general`, `#climate-questions`, `#resources`, `#climate-activism`, `#environmental-science`, `#environmental-policy` \
+[__Climate Science__](https://discord.com/invite/QVtafau5Yp) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.discordnetwork.com/) \
+Notable Channels: `#climate-change-general`, `#resources`, `#questions-and-debates`, `#politics-activism-policy`, `#ecology-biology-sustainibility` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/homework_help.webp">
