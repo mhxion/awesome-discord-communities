@@ -272,7 +272,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/amulius___engineering____chill__.webp">
 
-[__Amulius - Engineering  & Chill__](https://discord.com/invite/5vkPupa) \
+[__Embedded Engineering - Amulius__](https://discord.com/invite/SrJEYjq) \
 Notable Channels: `#general`, `#electrical`, `#civil`, `#mechanical`, `#software`, `#chemical`, `#aerospace`, `#industrial`, `#engineering-lobby`, `#student-lobby`, `#careeer-advice`, `#projects-showcase` \
 Language: English
 
