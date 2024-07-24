@@ -2013,8 +2013,8 @@ Discussions on interview challenges, resume reviews, job opportunities in the fi
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cs_career_hackers.webp">
 
-[__CS Career Hackers__](https://discord.com/invite/rGwhXJv) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cscareerhackers.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/CS-Career-Hackers) \
-Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#career-questions`, `#ask-a-manager`, `#students`, `#meetups`, `#programming-challenges` \
+[__CS Career Hub__](https://discord.com/invite/cscareerhub) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://cscareerhub.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/cscareerhub) \
+Notable Channels: `#big-n-discussion`, `#job-search-blogs`, `#career-questions`, `#resume-review`, `#experienced`, `#students`, `#communication`, `#hiring`, `#for-hire`, `#devops`, `#programming-challenges` \
 Language: English
 
 ## Discord Development
