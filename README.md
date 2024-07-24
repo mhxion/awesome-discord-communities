@@ -1168,11 +1168,6 @@ Language: English \
 
 All about design systems, graphical illustrations, user interface and user experience.
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/adobe_systems_community.webp">
-
-[__Adobe Systems Community__](https://discord.gg/Aak7YGU) \
-Notable Channels: `#work-in-progress-critique`, `#photoshop`, `#premiere-pro`, `#after-effects`, `#illustrator`, `#animate`, `#indesign`, `#xd`, `#lightroom`, `#other-programs` \
-Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/lospec.webp">
 
