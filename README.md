@@ -1572,7 +1572,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/the_cyber_mentor.webp">
 
-[__The Cyber Mentor__](https://discord.com/invite/Nu59kq5) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.twitch.tv/thecybermentor) \
+[__The Cyber Mentor__](https://discord.com/invite/tcm) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.twitch.tv/thecybermentor) \
 Notable Channels: `#web-app-course`, `#zero-to-hero`, `#red-teaming`, `#reverse-engineering`, `#linux`, `#web-apps`, `#htb`, `#tryhackme`, `#forensics`, `#job-postings` \
 Language: English
 
