@@ -1884,7 +1884,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/rpcs3.webp">
 
-[__RPCS3__](https://discord.com/invite/a6zm2T8) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://rpcs3.net/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/rpcs3) \
+[__RPCS3__](https://discord.com/invite/Af7H9yp) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://rpcs3.net/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/rpcs3) \
 Notable Channels: `#rpcs3`, `#help`, `#development`, `#media` \
 Language: English \
 <br>
