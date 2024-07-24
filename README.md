@@ -1967,7 +1967,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/artificial_intelligence.webp">
 
-[__Artificial Intelligence__](https://discord.com/invite/CbVJYtz) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://discordnetwork.com/) \
+[__Artificial Intelligence__](https://discord.com/invite/ZX45ZdK) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://discordnetwork.com/) \
 Notable Channels: `#questions`, `#machine-learning`, `#deep-learning`, `#reinforcement-learning`, `#natural-language-processing`, `#systems-neuroscience`, `#computer-vision`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
