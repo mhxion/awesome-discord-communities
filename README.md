@@ -1284,8 +1284,8 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hackintosh_x86.webp">
 
-[__Hackintosh x86 & Tech__](https://discord.com/invite/qc89CQkX7j) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](http://www.hackintoshx86.co.uk/) \
-Notable Channels: `#app-fixes`, `#hackintosh-help`, `#benchmarks-and-desks`, `#hack-art`, `#linux`, `#useful-files`, `#coding`, `#efi-database` \
+[__Hackintosh x86__](https://discord.com/invite/hackintosh-x86-447936233084026890) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](http://www.hackintoshx86.co.uk/) \
+Notable Channels: `#support-1`, `#vm-kvm-support`, `#apple-silicon-macs`, `#apple-pre-silicon`, `#starlink-general-info` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/shortcuts.webp">
