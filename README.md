@@ -776,8 +776,8 @@ Language: English, русский \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ruby.webp">
 
-[__Ruby__](https://discord.com/invite/KbDHDez) \
-Notable Channels: `#beginners-chat`, `#project-ideas`, `#help`, `#devops`, `#code-review`, `#frontend`, `#backend`, `#rails`, `#sinatra`\
+[__Ruby__](https://discord.com/invite/ruby-518658712081268738) \
+Notable Channels: `#general`, `#ruby-steep`, `#ruby-help`, `#rails-help`, `#challenges`, `#ruby-arcana`, `#hiring`, `#seeking` \
 Language: English
 
 ### Rust
