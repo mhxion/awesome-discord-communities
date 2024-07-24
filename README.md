@@ -1124,7 +1124,7 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/doom_emacs.webp">
 
-[__Doom Emacs__](https://discord.com/invite/qvGgnVx) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/hlissner/doom-emacs) \
+[__Doom Emacs__](https://discord.com/invite/v5rdp3kdDu) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/hlissner/doom-emacs) \
 Notable Channels: `#troubleshooting`, `#how-do-i`, `#cli`, `#emacs-lisp`, `#protips`, `#project`, `#org-mode`, `#latex`, `#keyboards`, `#themes`, `#operating-systems`, `#hardware`, `#programming` \
 Language: English
 
