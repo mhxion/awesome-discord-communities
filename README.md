@@ -1522,10 +1522,9 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pi_hole.webp">
 
-[__Pi-Hole__](https://discord.gg/VzThBmB) \
-Notable Channels: `#general`, `#tech`, `#share-your-setup`, `#pi-hole-setup`, `#other-support` \
+[__Pi-hole & AdGuard__](https://discord.com/invite/DGscCVPRme) \
+Notable Channels: `#blocklist-discussion`, `#gaming`, `#programming`, `#adguard-discussion`, `#adguard-support`, `#pihole-discussion`, `#pihole-support`, `#browser-adblocking`, `#mobile-adblocking`, `dns-sinkholes` \
 Language: English \
-<br>
 
 ## Computer Security
 
