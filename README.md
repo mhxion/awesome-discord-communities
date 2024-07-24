@@ -1319,7 +1319,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_cafe.webp">
 
-[__Linux Café__](https://discord.com/invite/9pfb5ZB) [<img height="16px" width="16px" alt="Reddit" src="images/badges/reddit.webp">](https://reddit.com/r/linuxcafe) [<img height="16px" width="16px" alt="CodeBerg Repository" src="images/badges/git.webp">](https://codeberg.org/LinuxCafeFederation) \
+[__Linux Café__](https://discord.com/invite/zDpGd6A) [<img height="16px" width="16px" alt="Reddit" src="images/badges/reddit.webp">](https://reddit.com/r/linuxcafe) [<img height="16px" width="16px" alt="CodeBerg Repository" src="images/badges/git.webp">](https://codeberg.org/LinuxCafeFederation) \
 Notable Channels: `#tips-and-links`, `#news`, `#tech`, `#de-and-customization`, `#programming`, `#linux-support`, `#support-other` \
 Language: English
 
