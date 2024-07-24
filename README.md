@@ -471,8 +471,6 @@ Language: English
 Notable Channels: `#pebble`, `#rebble-help`, `#app-dev`, `#rockyjs`, `#smartstraps`, `#rebble-grants`, `#firmware`, `#hardware`, `#mobile-apps`, `#appstore`, `#web-services`, `#bipdev` \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/smartwatch.webp">
-
 ### Keyboards
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/qmk.webp">
