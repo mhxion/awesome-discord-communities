@@ -1,6 +1,7 @@
 import json
 import re
 from pathlib import Path
+
 from . import metadata
 
 
@@ -15,7 +16,9 @@ class CheckInvalid:
         self.invalidated = Path(invalidated)
 
     def parse_links(self):
-        invite_pattern = re.compile(r"\[__(.+?)__]\(https?://(discord)\.(com|gg)(/invite)?/(.+?)\)")
+        invite_pattern = re.compile(
+            r"\[__(.+?)__]\(https?://(discord)\.(com|gg)(/invite)?/(.+?)\)"
+        )
         invite_codes = {}
         with open(self.load, encoding="utf-8", mode="r") as readme:
             for _ in readme:
@@ -35,6 +38,7 @@ class CheckInvalid:
                 r = metadata.DiscordCommunityMetadata(invite_code=k, sleep=sleep)
                 if not r.parse_data():
                     invalid_codes[k] = invites[k]
+                print(f"☑️Checked server: '{invites[k]}'")
 
         with open(self.invalidated, encoding="utf-8", newline="\n", mode="w+") as i:
             json.dump(invalid_codes, i, indent=4, ensure_ascii=False)
