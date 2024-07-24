@@ -1593,7 +1593,7 @@ Language: English, русский \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/pince.webp">
 
-[__PINCE__](https://discord.com/invite/KCNDp9m) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/korcankaraokcu/PINCE) \
+[__PINCE__](https://discord.com/invite/jVt3BzTSpz) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/korcankaraokcu/PINCE) \
 Notable Channels: `#general`, `#issues` \
 Language: English \
 <br>
