@@ -1449,8 +1449,8 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/grakn_labs.webp">
 
-[__Grakn__](https://discord.com/invite/grakn) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://grakn.ai/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/graknlabs) \
-Notable Channels: `#general`, `#graql`, `#grakn`, `#grabl`, `#build`, `#buildbuddy`, `#troubleshoot`, `#workbase`, `#biograkn`, `#kglib`, `#nlp`, `#ideas`, `#events` \
+[__TypeDB__](https://discord.com/invite/typedb) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://typedb.com//) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/vaticle) \
+Notable Channels: `#questions`, `#cloud`, `#schema`, `#query`, `#inference`, `#studio`, `#troubleshooting`, `#drivers`, `#factoryci`, `#build`, `#engineering`, `#reasoner`, `#docs` \
 Language: English
 
 ### API
