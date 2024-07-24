@@ -2019,9 +2019,11 @@ Language: English
 
 [<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
 
-All the utilities needed in your tool bag to build a Discord bot or automation through their APIs. However, this list
-is quite long and diverse that it calls for its own awesome list. You can read this [official wiki](https://www.reddit.com/r/discordapp/wiki/developers)
-about the notable development kit.
+Tools and libraries needed in your toolbelt to build a Discord bot or automation script through Discord APIs. The list
+for that itself is quite long and diverse that it calls for its own awesome list. This unaffiliated [compilation of
+Discord API libraries](https://libs.advaith.io/) (with comparisons) would be a great start to look for the right tool
+for your Discord project. There is also an [official wiki](https://www.reddit.com/r/discordapp/wiki/developers) (though
+maybe not frequently maintained) that lists similar tools with links to respective Discord servers.
 
 ## Attribution
 
