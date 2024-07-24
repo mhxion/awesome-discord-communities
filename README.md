@@ -1626,7 +1626,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cardano_community.webp">
 
-[__Cardano Community__](https://discord.com/invite/TUr9RDU) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cardano.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/input-output-hk/cardano-sl) \
+[__Cardano Community__](https://discord.com/invite/TBQJZvZNey) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cardano.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/input-output-hk/cardano-sl) \
 Notable Channels: `#general`, `#learning`, `#trading`, `#yoroi-general`, `#yoroi-support`, `#daedalus-general`, `#daedalus-support`, `#dev-general`, `#cip` \
 Language: English, 日本語, 中文, 한국어, Deutsch, Nedarlands, português, español, Czech
 
