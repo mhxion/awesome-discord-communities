@@ -1363,7 +1363,7 @@ Language: English, 日本語 \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_mint_community.webp">
 
-[__Linux Mint Community__](https://discord.com/invite/EVVtPpw) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/UtopicUnicorns/artemis) \
+[__Linux Mint Community__](https://discord.com/invite/mint) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/UtopicUnicorns/artemis) \
 Notable Channels: `#support-mint`, `#support-lmde`, `#support-other-os`, `#support-nos`, `#general`, `#tech-talk`, `#user-created-content` \
 Language: English
 
