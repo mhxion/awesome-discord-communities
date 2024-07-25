@@ -747,7 +747,7 @@ Language: English
 
 [__Unofficial Free Pascal__](https://discord.gg/invite/mKPCyJ8) \
 Notable Channels: `#general`, `#support-free-pascal`, `#support-lazarus`, `#support-delphi`, `#support-misc`, `#projects`, `#resources` \
-Language: English, Portuguese, Spanish, Russian
+Language: English
 
 ### PHP
 
