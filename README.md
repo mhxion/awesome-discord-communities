@@ -42,6 +42,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [JavaScript](#javascript)
   - [Lisp](#lisp)
   - [Lua](#lua)
+  - [Pascal](#pascal)
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -708,6 +709,26 @@ Language: English \
 Notable Channels: `#general`, `#lua`, `#luvit`, `#luvi`, `#luv`, `#lit` \
 Language: English \
 <br>
+
+### Pascal
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/delphi_community.webp">
+
+[__Delphi Community__](https://discord.com/invite/c382VBk) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://delphi-community.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Delphi-Community/Delphi-Community-Page) \
+Notable Channels: `#general-chat`, `#programming`, `#user-interface`, `#network`, `#database`, `#homework`, `#user-projects`, `#job-exchange` \
+Language: English, Deutsch, Pусский, Afrikaans, Português, Español, Français
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/delphi_programmers.webp">
+
+[__Delphi Programmers__](https://discord.gg/invite/ZhtCdRzqQ4) \
+Notable Channels: `#general`, `#general-rad-studio`, `#rtl`, `#ide-tooling`, `#vcl`, `#fmx`, `#crossvcl`, `#general-web`, `#datasnap`, `#radserver`, `#tmswebcore`, `#skia4delphi` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/free_pascal.webp">
+
+[__Unofficial Free Pascal__](https://discord.gg/invite/mKPCyJ8) \
+Notable Channels: `#general`, `#support-free-pascal`, `#support-lazarus`, `#support-delphi`, `#support-misc`, `#projects`, `#resources` \
+Language: English
 
 ### PHP
 
