@@ -1821,7 +1821,7 @@ Language: English, عربي, español, polski
 Notable Channels: `#general-unity`, `#game-jams`, `#completed-projects`, `#unitytips`, `#general-code`, `#editor-extensions`, `#dots`, `#shaders`, `#mobile`, `#machine-learning`, __[`so much more`](badges.md#so-much-more)__ \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ORX_community.webp">
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/orx_community.webp">
 
 [__ORX Engine Community__](https://discord.com/invite/aC84aJJ) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://orx-project.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/orx) \
 Notable Channels: `#general`, `#support`, `#learning`, `#orx`, `#projects`, `#wiki`, `#live` \
