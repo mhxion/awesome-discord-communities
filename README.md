@@ -731,6 +731,13 @@ Language: English \
 Notable Channels: `#general`, `#cashier`, `#envoyer`, `#forge`, `#help`, `#homestead`, `#horizon`, `#hype`, `#internals`, `#lumen`, `#meetups`, `#nova`, `#passport`, `#jobs`\
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/php_community.webp">
+
+[__PHP Community Chat__](https://discord.gg/nh9QV3u39U) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://phpcommunity.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/phpcommunity) \
+Notable Channels: `#phpc`, `#php-internals`, `#php-doc`, `#php-internals`, `#phpc-foundation`\
+Language: English \
+<br>
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tenancy.webp">
 
 [__Tenancy__](https://discord.com/invite/4amsQJ7) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://tenancy.dev/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/tenancy) \
