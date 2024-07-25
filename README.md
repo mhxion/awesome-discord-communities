@@ -730,13 +730,6 @@ Language: English \
 
 ### PHP
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/php_community.webp">
-
-[__PHP Community Chat__](https://discord.gg/nh9QV3u39U) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://phpcommunity.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/phpcommunity) \
-Notable Channels: `#phpc`, `#php-internals`\
-Language: English \
-<br>
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/flarum.webp">
 
 [__Flarum__](https://discord.com/invite/3fnPSjA) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://flarum.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/flarum) \
@@ -756,6 +749,13 @@ Language: English \
 [__Laravel__](https://discord.com/invite/mPZNm7A) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://laravel.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/laravel) \
 Notable Channels: `#general`, `#cashier`, `#envoyer`, `#forge`, `#help`, `#homestead`, `#horizon`, `#hype`, `#internals`, `#lumen`, `#meetups`, `#nova`, `#passport`, `#jobs`\
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/php_community.webp">
+
+[__PHP Community Chat__](https://discord.gg/nh9QV3u39U) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://phpcommunity.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/phpcommunity) \
+Notable Channels: `#phpc`, `#php-internals`, `#php-doc`, `#php-internals`, `#phpc-foundation`\
+Language: English \
+<br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/tenancy.webp">
 
