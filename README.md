@@ -183,6 +183,12 @@ Language: English
 Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#ioi`,`#icpc`, `#math`, `#errichto-yt`, `#vplanet` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/codingclubLogo.webp">
+
+[__IIT Guwahati coding club__](https://discord.gg/9tSS6PEBpc) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.iitg.ac.in/stud/gymkhana/technical/home/CodingHome.html)  
+Notable Channels: `#friendly`, `#24/7 questions`, `#great community`, `#3500+`,`#good support`, `#iitguwahati`, `#competitive`, `#ds and algo` \
+Language: English
+
 ## Art of Computer Science
 
 [<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
@@ -2048,6 +2054,12 @@ Discussions on interview challenges, resume reviews, job opportunities in the fi
 
 [__CS Career Hub__](https://discord.com/invite/cscareerhub) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://cscareerhub.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/cscareerhub) \
 Notable Channels: `#big-n-discussion`, `#job-search-blogs`, `#career-questions`, `#resume-review`, `#experienced`, `#students`, `#communication`, `#hiring`, `#for-hire`, `#devops`, `#programming-challenges` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://avatars.githubusercontent.com/u/64162180?s=200&v=4">
+
+[__CS Careers.Dev__](https://discord.com/invite/cscareers) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.cscareerhackers.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/CS-Career-Hackers) \
+Notable Channels: `#summer-internships`, `#experience`, `#resume-review`, `#career-opportunities`, `#community`, `#students`, `#meetups`, `#tech-challenges` \
 Language: English
 
 ## Discord Development
