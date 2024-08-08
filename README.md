@@ -186,7 +186,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/roalgo.webp">
 
 [__RoAlgo__](https://discord.com/invite/roalgo) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/roalgo-discord) \
-Notable Channels: `#general`, `#general-avansati`, `#general-english`, `#resurse`, `#concursuri`, `#potd-problems`, `#ajutor`, `#cf-atcoder` \
+Notable Channels: `#general`, `#general-avansati`, `#resurse`, `#concursuri`, `#potd-problems`, `#ajutor`, `#cf-atcoder` \
 Language: Romanian, English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/kilonova.webp">
