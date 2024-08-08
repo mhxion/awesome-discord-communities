@@ -183,17 +183,17 @@ Language: English
 Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#ioi`,`#icpc`, `#math`, `#errichto-yt`, `#vplanet` \
 Language: English
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/roalgo.webp">
-
-[__RoAlgo__](https://discord.com/invite/roalgo) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/roalgo-discord) \
-Notable Channels: `#general`, `#general-avansati`, `#resurse`, `#concursuri`, `#potd-problems`, `#ajutor`, `#cf-atcoder` \
-Language: Romanian, English
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/kilonova.webp">
 
 [__Kilonova__](https://discord.com/invite/Qa6Ytgh) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://kilonova.ro/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/KiloProjects/Kilonova) \
 Notable Channels: `#general`, `#platform-errors`, `#platform-bugs`, `#suggestions`, `#support`, `#solution-discussions` \
 Language: Romanian
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/roalgo.webp">
+
+[__RoAlgo__](https://discord.com/invite/roalgo) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/roalgo-discord) \
+Notable Channels: `#general`, `#general-avansati`, `#resurse`, `#concursuri`, `#potd-problems`, `#ajutor`, `#cf-atcoder` \
+Language: Romanian, English
 
 ## Art of Computer Science
 
