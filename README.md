@@ -667,7 +667,7 @@ Language: English \
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/together_java.webp">
 
 [__Together Java__](https://discord.gg/hVtnwGd) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/Together-Java) \
-Notable Channels: `#geek-speak`, `#java-help`, `#android-help`, `#framework-help`, `#c_cpp_help`, `#algorithms_help`, `#architecture-help`, `#code_review`, `#ui_ux_help`\
+Notable Channels: `#geek_speak`, `#help_x`, `#android_help`, `#frameworks_help_x`, `#c_cpp_help`, `#math_help`, `#regex_help`, `#web_help`, `#ide_help`, `#buildtools_help`, `#database_help`, `javafx_swing_help_x`, `#algorithms_help`, `#architecture_help`, `#code_review`, `#bot_announcements`, `#pets` \
 Language: English
 
 ### JavaScript
