@@ -647,6 +647,14 @@ Language: English \
 Notable Channels: `#golang`, `#job-market-only`, `#go-art-only`, `#go-news-only`, `#discordgo`, `#disgord`, `#dca`, `#arikawa`\
 Language: English
 
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/sangam14/GopherLabs/master/ic_launcher.png" />
+
+[__Discord GopherLabs__](https://discord.gg/S3GtFvT) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/sangam14/GopherLabs)\
+Notable Channels: `#golang`, `#go-weekly`,  `#podcast-go`,`#go-challanges`, `#blogs`, `#gitgo`, `#concurrency`, `#rank`, `#jobs`\
+Language: English
+
+
 ### Haxe
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/haxe.webp">
