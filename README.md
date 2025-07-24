@@ -1520,6 +1520,14 @@ Language: English \
 Notable Channels: `#graphql-engine`, `#new-to-graphql`, `#contrib`, `#look-what-i-built`, `#preview`, `#3factor-apps`, `#deployment-help` \
 Language: English
 
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/manifest.webp">
+
+[__Manifest__](https://discord.com/invite/FepAked3W7) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://manifest.build/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/mnfst) \
+Notable Channels: `#support`, `#questions`, `#showcase`, `#feedback` \
+Language: English
+
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/spaceuptech.webp">
 
 [__SpaceUpTech__](https://discord.com/invite/RkGjW93) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://spaceuptech.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/spaceuptech) \
