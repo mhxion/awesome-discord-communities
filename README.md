@@ -1383,6 +1383,13 @@ Notable Channels: `#showcase`, `#ricing-theming`, `#tools`, `#wallpapers`, `#tec
 Language: English \
 <br>
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_audio.webp">
+
+[__Linux Audio__](https://discord.com/invite/TNNds5BWe6) \
+Notable Channels: `#demo-feedback`, `#music-promotion`, `#audio-plugin-discussion`, `#daw-discussion`, `#sound-design-discussion`, `#linux-audio-setup`, `#troubleshooting` \
+Language: English \
+<br>
+
 ### Linux Distributions
 
 [Gaming on Linux↴](#gaming-on-linux)
