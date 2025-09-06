@@ -1385,7 +1385,7 @@ Language: English \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_audio.webp">
 
-[__Linux Audio__](https://discord.com/invite/TNNds5BWe6) \
+[__Linux Audio__](https://discord.com/invite/TNNds5BWe6) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/linuxaudio/) \
 Notable Channels: `#demo-feedback`, `#music-promotion`, `#audio-plugin-discussion`, `#daw-discussion`, `#sound-design-discussion`, `#linux-audio-setup`, `#troubleshooting` \
 Language: English \
 <br>
