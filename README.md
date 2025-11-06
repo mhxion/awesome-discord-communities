@@ -630,6 +630,14 @@ Language: English
 Notable Channels: `#help`, `#tailwind-css`, `#core-dev`, `#plugins`, `#docs`, `#tailwind-ui`, `#design`, `#development`, `#showcase` \
 Language: English
 
+### Cooklang
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cooklang.webp">
+
+[__Cooklang__](https://discord.gg/fUVVvUzEEK) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://cooklang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/cooklang) \
+Notable Channels: `#general`, `#recipes`, `#dev`, `#showcase` \
+Language: English
+
 ### Elixir
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/elixir_language.webp">
