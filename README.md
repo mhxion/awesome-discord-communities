@@ -635,7 +635,7 @@ Language: English
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cooklang.webp">
 
 [__Cooklang__](https://discord.gg/fUVVvUzEEK) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://cooklang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/cooklang) \
-Notable Channels: `#general`, `#recipes`, `#dev`, `#showcase` \
+Notable Channels: `#for-cooks`, `#sharing-recipes`, `#for-coders-general`, `#markup-discussion`, `#showcase`, `#cooklang-rs`, `#cooklang-ts` \
 Language: English
 
 ### Elixir
