@@ -1363,6 +1363,13 @@ Language: English \
 Notable Channels: `#tech`, `#customization`, `#programming`, `#support-linux`, `#support-distro-installs`, `#support-games`, `#support-discord`, `#support-non-linux` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_audio.webp">
+
+[__Linux Audio__](https://discord.com/invite/TNNds5BWe6) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/linuxaudio/) \
+Notable Channels: `#demo-feedback`, `#music-promotion`, `#audio-plugin-discussion`, `#daw-discussion`, `#sound-design-discussion`, `#linux-audio-setup`, `#troubleshooting` \
+Language: English \
+<br>
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_cafe.webp">
 
 [__Linux Café__](https://discord.com/invite/YY4zrNR) [<img height="16px" width="16px" alt="Reddit" src="images/badges/reddit.webp">](https://reddit.com/r/linuxcafe) [<img height="16px" width="16px" alt="CodeBerg Repository" src="images/badges/git.webp">](https://codeberg.org/LinuxCafeFederation) \
@@ -1380,13 +1387,6 @@ Language: English \
 
 [__r/unixporn__](https://discord.com/invite/TnJ4h5K) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/unixporn/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/unixporn) \
 Notable Channels: `#showcase`, `#ricing-theming`, `#tools`, `#wallpapers`, `#tech-support`, `#programming`, `#hardware` \
-Language: English \
-<br>
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/linux_audio.webp">
-
-[__Linux Audio__](https://discord.com/invite/TNNds5BWe6) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://www.reddit.com/r/linuxaudio/) \
-Notable Channels: `#demo-feedback`, `#music-promotion`, `#audio-plugin-discussion`, `#daw-discussion`, `#sound-design-discussion`, `#linux-audio-setup`, `#troubleshooting` \
 Language: English \
 <br>
 
