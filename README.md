@@ -35,6 +35,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [C#](#c)
   - [Clojure](#clojure)
   - [CSS](#css)
+  - [Cooklang](#cooklang)
   - [Elixir](#elixir)
   - [Go](#go)
   - [Haxe](#haxe)
@@ -637,6 +638,7 @@ Language: English
 [__Cooklang__](https://discord.gg/fUVVvUzEEK) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://cooklang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/cooklang) \
 Notable Channels: `#for-cooks`, `#sharing-recipes`, `#for-coders-general`, `#markup-discussion`, `#showcase`, `#cooklang-rs`, `#cooklang-ts` \
 Language: English
+<br>
 
 ### Elixir
 
