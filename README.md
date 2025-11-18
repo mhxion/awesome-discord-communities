@@ -35,6 +35,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
   - [C#](#c)
   - [Clojure](#clojure)
   - [CSS](#css)
+  - [Cooklang](#cooklang)
   - [Elixir](#elixir)
   - [Go](#go)
   - [Haxe](#haxe)
@@ -629,6 +630,15 @@ Language: English
 [__Tailwind CSS__](https://discord.com/invite/7NF8GNe) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://tailwindcss.com/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/tailwindcss) \
 Notable Channels: `#help`, `#tailwind-css`, `#core-dev`, `#plugins`, `#docs`, `#tailwind-ui`, `#design`, `#development`, `#showcase` \
 Language: English
+
+### Cooklang
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/cooklang.webp">
+
+[__Cooklang__](https://discord.gg/fUVVvUzEEK) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://cooklang.org/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/cooklang) \
+Notable Channels: `#for-cooks`, `#sharing-recipes`, `#for-coders-general`, `#markup-discussion`, `#showcase`, `#cooklang-rs`, `#cooklang-ts` \
+Language: English
+<br>
 
 ### Elixir
 
