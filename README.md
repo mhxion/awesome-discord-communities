@@ -2075,6 +2075,10 @@ Language: English \
 Notable Channels: `#machine-learning`, `#natural-language-processing`, `#analytics`, `#programming`, `#data-engineering`, `#visualizations`, `#community` \
 Language: English
 
+### AI Tools & Platforms
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
+
 ## Career
 
 [<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
