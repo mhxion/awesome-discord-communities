@@ -328,7 +328,8 @@ Language: English
 
 [__Raspberry Pie__](https://discord.gg/xHP4a7f) \
 Notable Channels: `#projects-chat`, `#get-help`, `#faq`,`#project-showcase`, `#uwu` \
-Language: English
+Language: English \
+<br>
 
 ### DIY
 
