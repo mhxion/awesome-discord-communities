@@ -2096,7 +2096,8 @@ Tools and libraries needed in your toolbelt to build a Discord bot or automation
 for that itself is quite long and diverse that it calls for its own awesome list. This unaffiliated [compilation of
 Discord API libraries](https://libs.advaith.io/) (with comparisons) would be a great start to look for the right tool
 for your Discord project. There is also an [official wiki](https://www.reddit.com/r/discordapp/wiki/developers) (though
-maybe not frequently maintained) that lists similar tools with links to respective Discord servers.
+maybe not frequently maintained) that lists similar tools with links to respective Discord servers.- 
+[DiscTimestamps](https://disctimestamps.com) - A privacy-first, offline-capable timestamp generator.
 
 ## Attribution
 
