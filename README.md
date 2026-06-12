@@ -1752,6 +1752,12 @@ Language: English
 Notable Channels: `#help`, `#aviation-chat`, `#hardware-chat`, `#a32nx-chat`, `#a380x-chat`, `#dev-support`, `#atsu-api`, `#lighting`, `#modeling`, `#sound`, `#your-controls` \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/hoggit.webp">
+
+[__Hoggit__](https://discord.gg/hoggit) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://hoggitworld.com/) \
+Notable Channels: `#dcs-scripting`, `#mission-making`, `#dcs-bios`, `#server-admin`, `#modding`, `#lua` \
+Language: English
+
 ## Game Development
 
 [<img align="right" width="16" height="16" src="images/up_arrow.png" alt="Back to top">](#contents)
